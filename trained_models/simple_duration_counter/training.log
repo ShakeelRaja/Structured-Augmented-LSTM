@@ -1,0 +1,1945 @@
+18 runs detected
+Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.07660045136, Valid Loss: 2.12510617105, Average Time Per Epoch: 76.3243641853
+Epoch: 2, Train Loss: 1.98237486685, Valid Loss: 2.01713487561, Average Time Per Epoch: 57.5759071112
+Epoch: 3, Train Loss: 1.86692532545, Valid Loss: 1.64886837494, Average Time Per Epoch: 50.6406354109
+Epoch: 4, Train Loss: 1.73445336507, Valid Loss: 1.493438287, Average Time Per Epoch: 46.3520032763
+Epoch: 5, Train Loss: 1.61029111777, Valid Loss: 1.2273103373, Average Time Per Epoch: 43.624216032
+Epoch: 6, Train Loss: 1.45980849564, Valid Loss: 1.10999222446, Average Time Per Epoch: 41.6811505159
+Epoch: 7, Train Loss: 1.3713123795, Valid Loss: 1.00508516104, Average Time Per Epoch: 40.2176423073
+Epoch: 8, Train Loss: 1.33427387659, Valid Loss: 0.988809176721, Average Time Per Epoch: 39.1052000225
+Epoch: 9, Train Loss: 1.24248256646, Valid Loss: 0.961180510206, Average Time Per Epoch: 38.2504653401
+Epoch: 10, Train Loss: 1.15874534771, Valid Loss: 0.80042361068, Average Time Per Epoch: 37.5463360071
+Epoch: 11, Train Loss: 1.14130710055, Valid Loss: 0.831605091415, Average Time Per Epoch: 36.9582090161
+Valid loss increased for the first time, will start saving models
+Epoch: 12, Train Loss: 1.05624536936, Valid Loss: 0.827326612444, Average Time Per Epoch: 37.3271093369
+Epoch: 13, Train Loss: 1.02587109408, Valid Loss: 0.756270571051, Average Time Per Epoch: 36.8331061693
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.03542607203, Valid Loss: 0.773424132589, Average Time Per Epoch: 37.0267333644
+Epoch: 15, Train Loss: 0.96905192489, Valid Loss: 0.834841450349, Average Time Per Epoch: 36.6312589486
+Epoch: 16, Train Loss: 0.954362858222, Valid Loss: 0.727473866615, Average Time Per Epoch: 36.269035697
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 0.958369941332, Valid Loss: 0.713934031281, Average Time Per Epoch: 36.5466693009
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 0.899525750158, Valid Loss: 0.677338618876, Average Time Per Epoch: 36.7121962309
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 0.898072996228, Valid Loss: 0.628906850591, Average Time Per Epoch: 36.8896975894
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 0.86414688724, Valid Loss: 0.766908334256, Average Time Per Epoch: 37.0500562072
+Epoch: 21, Train Loss: 0.881178618121, Valid Loss: 0.788594304284, Average Time Per Epoch: 36.7696386746
+Epoch: 22, Train Loss: 0.836837297678, Valid Loss: 0.706720842626, Average Time Per Epoch: 36.4769192826
+Epoch: 23, Train Loss: 0.818830887838, Valid Loss: 0.656823106228, Average Time Per Epoch: 36.2119963998
+Epoch: 24, Train Loss: 0.816126416251, Valid Loss: 0.637581113978, Average Time Per Epoch: 35.9701690873
+Epoch: 25, Train Loss: 0.846294176274, Valid Loss: 0.675239043118, Average Time Per Epoch: 35.7474182415
+Epoch: 26, Train Loss: 0.817428657142, Valid Loss: 0.626149889082, Average Time Per Epoch: 35.5425325082
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 0.795643920451, Valid Loss: 0.624146467179, Average Time Per Epoch: 35.713530929
+Best loss so far encountered, saving model.
+Epoch: 28, Train Loss: 0.770469193228, Valid Loss: 0.720494371314, Average Time Per Epoch: 35.8465859294
+Epoch: 29, Train Loss: 0.799576546861, Valid Loss: 0.704892428855, Average Time Per Epoch: 35.6582914139
+Epoch: 30, Train Loss: 0.800921986963, Valid Loss: 0.71337472331, Average Time Per Epoch: 35.4859639724
+Epoch: 31, Train Loss: 0.753710107404, Valid Loss: 0.712146454677, Average Time Per Epoch: 35.3246393896
+Epoch: 32, Train Loss: 0.760142571682, Valid Loss: 0.678804681895, Average Time Per Epoch: 35.173977755
+Epoch: 33, Train Loss: 0.778266582672, Valid Loss: 0.659900689686, Average Time Per Epoch: 35.0247590325
+Epoch: 34, Train Loss: 0.780052265897, Valid Loss: 0.597581574758, Average Time Per Epoch: 34.8781377077
+Best loss so far encountered, saving model.
+Epoch: 35, Train Loss: 0.769016371566, Valid Loss: 0.744964074386, Average Time Per Epoch: 35.022333949
+Epoch: 36, Train Loss: 0.742376488278, Valid Loss: 0.632025572128, Average Time Per Epoch: 34.881787724
+Epoch: 37, Train Loss: 0.734683787484, Valid Loss: 0.622869543933, Average Time Per Epoch: 34.7547608968
+Epoch: 38, Train Loss: 0.710963376476, Valid Loss: 0.743365073842, Average Time Per Epoch: 34.6329475265
+Epoch: 39, Train Loss: 0.75849278007, Valid Loss: 0.59840914952, Average Time Per Epoch: 34.5188830816
+Epoch: 40, Train Loss: 0.738499605486, Valid Loss: 0.620544090284, Average Time Per Epoch: 34.4091203034
+Epoch: 41, Train Loss: 0.701190501316, Valid Loss: 0.607602035591, Average Time Per Epoch: 34.3005010035
+Epoch: 42, Train Loss: 0.751534526253, Valid Loss: 0.609440403819, Average Time Per Epoch: 34.1970337629
+Epoch: 43, Train Loss: 0.700874760137, Valid Loss: 0.621232400523, Average Time Per Epoch: 34.1020632345
+Epoch: 44, Train Loss: 0.679534995014, Valid Loss: 0.584788657419, Average Time Per Epoch: 34.0107837048
+Best loss so far encountered, saving model.
+Epoch: 45, Train Loss: 0.683612070944, Valid Loss: 0.660420480792, Average Time Per Epoch: 34.1421548049
+Epoch: 46, Train Loss: 0.700840038264, Valid Loss: 0.604738063009, Average Time Per Epoch: 34.0501832651
+Epoch: 47, Train Loss: 0.727748832107, Valid Loss: 0.61763358917, Average Time Per Epoch: 33.9606237056
+Epoch: 48, Train Loss: 0.723052698882, Valid Loss: 0.781297926356, Average Time Per Epoch: 33.875265792
+Epoch: 49, Train Loss: 0.703412924876, Valid Loss: 0.774747244918, Average Time Per Epoch: 33.7954471841
+Epoch: 50, Train Loss: 0.700337194736, Valid Loss: 0.596731069094, Average Time Per Epoch: 33.7209797239
+Epoch: 51, Train Loss: 0.713714302704, Valid Loss: 0.595858446348, Average Time Per Epoch: 33.648454236
+Epoch: 52, Train Loss: 0.687382362817, Valid Loss: 0.590538566896, Average Time Per Epoch: 33.5829069431
+Epoch: 53, Train Loss: 0.66824239743, Valid Loss: 0.601849067708, Average Time Per Epoch: 33.5177675688
+Epoch: 54, Train Loss: 0.654045982896, Valid Loss: 0.590056372364, Average Time Per Epoch: 33.4561506686
+Epoch: 55, Train Loss: 0.728258787231, Valid Loss: 0.619011807839, Average Time Per Epoch: 33.3944757678
+Epoch: 56, Train Loss: 0.69979379934, Valid Loss: 0.897679970153, Average Time Per Epoch: 33.3357156983
+Epoch: 57, Train Loss: 0.687422173826, Valid Loss: 0.602873652679, Average Time Per Epoch: 33.280325442
+Epoch: 58, Train Loss: 0.706312072243, Valid Loss: 0.608849125981, Average Time Per Epoch: 33.2253902616
+Epoch: 59, Train Loss: 0.686989800937, Valid Loss: 0.606990560545, Average Time Per Epoch: 33.1753095449
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.584788657419
+Found best new model!
+Best Config: Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.584788657419
+Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.08932906836, Valid Loss: 2.12863382628, Average Time Per Epoch: 75.5504047871
+Epoch: 2, Train Loss: 2.00791534632, Valid Loss: 1.96124392431, Average Time Per Epoch: 56.701012969
+Epoch: 3, Train Loss: 1.85533051613, Valid Loss: 1.62940387007, Average Time Per Epoch: 49.3488776684
+Epoch: 4, Train Loss: 1.75333053226, Valid Loss: 1.41514558911, Average Time Per Epoch: 45.3163792491
+Epoch: 5, Train Loss: 1.62642867172, Valid Loss: 1.21921972827, Average Time Per Epoch: 42.6290791988
+Epoch: 6, Train Loss: 1.51843680706, Valid Loss: 1.62748469074, Average Time Per Epoch: 40.8215378126
+Valid loss increased for the first time, will start saving models
+Epoch: 7, Train Loss: 1.43103299317, Valid Loss: 0.935930556238, Average Time Per Epoch: 41.0412901129
+Best loss so far encountered, saving model.
+Epoch: 8, Train Loss: 1.33911206133, Valid Loss: 0.893683330397, Average Time Per Epoch: 41.0072388649
+Best loss so far encountered, saving model.
+Epoch: 9, Train Loss: 1.24765877927, Valid Loss: 0.812998600149, Average Time Per Epoch: 40.890642643
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.23642704521, Valid Loss: 0.814562972739, Average Time Per Epoch: 40.9262670994
+Epoch: 11, Train Loss: 1.18067026253, Valid Loss: 0.861386934244, Average Time Per Epoch: 40.0862208063
+Epoch: 12, Train Loss: 1.14817163778, Valid Loss: 0.767433936846, Average Time Per Epoch: 39.379061083
+Best loss so far encountered, saving model.
+Epoch: 13, Train Loss: 1.11974737512, Valid Loss: 0.693622264735, Average Time Per Epoch: 39.4881475339
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.06284772229, Valid Loss: 0.716368882313, Average Time Per Epoch: 39.5210479157
+Epoch: 15, Train Loss: 1.07072474865, Valid Loss: 0.664863637157, Average Time Per Epoch: 38.9730192661
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.02307551656, Valid Loss: 0.682007031722, Average Time Per Epoch: 39.0605957359
+Epoch: 17, Train Loss: 0.968163932115, Valid Loss: 0.690252779638, Average Time Per Epoch: 38.5794394577
+Epoch: 18, Train Loss: 0.950804863904, Valid Loss: 0.653677560346, Average Time Per Epoch: 38.1606241067
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 0.929870261252, Valid Loss: 0.701407548665, Average Time Per Epoch: 38.2660456206
+Epoch: 20, Train Loss: 0.935660827532, Valid Loss: 0.68744004473, Average Time Per Epoch: 37.8860618472
+Epoch: 21, Train Loss: 0.944082935967, Valid Loss: 0.667745518233, Average Time Per Epoch: 37.5375875632
+Epoch: 22, Train Loss: 0.921554425494, Valid Loss: 0.650263930861, Average Time Per Epoch: 37.238018361
+Best loss so far encountered, saving model.
+Epoch: 23, Train Loss: 0.905041978779, Valid Loss: 0.635441615387, Average Time Per Epoch: 37.3935772543
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 0.852740555494, Valid Loss: 0.609693716143, Average Time Per Epoch: 37.5419729948
+Best loss so far encountered, saving model.
+Epoch: 25, Train Loss: 0.853388187696, Valid Loss: 0.62901886608, Average Time Per Epoch: 37.6337214375
+Epoch: 26, Train Loss: 0.834209453348, Valid Loss: 0.600164165471, Average Time Per Epoch: 37.3640896907
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 0.856611524353, Valid Loss: 0.605044768869, Average Time Per Epoch: 37.4803485517
+Epoch: 28, Train Loss: 0.867548562925, Valid Loss: 0.643636306071, Average Time Per Epoch: 37.2461776393
+Epoch: 29, Train Loss: 0.857196805355, Valid Loss: 0.610786532001, Average Time Per Epoch: 37.0244427221
+Epoch: 30, Train Loss: 0.850883714855, Valid Loss: 0.620521631276, Average Time Per Epoch: 36.812103796
+Epoch: 31, Train Loss: 0.81505268548, Valid Loss: 0.654837770465, Average Time Per Epoch: 36.6165236735
+Epoch: 32, Train Loss: 0.807752032409, Valid Loss: 0.608274856787, Average Time Per Epoch: 36.4306489006
+Epoch: 33, Train Loss: 0.805894128978, Valid Loss: 0.675195713621, Average Time Per Epoch: 36.259320418
+Epoch: 34, Train Loss: 0.788811833513, Valid Loss: 0.578821985463, Average Time Per Epoch: 36.0935127875
+Best loss so far encountered, saving model.
+Epoch: 35, Train Loss: 0.774158119038, Valid Loss: 0.658975917327, Average Time Per Epoch: 36.2189209121
+Epoch: 36, Train Loss: 0.794922140241, Valid Loss: 0.618187515769, Average Time Per Epoch: 36.0624514951
+Epoch: 37, Train Loss: 0.785205856846, Valid Loss: 0.604122852554, Average Time Per Epoch: 35.9198859447
+Epoch: 38, Train Loss: 0.804870479723, Valid Loss: 0.598189641871, Average Time Per Epoch: 35.7802901833
+Epoch: 39, Train Loss: 0.770899583975, Valid Loss: 0.60491330867, Average Time Per Epoch: 35.646127713
+Epoch: 40, Train Loss: 0.781914945455, Valid Loss: 0.594567959863, Average Time Per Epoch: 35.5246647
+Epoch: 41, Train Loss: 0.747093148936, Valid Loss: 0.587011143464, Average Time Per Epoch: 35.4009948009
+Epoch: 42, Train Loss: 0.79695688354, Valid Loss: 0.665588475595, Average Time Per Epoch: 35.2856285686
+Epoch: 43, Train Loss: 0.811768611588, Valid Loss: 0.701201777012, Average Time Per Epoch: 35.1737443236
+Epoch: 44, Train Loss: 0.735508928109, Valid Loss: 0.590767489641, Average Time Per Epoch: 35.066653929
+Epoch: 45, Train Loss: 0.753180500797, Valid Loss: 0.572729792275, Average Time Per Epoch: 34.9659502665
+Best loss so far encountered, saving model.
+Epoch: 46, Train Loss: 0.753013788096, Valid Loss: 0.590115546498, Average Time Per Epoch: 35.0858403911
+Epoch: 47, Train Loss: 0.744586718861, Valid Loss: 0.610552947772, Average Time Per Epoch: 34.9884004847
+Epoch: 48, Train Loss: 0.723357798261, Valid Loss: 0.581143714572, Average Time Per Epoch: 34.8931636413
+Epoch: 49, Train Loss: 0.736740310558, Valid Loss: 0.59897097805, Average Time Per Epoch: 34.8046121597
+Epoch: 50, Train Loss: 0.732545894351, Valid Loss: 0.57700290119, Average Time Per Epoch: 34.7127486563
+Epoch: 51, Train Loss: 0.723980027369, Valid Loss: 0.845652834826, Average Time Per Epoch: 34.6293647804
+Epoch: 52, Train Loss: 0.735519992628, Valid Loss: 0.630940809782, Average Time Per Epoch: 34.5455824962
+Epoch: 53, Train Loss: 0.724842344699, Valid Loss: 0.597460508635, Average Time Per Epoch: 34.4647042976
+Epoch: 54, Train Loss: 0.72691377144, Valid Loss: 0.588924013079, Average Time Per Epoch: 34.3856192032
+Epoch: 55, Train Loss: 0.72611590739, Valid Loss: 0.584842452628, Average Time Per Epoch: 34.3106818546
+Epoch: 56, Train Loss: 0.708050492643, Valid Loss: 0.591976107308, Average Time Per Epoch: 34.2372542833
+Epoch: 57, Train Loss: 0.721333696625, Valid Loss: 0.569877277085, Average Time Per Epoch: 34.1677502958
+Best loss so far encountered, saving model.
+Epoch: 58, Train Loss: 0.739354848455, Valid Loss: 0.592696056149, Average Time Per Epoch: 34.2838927055
+Epoch: 59, Train Loss: 0.718025486137, Valid Loss: 0.605916771715, Average Time Per Epoch: 34.2165056245
+Epoch: 60, Train Loss: 0.715700391409, Valid Loss: 0.668778859445, Average Time Per Epoch: 34.1498414159
+Epoch: 61, Train Loss: 0.722336973758, Valid Loss: 0.573753990297, Average Time Per Epoch: 34.0851353935
+Epoch: 62, Train Loss: 0.708518226716, Valid Loss: 0.580568833958, Average Time Per Epoch: 34.0267125791
+Epoch: 63, Train Loss: 0.694627342272, Valid Loss: 0.610262947564, Average Time Per Epoch: 33.9670259347
+Epoch: 64, Train Loss: 0.714276899059, Valid Loss: 0.572840799729, Average Time Per Epoch: 33.9131373577
+Epoch: 65, Train Loss: 0.718200597573, Valid Loss: 0.584997399025, Average Time Per Epoch: 33.8593940295
+Epoch: 66, Train Loss: 0.700541049344, Valid Loss: 0.639884260862, Average Time Per Epoch: 33.8092429385
+Epoch: 67, Train Loss: 0.675416448645, Valid Loss: 0.563128050577, Average Time Per Epoch: 33.7591715962
+Best loss so far encountered, saving model.
+Epoch: 68, Train Loss: 0.699372724071, Valid Loss: 0.581076161267, Average Time Per Epoch: 33.8533275583
+Epoch: 69, Train Loss: 0.690668235347, Valid Loss: 0.575724832903, Average Time Per Epoch: 33.8024404049
+Epoch: 70, Train Loss: 0.711052295329, Valid Loss: 0.574280820631, Average Time Per Epoch: 33.752487312
+Epoch: 71, Train Loss: 0.692716170306, Valid Loss: 0.66030771571, Average Time Per Epoch: 33.7072528987
+Epoch: 72, Train Loss: 0.703815528175, Valid Loss: 0.614649537247, Average Time Per Epoch: 33.6654748751
+Epoch: 73, Train Loss: 0.684977034005, Valid Loss: 0.580809113507, Average Time Per Epoch: 33.6248715871
+Epoch: 74, Train Loss: 0.68726538352, Valid Loss: 0.568930248061, Average Time Per Epoch: 33.5836996484
+Epoch: 75, Train Loss: 0.684355917844, Valid Loss: 0.558696458577, Average Time Per Epoch: 33.5419300524
+Best loss so far encountered, saving model.
+Epoch: 76, Train Loss: 0.67720841298, Valid Loss: 0.576570400301, Average Time Per Epoch: 33.6420796419
+Epoch: 77, Train Loss: 0.69653948559, Valid Loss: 0.627373453721, Average Time Per Epoch: 33.6022917141
+Epoch: 78, Train Loss: 0.715096275712, Valid Loss: 0.587767657784, Average Time Per Epoch: 33.5649208075
+Epoch: 79, Train Loss: 0.697853070464, Valid Loss: 0.625494966953, Average Time Per Epoch: 33.5255871242
+Epoch: 80, Train Loss: 0.682969558341, Valid Loss: 0.625030215522, Average Time Per Epoch: 33.4887195855
+Epoch: 81, Train Loss: 0.672598710216, Valid Loss: 0.575747333766, Average Time Per Epoch: 33.450303531
+Epoch: 82, Train Loss: 0.692512919449, Valid Loss: 0.579345047848, Average Time Per Epoch: 33.4133392805
+Epoch: 83, Train Loss: 0.677236611498, Valid Loss: 0.579131994247, Average Time Per Epoch: 33.3774533588
+Epoch: 84, Train Loss: 0.665821639516, Valid Loss: 0.568722390041, Average Time Per Epoch: 33.3419994031
+Epoch: 85, Train Loss: 0.694400717758, Valid Loss: 0.59076645263, Average Time Per Epoch: 33.3084680221
+Epoch: 86, Train Loss: 0.703790081665, Valid Loss: 0.599607251325, Average Time Per Epoch: 33.275985812
+Epoch: 87, Train Loss: 0.668682877821, Valid Loss: 0.600601437183, Average Time Per Epoch: 33.241306494
+Epoch: 88, Train Loss: 0.667818793722, Valid Loss: 0.568036312827, Average Time Per Epoch: 33.2080116245
+Epoch: 89, Train Loss: 0.639494283463, Valid Loss: 0.758833195393, Average Time Per Epoch: 33.1764921901
+Epoch: 90, Train Loss: 0.669794341482, Valid Loss: 0.57469909942, Average Time Per Epoch: 33.1471650998
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.558696458577
+Found best new model!
+Best Config: Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.558696458577
+Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.12014801556, Valid Loss: 2.10974354725, Average Time Per Epoch: 73.2041869164
+Epoch: 2, Train Loss: 2.04079095003, Valid Loss: 2.09492011561, Average Time Per Epoch: 55.9647200108
+Epoch: 3, Train Loss: 1.93739381974, Valid Loss: 1.6511521109, Average Time Per Epoch: 49.5079103311
+Epoch: 4, Train Loss: 1.86257407977, Valid Loss: 1.38734762564, Average Time Per Epoch: 45.8337427378
+Epoch: 5, Train Loss: 1.72999688861, Valid Loss: 1.32986425084, Average Time Per Epoch: 43.291576004
+Epoch: 6, Train Loss: 1.66625060067, Valid Loss: 1.14886874238, Average Time Per Epoch: 41.4567211469
+Epoch: 7, Train Loss: 1.52975211922, Valid Loss: 1.03374880275, Average Time Per Epoch: 40.0682501452
+Epoch: 8, Train Loss: 1.46153515042, Valid Loss: 1.10161872612, Average Time Per Epoch: 39.0127966106
+Valid loss increased for the first time, will start saving models
+Epoch: 9, Train Loss: 1.44179734994, Valid Loss: 0.915909809578, Average Time Per Epoch: 39.2218653361
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.30970307927, Valid Loss: 1.28361837509, Average Time Per Epoch: 39.3547391891
+Epoch: 11, Train Loss: 1.29192949432, Valid Loss: 0.82658870632, Average Time Per Epoch: 38.601019816
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.23104498969, Valid Loss: 0.773929530117, Average Time Per Epoch: 38.6761498253
+Best loss so far encountered, saving model.
+Epoch: 13, Train Loss: 1.20269692513, Valid Loss: 0.748642185668, Average Time Per Epoch: 38.7917718521
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.19455858218, Valid Loss: 0.714118052084, Average Time Per Epoch: 38.9048797062
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.18045692329, Valid Loss: 0.710026748289, Average Time Per Epoch: 38.9906880061
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.13925454725, Valid Loss: 0.683908598709, Average Time Per Epoch: 39.05056113
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.08541368754, Valid Loss: 0.651499802661, Average Time Per Epoch: 39.1179106516
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 1.03566397083, Valid Loss: 0.662069293015, Average Time Per Epoch: 39.1831474437
+Epoch: 19, Train Loss: 1.02637108815, Valid Loss: 0.666285386068, Average Time Per Epoch: 38.719163468
+Epoch: 20, Train Loss: 1.04934264364, Valid Loss: 0.647318349062, Average Time Per Epoch: 38.2995572448
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 1.02193348015, Valid Loss: 0.661070323445, Average Time Per Epoch: 38.3284799485
+Epoch: 22, Train Loss: 0.971037218957, Valid Loss: 0.676499466572, Average Time Per Epoch: 37.9615171389
+Epoch: 23, Train Loss: 0.957369095764, Valid Loss: 0.657378270541, Average Time Per Epoch: 37.6251040853
+Epoch: 24, Train Loss: 0.967167878693, Valid Loss: 0.609696640217, Average Time Per Epoch: 37.3139734169
+Best loss so far encountered, saving model.
+Epoch: 25, Train Loss: 0.940891475366, Valid Loss: 0.611430493232, Average Time Per Epoch: 37.4188536835
+Epoch: 26, Train Loss: 0.949987670779, Valid Loss: 0.625466855528, Average Time Per Epoch: 37.1435431884
+Epoch: 27, Train Loss: 0.934213654799, Valid Loss: 0.631929198546, Average Time Per Epoch: 36.8858356299
+Epoch: 28, Train Loss: 0.924045630172, Valid Loss: 0.610320033839, Average Time Per Epoch: 36.6485435026
+Epoch: 29, Train Loss: 0.909165224467, Valid Loss: 0.603851756985, Average Time Per Epoch: 36.430174622
+Best loss so far encountered, saving model.
+Epoch: 30, Train Loss: 0.918974247236, Valid Loss: 0.593749614413, Average Time Per Epoch: 36.5401750644
+Best loss so far encountered, saving model.
+Epoch: 31, Train Loss: 0.867871572179, Valid Loss: 0.616043230654, Average Time Per Epoch: 36.6514568406
+Epoch: 32, Train Loss: 0.873162203214, Valid Loss: 0.60195549313, Average Time Per Epoch: 36.4542118758
+Epoch: 33, Train Loss: 0.8862431197, Valid Loss: 0.60193280683, Average Time Per Epoch: 36.2675264243
+Epoch: 34, Train Loss: 0.862788460708, Valid Loss: 0.59037483683, Average Time Per Epoch: 36.0915999132
+Best loss so far encountered, saving model.
+Epoch: 35, Train Loss: 0.870762852444, Valid Loss: 0.605290465605, Average Time Per Epoch: 36.2138492312
+Epoch: 36, Train Loss: 0.865092652867, Valid Loss: 0.60939006318, Average Time Per Epoch: 36.0492866966
+Epoch: 37, Train Loss: 0.864204317568, Valid Loss: 0.584460414306, Average Time Per Epoch: 35.8959792949
+Best loss so far encountered, saving model.
+Epoch: 38, Train Loss: 0.849548785524, Valid Loss: 0.587278296108, Average Time Per Epoch: 35.9933925553
+Epoch: 39, Train Loss: 0.827457157929, Valid Loss: 0.581445758641, Average Time Per Epoch: 35.8509793587
+Best loss so far encountered, saving model.
+Epoch: 40, Train Loss: 0.832871278308, Valid Loss: 0.648458946786, Average Time Per Epoch: 35.9680176497
+Epoch: 41, Train Loss: 0.84123795063, Valid Loss: 0.579560071935, Average Time Per Epoch: 35.8343426076
+Best loss so far encountered, saving model.
+Epoch: 42, Train Loss: 0.829714599218, Valid Loss: 0.581716311553, Average Time Per Epoch: 35.9480988071
+Epoch: 43, Train Loss: 0.849769484116, Valid Loss: 0.671615005127, Average Time Per Epoch: 35.8184765328
+Epoch: 44, Train Loss: 0.847181069207, Valid Loss: 0.587254037815, Average Time Per Epoch: 35.696204749
+Epoch: 45, Train Loss: 0.826737640561, Valid Loss: 0.58641583549, Average Time Per Epoch: 35.5817818218
+Epoch: 46, Train Loss: 0.807517698881, Valid Loss: 0.618169988254, Average Time Per Epoch: 35.4701529793
+Epoch: 47, Train Loss: 0.819241414863, Valid Loss: 0.644850422003, Average Time Per Epoch: 35.3658556583
+Epoch: 48, Train Loss: 0.79749569964, Valid Loss: 0.660584368864, Average Time Per Epoch: 35.2666225831
+Epoch: 49, Train Loss: 0.781313520128, Valid Loss: 0.584003261096, Average Time Per Epoch: 35.1728480835
+Epoch: 50, Train Loss: 0.798671644994, Valid Loss: 0.625981661582, Average Time Per Epoch: 35.0792919779
+Epoch: 51, Train Loss: 0.815575070747, Valid Loss: 0.586683669261, Average Time Per Epoch: 34.991331783
+Epoch: 52, Train Loss: 0.77752890956, Valid Loss: 0.575644054014, Average Time Per Epoch: 34.9081366933
+Best loss so far encountered, saving model.
+Epoch: 53, Train Loss: 0.788496606966, Valid Loss: 0.565043375527, Average Time Per Epoch: 35.0240528673
+Best loss so far encountered, saving model.
+Epoch: 54, Train Loss: 0.786457119645, Valid Loss: 0.581918094075, Average Time Per Epoch: 35.1379685932
+Epoch: 55, Train Loss: 0.785948745466, Valid Loss: 0.615744938878, Average Time Per Epoch: 35.0572773803
+Epoch: 56, Train Loss: 0.788685434549, Valid Loss: 0.572760051151, Average Time Per Epoch: 34.9795889642
+Epoch: 57, Train Loss: 0.793066839264, Valid Loss: 0.570358047987, Average Time Per Epoch: 34.9044734553
+Epoch: 58, Train Loss: 0.786807053807, Valid Loss: 0.558804584798, Average Time Per Epoch: 34.8306284814
+Best loss so far encountered, saving model.
+Epoch: 59, Train Loss: 0.793232725764, Valid Loss: 0.69101021276, Average Time Per Epoch: 34.9218654592
+Epoch: 60, Train Loss: 0.775391109254, Valid Loss: 0.586323686777, Average Time Per Epoch: 34.853532815
+Epoch: 61, Train Loss: 0.754738625376, Valid Loss: 0.564367054958, Average Time Per Epoch: 34.7855055098
+Epoch: 62, Train Loss: 0.77500259287, Valid Loss: 0.571732606632, Average Time Per Epoch: 34.7193304339
+Epoch: 63, Train Loss: 0.769497210871, Valid Loss: 0.571437545962, Average Time Per Epoch: 34.6536143659
+Epoch: 64, Train Loss: 0.743418273973, Valid Loss: 0.563107893071, Average Time Per Epoch: 34.5912671089
+Epoch: 65, Train Loss: 0.748561459306, Valid Loss: 0.581752380312, Average Time Per Epoch: 34.5326787692
+Epoch: 66, Train Loss: 0.76019160524, Valid Loss: 0.576029597784, Average Time Per Epoch: 34.4754291195
+Epoch: 67, Train Loss: 0.751269396361, Valid Loss: 0.599605344969, Average Time Per Epoch: 34.42003264
+Epoch: 68, Train Loss: 0.765344033119, Valid Loss: 0.578067761923, Average Time Per Epoch: 34.3673990299
+Epoch: 69, Train Loss: 0.762844369188, Valid Loss: 0.583554905353, Average Time Per Epoch: 34.3172099141
+Epoch: 70, Train Loss: 0.768903003057, Valid Loss: 0.564750331331, Average Time Per Epoch: 34.2679751873
+Epoch: 71, Train Loss: 0.770374032652, Valid Loss: 0.565813260273, Average Time Per Epoch: 34.2200760841
+Epoch: 72, Train Loss: 0.740225152299, Valid Loss: 0.673911418223, Average Time Per Epoch: 34.1754843195
+Epoch: 73, Train Loss: 0.747397772798, Valid Loss: 0.646073877155, Average Time Per Epoch: 34.1303666291
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.558804584798
+Best Config: Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.558696458577
+Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.04462789297, Valid Loss: 2.05621030982, Average Time Per Epoch: 112.365428925
+Epoch: 2, Train Loss: 1.92434399616, Valid Loss: 1.81468453279, Average Time Per Epoch: 84.0194379091
+Epoch: 3, Train Loss: 1.76028366414, Valid Loss: 1.61754973405, Average Time Per Epoch: 73.9650469621
+Epoch: 4, Train Loss: 1.63343554708, Valid Loss: 1.39072793508, Average Time Per Epoch: 68.4548231959
+Epoch: 5, Train Loss: 1.48142448074, Valid Loss: 1.15483929277, Average Time Per Epoch: 64.6971103668
+Epoch: 6, Train Loss: 1.41429855668, Valid Loss: 1.06679386604, Average Time Per Epoch: 62.2061613003
+Epoch: 7, Train Loss: 1.29264802912, Valid Loss: 0.989462100935, Average Time Per Epoch: 60.6548963955
+Epoch: 8, Train Loss: 1.21105402, Valid Loss: 0.950664877892, Average Time Per Epoch: 59.2015008628
+Epoch: 9, Train Loss: 1.17145740224, Valid Loss: 0.892769678841, Average Time Per Epoch: 57.9969739914
+Epoch: 10, Train Loss: 1.11530221775, Valid Loss: 0.861689785806, Average Time Per Epoch: 57.0231047869
+Epoch: 11, Train Loss: 1.04177936065, Valid Loss: 0.845455823104, Average Time Per Epoch: 56.1867728884
+Epoch: 12, Train Loss: 1.03943369087, Valid Loss: 0.986519632266, Average Time Per Epoch: 55.4429394007
+Valid loss increased for the first time, will start saving models
+Epoch: 13, Train Loss: 0.980310024524, Valid Loss: 0.692857181722, Average Time Per Epoch: 55.5227796114
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 0.995755826377, Valid Loss: 0.74707463266, Average Time Per Epoch: 55.4939047098
+Epoch: 15, Train Loss: 0.9465523119, Valid Loss: 0.68379945264, Average Time Per Epoch: 54.9223563194
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 0.909298609299, Valid Loss: 0.703182269099, Average Time Per Epoch: 55.0060830563
+Epoch: 17, Train Loss: 0.913937361979, Valid Loss: 0.662629078246, Average Time Per Epoch: 54.5008969307
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 0.907994609021, Valid Loss: 0.641855620085, Average Time Per Epoch: 54.5958279901
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 0.872028647905, Valid Loss: 0.66456839231, Average Time Per Epoch: 54.6769146794
+Epoch: 20, Train Loss: 0.927828509902, Valid Loss: 0.731473496781, Average Time Per Epoch: 54.2624343991
+Epoch: 21, Train Loss: 0.832531948218, Valid Loss: 0.642393991812, Average Time Per Epoch: 53.887324231
+Epoch: 22, Train Loss: 0.836764446138, Valid Loss: 0.648208287431, Average Time Per Epoch: 53.5401436741
+Epoch: 23, Train Loss: 0.853414676338, Valid Loss: 0.59964669907, Average Time Per Epoch: 53.2342003843
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 0.816582439874, Valid Loss: 0.692489777574, Average Time Per Epoch: 53.3462500771
+Epoch: 25, Train Loss: 0.807479193637, Valid Loss: 0.613657127427, Average Time Per Epoch: 53.0739643574
+Epoch: 26, Train Loss: 0.796422336318, Valid Loss: 0.646886067692, Average Time Per Epoch: 52.8023987275
+Epoch: 27, Train Loss: 0.807404413481, Valid Loss: 0.707942946051, Average Time Per Epoch: 52.5568737719
+Epoch: 28, Train Loss: 0.767317619683, Valid Loss: 0.658909050779, Average Time Per Epoch: 52.3163058928
+Epoch: 29, Train Loss: 0.776853608543, Valid Loss: 0.604034802142, Average Time Per Epoch: 52.0973665796
+Epoch: 30, Train Loss: 0.774170040407, Valid Loss: 0.581878888448, Average Time Per Epoch: 51.8783155282
+Best loss so far encountered, saving model.
+Epoch: 31, Train Loss: 0.771084366163, Valid Loss: 0.719826543558, Average Time Per Epoch: 51.9874399324
+Epoch: 32, Train Loss: 0.740200139447, Valid Loss: 0.599533254141, Average Time Per Epoch: 51.781194903
+Epoch: 33, Train Loss: 0.769027877904, Valid Loss: 0.663336685356, Average Time Per Epoch: 51.5749743635
+Epoch: 34, Train Loss: 0.752414417131, Valid Loss: 0.63505881176, Average Time Per Epoch: 51.3848156438
+Epoch: 35, Train Loss: 0.741226881201, Valid Loss: 0.605401062631, Average Time Per Epoch: 51.2010911669
+Epoch: 36, Train Loss: 0.750344581834, Valid Loss: 0.58775221561, Average Time Per Epoch: 51.0293427772
+Epoch: 37, Train Loss: 0.726223937896, Valid Loss: 0.621249644666, Average Time Per Epoch: 50.8658585097
+Epoch: 38, Train Loss: 0.714550408941, Valid Loss: 0.654975440953, Average Time Per Epoch: 50.7046494735
+Epoch: 39, Train Loss: 0.724500613016, Valid Loss: 0.61660899263, Average Time Per Epoch: 50.5486063835
+Epoch: 40, Train Loss: 0.708937886493, Valid Loss: 0.667079312097, Average Time Per Epoch: 50.4074289203
+Epoch: 41, Train Loss: 0.709516153603, Valid Loss: 0.704746456241, Average Time Per Epoch: 50.2675599005
+Epoch: 42, Train Loss: 0.712581063841, Valid Loss: 0.588843677839, Average Time Per Epoch: 50.1345007363
+Epoch: 43, Train Loss: 0.705154903555, Valid Loss: 0.658279281399, Average Time Per Epoch: 50.0120391846
+Epoch: 44, Train Loss: 0.726783045889, Valid Loss: 0.598366498398, Average Time Per Epoch: 49.8936502229
+Epoch: 45, Train Loss: 0.731960852868, Valid Loss: 0.617680699084, Average Time Per Epoch: 49.7782449987
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.581878888448
+Best Config: Num Layers: 1, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.558696458577
+Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.06256813407, Valid Loss: 2.02189083977, Average Time Per Epoch: 105.112419128
+Epoch: 2, Train Loss: 1.94455491806, Valid Loss: 1.83118183042, Average Time Per Epoch: 80.1565899849
+Epoch: 3, Train Loss: 1.78259514543, Valid Loss: 1.37930752227, Average Time Per Epoch: 71.6342566808
+Epoch: 4, Train Loss: 1.66092954854, Valid Loss: 1.2512948709, Average Time Per Epoch: 66.8864857554
+Epoch: 5, Train Loss: 1.50687086663, Valid Loss: 1.16362306041, Average Time Per Epoch: 63.4656690121
+Epoch: 6, Train Loss: 1.44734536592, Valid Loss: 0.940421986532, Average Time Per Epoch: 60.9989316861
+Epoch: 7, Train Loss: 1.33378495439, Valid Loss: 0.87215735139, Average Time Per Epoch: 59.0947559902
+Epoch: 8, Train Loss: 1.28784852969, Valid Loss: 1.14240648111, Average Time Per Epoch: 57.6792746186
+Valid loss increased for the first time, will start saving models
+Epoch: 9, Train Loss: 1.24346338937, Valid Loss: 0.772034293558, Average Time Per Epoch: 57.5199072361
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.17695327394, Valid Loss: 0.918533006674, Average Time Per Epoch: 57.3859061003
+Epoch: 11, Train Loss: 1.12137795934, Valid Loss: 0.714005365528, Average Time Per Epoch: 56.3443352743
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.10422752845, Valid Loss: 0.748089632994, Average Time Per Epoch: 56.1925786734
+Epoch: 13, Train Loss: 1.03159676861, Valid Loss: 0.800405772498, Average Time Per Epoch: 55.382361302
+Epoch: 14, Train Loss: 1.05584719354, Valid Loss: 0.770597340082, Average Time Per Epoch: 54.6461711441
+Epoch: 15, Train Loss: 0.99508325654, Valid Loss: 0.712833948356, Average Time Per Epoch: 53.9942070643
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.02812701606, Valid Loss: 0.676413113018, Average Time Per Epoch: 53.9979586899
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 0.991532569277, Valid Loss: 0.652393671628, Average Time Per Epoch: 53.9767297717
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 0.930876374719, Valid Loss: 0.636190785196, Average Time Per Epoch: 53.9515217808
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 0.977144055407, Valid Loss: 0.634098368606, Average Time Per Epoch: 53.8875300508
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 0.931891675327, Valid Loss: 0.707155287006, Average Time Per Epoch: 53.8632320523
+Epoch: 21, Train Loss: 0.89709098102, Valid Loss: 0.689701707966, Average Time Per Epoch: 53.3646185739
+Epoch: 22, Train Loss: 0.938825763085, Valid Loss: 0.666503669964, Average Time Per Epoch: 52.9085388617
+Epoch: 23, Train Loss: 0.896692273224, Valid Loss: 0.612316330399, Average Time Per Epoch: 52.4971627878
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 0.900685864077, Valid Loss: 0.62349234956, Average Time Per Epoch: 52.5370897551
+Epoch: 25, Train Loss: 0.855636894466, Valid Loss: 0.594628587635, Average Time Per Epoch: 52.1599828053
+Best loss so far encountered, saving model.
+Epoch: 26, Train Loss: 0.856157142974, Valid Loss: 0.605968501512, Average Time Per Epoch: 52.1629857742
+Epoch: 27, Train Loss: 0.830660447038, Valid Loss: 0.591526074454, Average Time Per Epoch: 51.8504956652
+Best loss so far encountered, saving model.
+Epoch: 28, Train Loss: 0.833015975932, Valid Loss: 0.590713339778, Average Time Per Epoch: 51.9415309259
+Best loss so far encountered, saving model.
+Epoch: 29, Train Loss: 0.819661790403, Valid Loss: 0.626199375803, Average Time Per Epoch: 51.9752078961
+Epoch: 30, Train Loss: 0.814991167967, Valid Loss: 0.612349975734, Average Time Per Epoch: 51.7158978701
+Epoch: 31, Train Loss: 0.818826689571, Valid Loss: 0.624794463732, Average Time Per Epoch: 51.4595359679
+Epoch: 32, Train Loss: 0.787921215492, Valid Loss: 0.602925414333, Average Time Per Epoch: 51.2156684399
+Epoch: 33, Train Loss: 0.820169215819, Valid Loss: 0.589253571999, Average Time Per Epoch: 50.9849262743
+Best loss so far encountered, saving model.
+Epoch: 34, Train Loss: 0.763079474528, Valid Loss: 0.576440927666, Average Time Per Epoch: 51.0448484421
+Best loss so far encountered, saving model.
+Epoch: 35, Train Loss: 0.755525732244, Valid Loss: 0.586054490062, Average Time Per Epoch: 51.1048412868
+Epoch: 36, Train Loss: 0.81109049178, Valid Loss: 0.588725550914, Average Time Per Epoch: 50.8928964204
+Epoch: 37, Train Loss: 0.766336331279, Valid Loss: 0.61537000037, Average Time Per Epoch: 50.6861582189
+Epoch: 38, Train Loss: 0.785861652954, Valid Loss: 0.595855239007, Average Time Per Epoch: 50.4917527124
+Epoch: 39, Train Loss: 0.773724635521, Valid Loss: 0.613086119595, Average Time Per Epoch: 50.3083373094
+Epoch: 40, Train Loss: 0.770688995651, Valid Loss: 0.590602114174, Average Time Per Epoch: 50.1318162739
+Epoch: 41, Train Loss: 0.735793596777, Valid Loss: 0.5852485854, Average Time Per Epoch: 49.964405903
+Epoch: 42, Train Loss: 0.734797099233, Valid Loss: 0.641338229712, Average Time Per Epoch: 49.799289692
+Epoch: 43, Train Loss: 0.746523118459, Valid Loss: 0.63003765706, Average Time Per Epoch: 49.6451425331
+Epoch: 44, Train Loss: 0.748372984542, Valid Loss: 0.644797222383, Average Time Per Epoch: 49.4975582253
+Epoch: 45, Train Loss: 0.778880171698, Valid Loss: 0.577835877024, Average Time Per Epoch: 49.3603543758
+Epoch: 46, Train Loss: 0.756035637889, Valid Loss: 0.566041245299, Average Time Per Epoch: 49.2362482807
+Best loss so far encountered, saving model.
+Epoch: 47, Train Loss: 0.7355699718, Valid Loss: 0.627232596847, Average Time Per Epoch: 49.3363864067
+Epoch: 48, Train Loss: 0.722220002724, Valid Loss: 0.578115396136, Average Time Per Epoch: 49.2220695019
+Epoch: 49, Train Loss: 0.746614878421, Valid Loss: 0.626770188221, Average Time Per Epoch: 49.1155399206
+Epoch: 50, Train Loss: 0.718838568404, Valid Loss: 0.561506154535, Average Time Per Epoch: 49.0069230795
+Best loss so far encountered, saving model.
+Epoch: 51, Train Loss: 0.721275963397, Valid Loss: 0.638715402457, Average Time Per Epoch: 49.0980369203
+Epoch: 52, Train Loss: 0.729463344575, Valid Loss: 0.600011495155, Average Time Per Epoch: 48.9928228488
+Epoch: 53, Train Loss: 0.7127840596, Valid Loss: 0.565214393154, Average Time Per Epoch: 48.8925306437
+Epoch: 54, Train Loss: 0.735480846769, Valid Loss: 0.55440581015, Average Time Per Epoch: 48.7946377948
+Best loss so far encountered, saving model.
+Epoch: 55, Train Loss: 0.727101265741, Valid Loss: 0.570638700096, Average Time Per Epoch: 48.8751393838
+Epoch: 56, Train Loss: 0.70897332159, Valid Loss: 0.673951088138, Average Time Per Epoch: 48.7840907148
+Epoch: 57, Train Loss: 0.711611832204, Valid Loss: 0.589003691892, Average Time Per Epoch: 48.7003408942
+Epoch: 58, Train Loss: 0.718799490414, Valid Loss: 0.600356932805, Average Time Per Epoch: 48.62340031
+Epoch: 59, Train Loss: 0.729455874251, Valid Loss: 0.743439020522, Average Time Per Epoch: 48.5426727311
+Epoch: 60, Train Loss: 0.70271615386, Valid Loss: 0.622886928404, Average Time Per Epoch: 48.464579018
+Epoch: 61, Train Loss: 0.700038337166, Valid Loss: 0.635203415513, Average Time Per Epoch: 48.392016786
+Epoch: 62, Train Loss: 0.724554238181, Valid Loss: 0.59383132005, Average Time Per Epoch: 48.3177623403
+Epoch: 63, Train Loss: 0.690760365467, Valid Loss: 0.581654256894, Average Time Per Epoch: 48.2501116972
+Epoch: 64, Train Loss: 0.703160318986, Valid Loss: 0.661432527102, Average Time Per Epoch: 48.1804935634
+Epoch: 65, Train Loss: 0.679956626316, Valid Loss: 0.744025963779, Average Time Per Epoch: 48.11317577
+Epoch: 66, Train Loss: 0.693399628353, Valid Loss: 0.576418381468, Average Time Per Epoch: 48.0476828633
+Epoch: 67, Train Loss: 0.701481503705, Valid Loss: 0.812086788213, Average Time Per Epoch: 47.9826093289
+Epoch: 68, Train Loss: 0.71341756694, Valid Loss: 0.582252439836, Average Time Per Epoch: 47.9203545872
+Epoch: 69, Train Loss: 0.663989373618, Valid Loss: 0.569560898852, Average Time Per Epoch: 47.8584965381
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.55440581015
+Found best new model!
+Best Config: Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.55440581015
+Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.08438766626, Valid Loss: 2.05775339032, Average Time Per Epoch: 118.574581146
+Epoch: 2, Train Loss: 1.98929002299, Valid Loss: 2.10869580714, Average Time Per Epoch: 89.3378155231
+Valid loss increased for the first time, will start saving models
+Epoch: 3, Train Loss: 1.87143688676, Valid Loss: 1.6689004679, Average Time Per Epoch: 80.7522586981
+Best loss so far encountered, saving model.
+Epoch: 4, Train Loss: 1.79380114702, Valid Loss: 1.42010934789, Average Time Per Epoch: 75.4017267823
+Best loss so far encountered, saving model.
+Epoch: 5, Train Loss: 1.68300648853, Valid Loss: 1.19080238362, Average Time Per Epoch: 71.725901413
+Best loss so far encountered, saving model.
+Epoch: 6, Train Loss: 1.57851679853, Valid Loss: 1.09210079608, Average Time Per Epoch: 69.2543391784
+Best loss so far encountered, saving model.
+Epoch: 7, Train Loss: 1.56146902611, Valid Loss: 1.03944762562, Average Time Per Epoch: 67.5306105954
+Best loss so far encountered, saving model.
+Epoch: 8, Train Loss: 1.40394108668, Valid Loss: 1.56491277093, Average Time Per Epoch: 65.9843704998
+Epoch: 9, Train Loss: 1.33021935746, Valid Loss: 0.855322759288, Average Time Per Epoch: 63.7884782155
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.32320119176, Valid Loss: 0.86161567169, Average Time Per Epoch: 63.0112430096
+Epoch: 11, Train Loss: 1.25494850617, Valid Loss: 0.78454102524, Average Time Per Epoch: 61.4250434529
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.17685939229, Valid Loss: 0.800441747255, Average Time Per Epoch: 60.8837790092
+Epoch: 13, Train Loss: 1.18536140187, Valid Loss: 0.729215569484, Average Time Per Epoch: 59.6641274599
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.13836668886, Valid Loss: 0.724577218458, Average Time Per Epoch: 59.2874080113
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.09179830886, Valid Loss: 0.720100620658, Average Time Per Epoch: 58.8812309424
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.07624115947, Valid Loss: 0.694093175766, Average Time Per Epoch: 58.5855423808
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.04613761556, Valid Loss: 0.696892686731, Average Time Per Epoch: 58.3139334707
+Epoch: 18, Train Loss: 1.0392431162, Valid Loss: 0.778847850397, Average Time Per Epoch: 57.5495948394
+Epoch: 19, Train Loss: 1.02033240263, Valid Loss: 0.602425848839, Average Time Per Epoch: 56.8798565865
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 0.974196361446, Valid Loss: 0.595044447146, Average Time Per Epoch: 56.758098948
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 0.99642256627, Valid Loss: 0.69036028987, Average Time Per Epoch: 56.6066631476
+Epoch: 22, Train Loss: 0.941900590604, Valid Loss: 0.752675531749, Average Time Per Epoch: 56.0552339554
+Epoch: 23, Train Loss: 0.927734124491, Valid Loss: 0.646236387385, Average Time Per Epoch: 55.5404819613
+Epoch: 24, Train Loss: 0.938137002763, Valid Loss: 0.595890420324, Average Time Per Epoch: 55.0787333747
+Epoch: 25, Train Loss: 0.901947548444, Valid Loss: 0.62277221846, Average Time Per Epoch: 54.6456087589
+Epoch: 26, Train Loss: 0.902533639697, Valid Loss: 0.589653841641, Average Time Per Epoch: 54.2475795012
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 0.896617771076, Valid Loss: 0.602632428197, Average Time Per Epoch: 54.235328745
+Epoch: 28, Train Loss: 0.917817728729, Valid Loss: 0.593283733238, Average Time Per Epoch: 53.8706774626
+Epoch: 29, Train Loss: 0.902554739808, Valid Loss: 0.615864219093, Average Time Per Epoch: 53.5334395869
+Epoch: 30, Train Loss: 0.889886472239, Valid Loss: 0.631214963565, Average Time Per Epoch: 53.2178415378
+Epoch: 31, Train Loss: 0.855378222601, Valid Loss: 0.639823680009, Average Time Per Epoch: 52.9261925144
+Epoch: 32, Train Loss: 0.882668781213, Valid Loss: 0.643724063157, Average Time Per Epoch: 52.647499688
+Epoch: 33, Train Loss: 0.885295014896, Valid Loss: 0.572106811954, Average Time Per Epoch: 52.3840487581
+Best loss so far encountered, saving model.
+Epoch: 34, Train Loss: 0.851964365623, Valid Loss: 0.591671108214, Average Time Per Epoch: 52.4213142956
+Epoch: 35, Train Loss: 0.876977057789, Valid Loss: 0.688088064252, Average Time Per Epoch: 52.181945719
+Epoch: 36, Train Loss: 0.84956546226, Valid Loss: 0.575220148647, Average Time Per Epoch: 51.9506412215
+Epoch: 37, Train Loss: 0.806099680337, Valid Loss: 0.697479523721, Average Time Per Epoch: 51.7315978424
+Epoch: 38, Train Loss: 0.836710598455, Valid Loss: 0.599054916867, Average Time Per Epoch: 51.526632974
+Epoch: 39, Train Loss: 0.808851475302, Valid Loss: 0.572421863872, Average Time Per Epoch: 51.3273001267
+Epoch: 40, Train Loss: 0.805196902291, Valid Loss: 0.615800781578, Average Time Per Epoch: 51.1378149509
+Epoch: 41, Train Loss: 0.795957080444, Valid Loss: 0.610146719708, Average Time Per Epoch: 50.9592939295
+Epoch: 42, Train Loss: 0.795679226721, Valid Loss: 0.568129545944, Average Time Per Epoch: 50.7906464054
+Best loss so far encountered, saving model.
+Epoch: 43, Train Loss: 0.841097840193, Valid Loss: 0.612618761811, Average Time Per Epoch: 50.8643302807
+Epoch: 44, Train Loss: 0.823881466958, Valid Loss: 0.88691073651, Average Time Per Epoch: 50.7022872296
+Epoch: 45, Train Loss: 0.8195341456, Valid Loss: 0.5762431834, Average Time Per Epoch: 50.544878557
+Epoch: 46, Train Loss: 0.798167503998, Valid Loss: 0.604103003731, Average Time Per Epoch: 50.3913762621
+Epoch: 47, Train Loss: 0.792487634955, Valid Loss: 0.648239831709, Average Time Per Epoch: 50.2414686173
+Epoch: 48, Train Loss: 0.782666605135, Valid Loss: 0.614004427397, Average Time Per Epoch: 50.0916091253
+Epoch: 49, Train Loss: 0.774704277685, Valid Loss: 0.587384811834, Average Time Per Epoch: 49.9561793464
+Epoch: 50, Train Loss: 0.788508413427, Valid Loss: 0.633357968696, Average Time Per Epoch: 49.8226135397
+Epoch: 51, Train Loss: 0.767853813652, Valid Loss: 0.63634541047, Average Time Per Epoch: 49.6973668033
+Epoch: 52, Train Loss: 0.783423112096, Valid Loss: 0.563966883825, Average Time Per Epoch: 49.5665324055
+Best loss so far encountered, saving model.
+Epoch: 53, Train Loss: 0.764288106866, Valid Loss: 0.588806695557, Average Time Per Epoch: 49.6386471694
+Epoch: 54, Train Loss: 0.743030205945, Valid Loss: 0.565939367683, Average Time Per Epoch: 49.5159534437
+Epoch: 55, Train Loss: 0.757346303659, Valid Loss: 0.653217184419, Average Time Per Epoch: 49.3974702575
+Epoch: 56, Train Loss: 0.783618603003, Valid Loss: 0.639628142862, Average Time Per Epoch: 49.2803926425
+Epoch: 57, Train Loss: 0.79088940678, Valid Loss: 0.576864106762, Average Time Per Epoch: 49.1686794047
+Epoch: 58, Train Loss: 0.77143796259, Valid Loss: 0.66685105593, Average Time Per Epoch: 49.0625793276
+Epoch: 59, Train Loss: 0.741509317539, Valid Loss: 0.645526303593, Average Time Per Epoch: 48.9534390013
+Epoch: 60, Train Loss: 0.764105250856, Valid Loss: 0.605531965588, Average Time Per Epoch: 48.8492376169
+Epoch: 61, Train Loss: 0.759878088398, Valid Loss: 0.609832328516, Average Time Per Epoch: 48.7469756408
+Epoch: 62, Train Loss: 0.746119752628, Valid Loss: 0.588022587701, Average Time Per Epoch: 48.6506833223
+Epoch: 63, Train Loss: 0.765403315628, Valid Loss: 0.595081776156, Average Time Per Epoch: 48.5582802712
+Epoch: 64, Train Loss: 0.768956897238, Valid Loss: 0.557125087637, Average Time Per Epoch: 48.4679427668
+Best loss so far encountered, saving model.
+Epoch: 65, Train Loss: 0.738070923903, Valid Loss: 0.620367373435, Average Time Per Epoch: 48.5264427552
+Epoch: 66, Train Loss: 0.739979233898, Valid Loss: 0.626483375195, Average Time Per Epoch: 48.4341729265
+Epoch: 67, Train Loss: 0.735770701109, Valid Loss: 0.568121516635, Average Time Per Epoch: 48.3449014336
+Epoch: 68, Train Loss: 0.748315887797, Valid Loss: 0.575386330073, Average Time Per Epoch: 48.2547628529
+Epoch: 69, Train Loss: 0.733042618531, Valid Loss: 0.564140371189, Average Time Per Epoch: 48.1794304502
+Epoch: 70, Train Loss: 0.737286351621, Valid Loss: 0.566807607716, Average Time Per Epoch: 48.0949886288
+Epoch: 71, Train Loss: 0.754758677124, Valid Loss: 0.61140120048, Average Time Per Epoch: 48.0131317058
+Epoch: 72, Train Loss: 0.775339816985, Valid Loss: 0.604410706927, Average Time Per Epoch: 47.9338028199
+Epoch: 73, Train Loss: 0.728617720475, Valid Loss: 0.567072343405, Average Time Per Epoch: 47.8538197687
+Epoch: 74, Train Loss: 0.745531358722, Valid Loss: 0.609193378284, Average Time Per Epoch: 47.7768014347
+Epoch: 75, Train Loss: 0.735852497918, Valid Loss: 0.556951991228, Average Time Per Epoch: 47.7018765481
+Best loss so far encountered, saving model.
+Epoch: 76, Train Loss: 0.737247332101, Valid Loss: 0.563962493748, Average Time Per Epoch: 47.7747255407
+Epoch: 77, Train Loss: 0.710290502283, Valid Loss: 0.559815614834, Average Time Per Epoch: 47.7025808049
+Epoch: 78, Train Loss: 0.721853305704, Valid Loss: 0.645163705299, Average Time Per Epoch: 47.632089948
+Epoch: 79, Train Loss: 0.746466611427, Valid Loss: 0.608968813094, Average Time Per Epoch: 47.5613109009
+Epoch: 80, Train Loss: 0.718764375997, Valid Loss: 0.634217840416, Average Time Per Epoch: 47.4946005255
+Epoch: 81, Train Loss: 0.738371443274, Valid Loss: 0.599962782478, Average Time Per Epoch: 47.4305031358
+Epoch: 82, Train Loss: 0.722262420268, Valid Loss: 0.63984926586, Average Time Per Epoch: 47.3652298043
+Epoch: 83, Train Loss: 0.786951938034, Valid Loss: 0.552703397138, Average Time Per Epoch: 47.3020904696
+Best loss so far encountered, saving model.
+Epoch: 84, Train Loss: 0.736435002461, Valid Loss: 0.744406498494, Average Time Per Epoch: 47.3545592512
+Epoch: 85, Train Loss: 0.764657638188, Valid Loss: 0.570015234398, Average Time Per Epoch: 47.2867288113
+Epoch: 86, Train Loss: 0.724787261083, Valid Loss: 0.599266963933, Average Time Per Epoch: 47.2249794672
+Epoch: 87, Train Loss: 0.703699041615, Valid Loss: 0.72872066945, Average Time Per Epoch: 47.1683674379
+Epoch: 88, Train Loss: 0.768943821673, Valid Loss: 0.616005178711, Average Time Per Epoch: 47.1075459665
+Epoch: 89, Train Loss: 0.705688434094, Valid Loss: 0.621015351861, Average Time Per Epoch: 47.0458490447
+Epoch: 90, Train Loss: 0.725269773941, Valid Loss: 0.608429304161, Average Time Per Epoch: 46.9881420109
+Epoch: 91, Train Loss: 0.709105732766, Valid Loss: 0.564772785611, Average Time Per Epoch: 46.9301376814
+Epoch: 92, Train Loss: 0.706388377906, Valid Loss: 0.623292371883, Average Time Per Epoch: 46.8763644255
+Epoch: 93, Train Loss: 0.732684402202, Valid Loss: 0.667818660661, Average Time Per Epoch: 46.8234808394
+Epoch: 94, Train Loss: 0.689615107463, Valid Loss: 0.762064622121, Average Time Per Epoch: 46.7820585763
+Epoch: 95, Train Loss: 0.744990167022, Valid Loss: 0.642190793182, Average Time Per Epoch: 46.7303743889
+Epoch: 96, Train Loss: 0.737372565608, Valid Loss: 0.567939276555, Average Time Per Epoch: 46.6815285534
+Epoch: 97, Train Loss: 0.71710201385, Valid Loss: 0.722252391988, Average Time Per Epoch: 46.6300859894
+Epoch: 98, Train Loss: 0.744768009436, Valid Loss: 0.603364295006, Average Time Per Epoch: 46.5827786631
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.552703397138
+Found best new model!
+Best Config: Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.552703397138
+Num Layers: 1, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.04669123509, Valid Loss: 2.36974322085, Average Time Per Epoch: 160.479174137
+Epoch: 2, Train Loss: 1.95333940075, Valid Loss: 1.8998971607, Average Time Per Epoch: 121.118896604
+Epoch: 3, Train Loss: 1.77543511838, Valid Loss: 1.62851958253, Average Time Per Epoch: 106.558383385
+Epoch: 4, Train Loss: 1.64660267302, Valid Loss: 1.30971980364, Average Time Per Epoch: 98.038485527
+Epoch: 5, Train Loss: 1.50486576754, Valid Loss: 1.2140935493, Average Time Per Epoch: 92.2386340141
+Epoch: 6, Train Loss: 1.41962855594, Valid Loss: 1.09196914196, Average Time Per Epoch: 88.4165167014
+Epoch: 7, Train Loss: 1.30269769579, Valid Loss: 0.914188263075, Average Time Per Epoch: 85.5492981502
+Epoch: 8, Train Loss: 1.25878050896, Valid Loss: 1.08960554062, Average Time Per Epoch: 83.2717474997
+Valid loss increased for the first time, will start saving models
+Epoch: 9, Train Loss: 1.18643223359, Valid Loss: 0.878329249409, Average Time Per Epoch: 82.6360663308
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.17941498496, Valid Loss: 0.865329793309, Average Time Per Epoch: 81.9698312044
+Best loss so far encountered, saving model.
+Epoch: 11, Train Loss: 1.07887694158, Valid Loss: 0.757433166382, Average Time Per Epoch: 81.3109209104
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.04510327517, Valid Loss: 0.745403024001, Average Time Per Epoch: 80.7812879284
+Best loss so far encountered, saving model.
+Epoch: 13, Train Loss: 1.00870656242, Valid Loss: 0.721137145823, Average Time Per Epoch: 80.282125308
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.03025692759, Valid Loss: 0.990902022096, Average Time Per Epoch: 79.8415027857
+Epoch: 15, Train Loss: 0.997496391562, Valid Loss: 0.654884410492, Average Time Per Epoch: 78.8751378059
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 0.928245473687, Valid Loss: 0.737430708868, Average Time Per Epoch: 78.5839074403
+Epoch: 17, Train Loss: 0.915798815916, Valid Loss: 0.652512583946, Average Time Per Epoch: 77.7679623576
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 0.91282607703, Valid Loss: 0.790247625272, Average Time Per Epoch: 77.5978423357
+Epoch: 19, Train Loss: 0.879776342653, Valid Loss: 0.740854154259, Average Time Per Epoch: 76.8611894281
+Epoch: 20, Train Loss: 0.861254236779, Valid Loss: 0.64981756701, Average Time Per Epoch: 76.1623870015
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 0.897195555879, Valid Loss: 0.638106851339, Average Time Per Epoch: 75.9217142378
+Best loss so far encountered, saving model.
+Epoch: 22, Train Loss: 0.869448736208, Valid Loss: 0.624102315119, Average Time Per Epoch: 75.7307674126
+Best loss so far encountered, saving model.
+Epoch: 23, Train Loss: 0.849480621347, Valid Loss: 0.631899154223, Average Time Per Epoch: 75.6038468299
+Epoch: 24, Train Loss: 0.860258990255, Valid Loss: 0.659970983002, Average Time Per Epoch: 75.0536431273
+Epoch: 25, Train Loss: 0.811692635817, Valid Loss: 0.644936206399, Average Time Per Epoch: 74.5382674789
+Epoch: 26, Train Loss: 0.791780777919, Valid Loss: 0.592790229309, Average Time Per Epoch: 74.0661627329
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 0.851097512956, Valid Loss: 0.632672475394, Average Time Per Epoch: 73.9859141862
+Epoch: 28, Train Loss: 0.789577281103, Valid Loss: 0.610309377151, Average Time Per Epoch: 73.5580975413
+Epoch: 29, Train Loss: 0.784591491859, Valid Loss: 0.595645015786, Average Time Per Epoch: 73.1584967991
+Epoch: 30, Train Loss: 0.76199989881, Valid Loss: 0.607195327406, Average Time Per Epoch: 72.7719116052
+Epoch: 31, Train Loss: 0.80794362673, Valid Loss: 0.61885908111, Average Time Per Epoch: 72.4074103909
+Epoch: 32, Train Loss: 0.790655099025, Valid Loss: 0.61618385641, Average Time Per Epoch: 72.0541563183
+Epoch: 33, Train Loss: 0.760934512995, Valid Loss: 0.619379531049, Average Time Per Epoch: 71.71885882
+Epoch: 34, Train Loss: 0.762649662132, Valid Loss: 0.779225561411, Average Time Per Epoch: 71.4101984711
+Epoch: 35, Train Loss: 0.751455719159, Valid Loss: 0.594766497384, Average Time Per Epoch: 71.1262194565
+Epoch: 36, Train Loss: 0.763359362006, Valid Loss: 0.660516357893, Average Time Per Epoch: 70.8702902264
+Epoch: 37, Train Loss: 0.739679558067, Valid Loss: 0.651810832968, Average Time Per Epoch: 70.6175821407
+Epoch: 38, Train Loss: 0.733273368413, Valid Loss: 0.680645715684, Average Time Per Epoch: 70.3658885015
+Epoch: 39, Train Loss: 0.730428412083, Valid Loss: 0.718901174604, Average Time Per Epoch: 70.1267714623
+Epoch: 40, Train Loss: 0.748292794671, Valid Loss: 0.614060077112, Average Time Per Epoch: 69.8942402005
+Epoch: 41, Train Loss: 0.774508083933, Valid Loss: 0.63304773435, Average Time Per Epoch: 69.6643279064
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.592790229309
+Best Config: Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.552703397138
+Num Layers: 1, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.08821269057, Valid Loss: 2.14441108545, Average Time Per Epoch: 164.074193001
+Epoch: 2, Train Loss: 1.98160376562, Valid Loss: 2.06122198542, Average Time Per Epoch: 127.154227495
+Epoch: 3, Train Loss: 1.85224644135, Valid Loss: 1.60309936789, Average Time Per Epoch: 112.756975333
+Epoch: 4, Train Loss: 1.73810337863, Valid Loss: 1.47296850783, Average Time Per Epoch: 104.51922226
+Epoch: 5, Train Loss: 1.58040067994, Valid Loss: 1.34199622046, Average Time Per Epoch: 98.7444643974
+Epoch: 6, Train Loss: 1.45816629746, Valid Loss: 0.979468278363, Average Time Per Epoch: 94.4410620133
+Epoch: 7, Train Loss: 1.34349516061, Valid Loss: 0.882185026141, Average Time Per Epoch: 90.9919959818
+Epoch: 8, Train Loss: 1.37301185531, Valid Loss: 0.80097906595, Average Time Per Epoch: 88.3270030022
+Epoch: 9, Train Loss: 1.27668463764, Valid Loss: 0.786852228041, Average Time Per Epoch: 86.2964408927
+Epoch: 10, Train Loss: 1.18650682873, Valid Loss: 0.876467300087, Average Time Per Epoch: 84.6020463943
+Valid loss increased for the first time, will start saving models
+Epoch: 11, Train Loss: 1.1129724401, Valid Loss: 0.710818505682, Average Time Per Epoch: 83.9906294563
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.12467203191, Valid Loss: 0.824793161307, Average Time Per Epoch: 83.4060173233
+Epoch: 13, Train Loss: 1.04873668416, Valid Loss: 0.756021717145, Average Time Per Epoch: 82.1885376894
+Epoch: 14, Train Loss: 1.06525146538, Valid Loss: 0.695516213559, Average Time Per Epoch: 81.0921003478
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 0.982434501702, Valid Loss: 0.718017811107, Average Time Per Epoch: 80.7475766659
+Epoch: 16, Train Loss: 1.00104505823, Valid Loss: 0.715696513334, Average Time Per Epoch: 79.8404257447
+Epoch: 17, Train Loss: 0.96040752652, Valid Loss: 0.629528592265, Average Time Per Epoch: 79.0492354141
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 0.934139065343, Valid Loss: 0.762668588725, Average Time Per Epoch: 78.8333772818
+Epoch: 19, Train Loss: 0.924662410332, Valid Loss: 0.636147212022, Average Time Per Epoch: 78.1079920468
+Epoch: 20, Train Loss: 0.923366186192, Valid Loss: 0.61762807956, Average Time Per Epoch: 77.4448488474
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 0.918201419102, Valid Loss: 0.594457179829, Average Time Per Epoch: 77.2861125242
+Best loss so far encountered, saving model.
+Epoch: 22, Train Loss: 0.904800196432, Valid Loss: 0.603389722726, Average Time Per Epoch: 77.1516725909
+Epoch: 23, Train Loss: 0.850196176429, Valid Loss: 0.639535696036, Average Time Per Epoch: 76.589706649
+Epoch: 24, Train Loss: 0.844752213528, Valid Loss: 0.734630476956, Average Time Per Epoch: 76.0684350828
+Epoch: 25, Train Loss: 0.914632272991, Valid Loss: 0.5782565988, Average Time Per Epoch: 75.5798733616
+Best loss so far encountered, saving model.
+Epoch: 26, Train Loss: 0.883317513798, Valid Loss: 0.608357854179, Average Time Per Epoch: 75.4849576125
+Epoch: 27, Train Loss: 0.822278751331, Valid Loss: 0.640094420316, Average Time Per Epoch: 75.0298286279
+Epoch: 28, Train Loss: 0.832453505153, Valid Loss: 0.715551562719, Average Time Per Epoch: 74.6039808903
+Epoch: 29, Train Loss: 0.822141432999, Valid Loss: 0.686823410615, Average Time Per Epoch: 74.1963465132
+Epoch: 30, Train Loss: 0.826603848961, Valid Loss: 0.57362564045, Average Time Per Epoch: 73.8113703966
+Best loss so far encountered, saving model.
+Epoch: 31, Train Loss: 0.818545633521, Valid Loss: 0.618737099285, Average Time Per Epoch: 73.7637244194
+Epoch: 32, Train Loss: 0.809725995802, Valid Loss: 0.605406008734, Average Time Per Epoch: 73.4188764989
+Epoch: 33, Train Loss: 0.797961253131, Valid Loss: 0.574515889585, Average Time Per Epoch: 73.0950595755
+Epoch: 34, Train Loss: 0.80964548222, Valid Loss: 0.625994712365, Average Time Per Epoch: 72.7857705285
+Epoch: 35, Train Loss: 0.807560407607, Valid Loss: 0.615117630475, Average Time Per Epoch: 72.4839278562
+Epoch: 36, Train Loss: 0.773715277118, Valid Loss: 0.605199617381, Average Time Per Epoch: 72.1856845816
+Epoch: 37, Train Loss: 0.769652941958, Valid Loss: 0.589371906138, Average Time Per Epoch: 71.9147506727
+Epoch: 38, Train Loss: 0.775684701448, Valid Loss: 0.579277685264, Average Time Per Epoch: 71.6485738127
+Epoch: 39, Train Loss: 0.760953200067, Valid Loss: 0.573733476736, Average Time Per Epoch: 71.3802124598
+Epoch: 40, Train Loss: 0.735001869737, Valid Loss: 0.608205301539, Average Time Per Epoch: 71.1253051996
+Epoch: 41, Train Loss: 0.790757181428, Valid Loss: 0.588559144611, Average Time Per Epoch: 70.8778014125
+Epoch: 42, Train Loss: 0.756813934395, Valid Loss: 0.574811942807, Average Time Per Epoch: 70.6415344761
+Epoch: 43, Train Loss: 0.755068711361, Valid Loss: 0.56729289469, Average Time Per Epoch: 70.4178017461
+Best loss so far encountered, saving model.
+Epoch: 44, Train Loss: 0.749238667298, Valid Loss: 0.615569380723, Average Time Per Epoch: 70.4374919534
+Epoch: 45, Train Loss: 0.739847618951, Valid Loss: 0.579104509228, Average Time Per Epoch: 70.2353586197
+Epoch: 46, Train Loss: 0.771752600186, Valid Loss: 0.575626919435, Average Time Per Epoch: 70.0401690887
+Epoch: 47, Train Loss: 0.743911116773, Valid Loss: 0.637753499315, Average Time Per Epoch: 69.8412904892
+Epoch: 48, Train Loss: 0.771268202974, Valid Loss: 0.60747354856, Average Time Per Epoch: 69.6550469796
+Epoch: 49, Train Loss: 0.720704381862, Valid Loss: 0.592507488945, Average Time Per Epoch: 69.4720247327
+Epoch: 50, Train Loss: 0.700849604776, Valid Loss: 0.608158363102, Average Time Per Epoch: 69.2947279406
+Epoch: 51, Train Loss: 0.703025271219, Valid Loss: 0.580985755575, Average Time Per Epoch: 69.1291029781
+Epoch: 52, Train Loss: 0.727403655614, Valid Loss: 0.562684092874, Average Time Per Epoch: 68.9686067884
+Best loss so far encountered, saving model.
+Epoch: 53, Train Loss: 0.689418322424, Valid Loss: 0.662463669735, Average Time Per Epoch: 69.0090852998
+Epoch: 54, Train Loss: 0.700023021346, Valid Loss: 0.5675404422, Average Time Per Epoch: 68.8546322231
+Epoch: 55, Train Loss: 0.755089160258, Valid Loss: 0.598363509769, Average Time Per Epoch: 68.7010159796
+Epoch: 56, Train Loss: 0.718044877408, Valid Loss: 0.574911111572, Average Time Per Epoch: 68.5549824451
+Epoch: 57, Train Loss: 0.708072517474, Valid Loss: 0.568945505854, Average Time Per Epoch: 68.4165111592
+Epoch: 58, Train Loss: 0.705492067337, Valid Loss: 0.567893983855, Average Time Per Epoch: 68.2836982752
+Epoch: 59, Train Loss: 0.688204086792, Valid Loss: 0.573024181611, Average Time Per Epoch: 68.1548954552
+Epoch: 60, Train Loss: 0.731281670572, Valid Loss: 0.566946027436, Average Time Per Epoch: 68.0293550332
+Epoch: 61, Train Loss: 0.68554796441, Valid Loss: 0.562969356769, Average Time Per Epoch: 67.9071072789
+Epoch: 62, Train Loss: 0.743105894564, Valid Loss: 0.573127284545, Average Time Per Epoch: 67.811837031
+Epoch: 63, Train Loss: 0.718783470362, Valid Loss: 0.576005399747, Average Time Per Epoch: 67.6995402064
+Epoch: 64, Train Loss: 0.681222604638, Valid Loss: 0.606897164477, Average Time Per Epoch: 67.5925717801
+Epoch: 65, Train Loss: 0.681687385894, Valid Loss: 0.641536794259, Average Time Per Epoch: 67.4902133832
+Epoch: 66, Train Loss: 0.68471843138, Valid Loss: 0.621132381508, Average Time Per Epoch: 67.3892998009
+Epoch: 67, Train Loss: 0.691859598542, Valid Loss: 0.583132531461, Average Time Per Epoch: 67.2901201177
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.562684092874
+Best Config: Num Layers: 1, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.552703397138
+Num Layers: 1, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.08786731173, Valid Loss: 2.21610496607, Average Time Per Epoch: 158.764078856
+Epoch: 2, Train Loss: 1.98970536007, Valid Loss: 1.81901911246, Average Time Per Epoch: 120.619000435
+Epoch: 3, Train Loss: 1.86065046069, Valid Loss: 1.64205902867, Average Time Per Epoch: 106.353557666
+Epoch: 4, Train Loss: 1.73559501368, Valid Loss: 1.36646651008, Average Time Per Epoch: 98.1967830062
+Epoch: 5, Train Loss: 1.67021614936, Valid Loss: 1.16931859259, Average Time Per Epoch: 92.8487951756
+Epoch: 6, Train Loss: 1.56181735654, Valid Loss: 1.12512912729, Average Time Per Epoch: 88.9198596478
+Epoch: 7, Train Loss: 1.46429323696, Valid Loss: 1.06489841971, Average Time Per Epoch: 86.0113669804
+Epoch: 8, Train Loss: 1.41280384267, Valid Loss: 0.830281138808, Average Time Per Epoch: 83.8843207359
+Epoch: 9, Train Loss: 1.34714660604, Valid Loss: 0.878506207977, Average Time Per Epoch: 82.2914303409
+Valid loss increased for the first time, will start saving models
+Epoch: 10, Train Loss: 1.25895853259, Valid Loss: 1.24327858344, Average Time Per Epoch: 82.0569222927
+Epoch: 11, Train Loss: 1.18902371654, Valid Loss: 0.773662402139, Average Time Per Epoch: 80.8084197261
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.15793306868, Valid Loss: 1.29420787519, Average Time Per Epoch: 80.5083037416
+Epoch: 13, Train Loss: 1.18155600371, Valid Loss: 0.741033934671, Average Time Per Epoch: 79.3921811581
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.13068104559, Valid Loss: 0.829699358409, Average Time Per Epoch: 79.0583122117
+Epoch: 15, Train Loss: 1.05572078333, Valid Loss: 0.640837972587, Average Time Per Epoch: 78.1641650677
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.02324576842, Valid Loss: 0.61890703538, Average Time Per Epoch: 77.919966504
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.04183553837, Valid Loss: 0.697025335523, Average Time Per Epoch: 77.7314230554
+Epoch: 18, Train Loss: 1.04552411677, Valid Loss: 0.616575567125, Average Time Per Epoch: 77.0069901148
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 1.04322293899, Valid Loss: 0.647167339704, Average Time Per Epoch: 76.828838888
+Epoch: 20, Train Loss: 0.965140383013, Valid Loss: 0.698279478913, Average Time Per Epoch: 76.2022905469
+Epoch: 21, Train Loss: 0.97472467453, Valid Loss: 0.611690080927, Average Time Per Epoch: 75.6005350976
+Best loss so far encountered, saving model.
+Epoch: 22, Train Loss: 0.938551188091, Valid Loss: 0.622836793073, Average Time Per Epoch: 75.4625111385
+Epoch: 23, Train Loss: 0.95140956095, Valid Loss: 0.670480697416, Average Time Per Epoch: 74.9178797784
+Epoch: 24, Train Loss: 0.899857817726, Valid Loss: 0.662791354886, Average Time Per Epoch: 74.4168684185
+Epoch: 25, Train Loss: 0.922629591315, Valid Loss: 0.651240166847, Average Time Per Epoch: 73.9521746349
+Epoch: 26, Train Loss: 0.939276560159, Valid Loss: 0.657546908661, Average Time Per Epoch: 73.5102160344
+Epoch: 27, Train Loss: 0.910893623497, Valid Loss: 0.616021043249, Average Time Per Epoch: 73.1077226268
+Epoch: 28, Train Loss: 0.889655512504, Valid Loss: 0.632832049174, Average Time Per Epoch: 72.7126255717
+Epoch: 29, Train Loss: 0.888501060957, Valid Loss: 0.664504633079, Average Time Per Epoch: 72.3531515187
+Epoch: 30, Train Loss: 0.882435385849, Valid Loss: 0.623434094855, Average Time Per Epoch: 72.0559675296
+Epoch: 31, Train Loss: 0.883593876287, Valid Loss: 0.606597534334, Average Time Per Epoch: 71.7593791254
+Best loss so far encountered, saving model.
+Epoch: 32, Train Loss: 0.856339237805, Valid Loss: 0.620551978585, Average Time Per Epoch: 71.7646214068
+Epoch: 33, Train Loss: 0.872448203103, Valid Loss: 0.635736509201, Average Time Per Epoch: 71.4858489398
+Epoch: 34, Train Loss: 0.798718248951, Valid Loss: 0.580130994082, Average Time Per Epoch: 71.2104855565
+Best loss so far encountered, saving model.
+Epoch: 35, Train Loss: 0.82693364522, Valid Loss: 0.658710299468, Average Time Per Epoch: 71.2277256557
+Epoch: 36, Train Loss: 0.865458723869, Valid Loss: 0.583625985907, Average Time Per Epoch: 70.9754876627
+Epoch: 37, Train Loss: 0.854392011633, Valid Loss: 0.631305671435, Average Time Per Epoch: 70.7234561314
+Epoch: 38, Train Loss: 0.8299830561, Valid Loss: 0.584087550462, Average Time Per Epoch: 70.4788873698
+Epoch: 39, Train Loss: 0.85929948972, Valid Loss: 0.578112754953, Average Time Per Epoch: 70.2463647708
+Best loss so far encountered, saving model.
+Epoch: 40, Train Loss: 0.846413973008, Valid Loss: 0.609630887632, Average Time Per Epoch: 70.2744445741
+Epoch: 41, Train Loss: 0.817755159228, Valid Loss: 0.632909954764, Average Time Per Epoch: 70.0580969962
+Epoch: 42, Train Loss: 0.795313434946, Valid Loss: 0.594940629897, Average Time Per Epoch: 69.8483110439
+Epoch: 43, Train Loss: 0.795579537817, Valid Loss: 0.631707325689, Average Time Per Epoch: 69.6584836494
+Epoch: 44, Train Loss: 0.784415722808, Valid Loss: 0.592133515214, Average Time Per Epoch: 69.4813907743
+Epoch: 45, Train Loss: 0.759203932028, Valid Loss: 0.560678479883, Average Time Per Epoch: 69.3064367347
+Best loss so far encountered, saving model.
+Epoch: 46, Train Loss: 0.795998647064, Valid Loss: 0.556157333238, Average Time Per Epoch: 69.3553396723
+Best loss so far encountered, saving model.
+Epoch: 47, Train Loss: 0.778362066096, Valid Loss: 0.674449413291, Average Time Per Epoch: 69.4201902734
+Epoch: 48, Train Loss: 0.803690482371, Valid Loss: 0.670148999843, Average Time Per Epoch: 69.2476498137
+Epoch: 49, Train Loss: 0.768678417903, Valid Loss: 0.628415512602, Average Time Per Epoch: 69.0813882643
+Epoch: 50, Train Loss: 0.79437781911, Valid Loss: 0.547779750863, Average Time Per Epoch: 68.9286502981
+Best loss so far encountered, saving model.
+Epoch: 51, Train Loss: 0.774770622023, Valid Loss: 0.641417179032, Average Time Per Epoch: 68.9616558412
+Epoch: 52, Train Loss: 0.757358985462, Valid Loss: 0.563390742486, Average Time Per Epoch: 68.8096938821
+Epoch: 53, Train Loss: 0.732494551248, Valid Loss: 0.567506627889, Average Time Per Epoch: 68.6716032253
+Epoch: 54, Train Loss: 0.76547278413, Valid Loss: 0.632889425695, Average Time Per Epoch: 68.535540722
+Epoch: 55, Train Loss: 0.752296904915, Valid Loss: 0.562981361472, Average Time Per Epoch: 68.4044353442
+Epoch: 56, Train Loss: 0.732952196185, Valid Loss: 0.563270515737, Average Time Per Epoch: 68.2816196425
+Epoch: 57, Train Loss: 0.737259787592, Valid Loss: 0.567991627677, Average Time Per Epoch: 68.1689708944
+Epoch: 58, Train Loss: 0.74339436782, Valid Loss: 0.570111116854, Average Time Per Epoch: 68.0603659112
+Epoch: 59, Train Loss: 0.745020072806, Valid Loss: 0.693777007341, Average Time Per Epoch: 67.9683914063
+Epoch: 60, Train Loss: 0.756381978298, Valid Loss: 0.601835862799, Average Time Per Epoch: 67.8725687981
+Epoch: 61, Train Loss: 0.739154807597, Valid Loss: 0.558938575861, Average Time Per Epoch: 67.7773850629
+Epoch: 62, Train Loss: 0.701310957393, Valid Loss: 0.565514248747, Average Time Per Epoch: 67.6807370493
+Epoch: 63, Train Loss: 0.770583353395, Valid Loss: 0.685197277073, Average Time Per Epoch: 67.5780245085
+Epoch: 64, Train Loss: 0.79852261252, Valid Loss: 0.590685739588, Average Time Per Epoch: 67.4782190472
+Epoch: 65, Train Loss: 0.71676932238, Valid Loss: 0.601995940355, Average Time Per Epoch: 67.3845878748
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 1, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.547779750863
+Found best new model!
+Best Config: Num Layers: 1, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.547779750863
+Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.09084644941, Valid Loss: 2.28579158115, Average Time Per Epoch: 124.672064066
+Epoch: 2, Train Loss: 2.06227911467, Valid Loss: 2.4337627291, Average Time Per Epoch: 98.3511794806
+Valid loss increased for the first time, will start saving models
+Epoch: 3, Train Loss: 2.01596697894, Valid Loss: 2.01396144064, Average Time Per Epoch: 97.1447933515
+Best loss so far encountered, saving model.
+Epoch: 4, Train Loss: 1.96928654462, Valid Loss: 1.78595335906, Average Time Per Epoch: 95.8805385232
+Best loss so far encountered, saving model.
+Epoch: 5, Train Loss: 1.87764328501, Valid Loss: 1.88292915595, Average Time Per Epoch: 94.740335989
+Epoch: 6, Train Loss: 1.81111526801, Valid Loss: 1.7332448284, Average Time Per Epoch: 90.9350866874
+Best loss so far encountered, saving model.
+Epoch: 7, Train Loss: 1.72834289494, Valid Loss: 1.39016035758, Average Time Per Epoch: 90.5245321478
+Best loss so far encountered, saving model.
+Epoch: 8, Train Loss: 1.58179570829, Valid Loss: 1.30458067844, Average Time Per Epoch: 90.1626160145
+Best loss so far encountered, saving model.
+Epoch: 9, Train Loss: 1.52662988346, Valid Loss: 1.27060634288, Average Time Per Epoch: 89.8480872313
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.45266859071, Valid Loss: 1.02329574389, Average Time Per Epoch: 89.5560702085
+Best loss so far encountered, saving model.
+Epoch: 11, Train Loss: 1.3771427374, Valid Loss: 0.988611978117, Average Time Per Epoch: 89.4187894518
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.37000501149, Valid Loss: 1.13272971522, Average Time Per Epoch: 88.9830622474
+Epoch: 13, Train Loss: 1.3261950736, Valid Loss: 0.958674681373, Average Time Per Epoch: 87.391859238
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.23221079751, Valid Loss: 0.826393977032, Average Time Per Epoch: 87.3048136405
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.17489479719, Valid Loss: 1.05364846351, Average Time Per Epoch: 87.2316631317
+Epoch: 16, Train Loss: 1.13516907313, Valid Loss: 0.77885847656, Average Time Per Epoch: 86.0771718174
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.10096756728, Valid Loss: 0.79984992408, Average Time Per Epoch: 85.9512515349
+Epoch: 18, Train Loss: 1.07812396654, Valid Loss: 0.809850734865, Average Time Per Epoch: 84.9399420553
+Epoch: 19, Train Loss: 0.963875014504, Valid Loss: 0.772632360044, Average Time Per Epoch: 84.0071367339
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 1.00563021444, Valid Loss: 0.790027540298, Average Time Per Epoch: 84.095103848
+Epoch: 21, Train Loss: 0.967449818619, Valid Loss: 0.697102556557, Average Time Per Epoch: 83.3131254287
+Best loss so far encountered, saving model.
+Epoch: 22, Train Loss: 0.992475530505, Valid Loss: 0.711188088878, Average Time Per Epoch: 83.4137174975
+Epoch: 23, Train Loss: 0.90661267733, Valid Loss: 0.622746680156, Average Time Per Epoch: 82.713590653
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 0.90496099554, Valid Loss: 0.638498030939, Average Time Per Epoch: 82.7929945389
+Epoch: 25, Train Loss: 0.888650258969, Valid Loss: 0.683308931663, Average Time Per Epoch: 82.1464729595
+Epoch: 26, Train Loss: 0.816280207851, Valid Loss: 0.597080184038, Average Time Per Epoch: 81.5386670003
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 0.841598753191, Valid Loss: 0.631257670901, Average Time Per Epoch: 81.6059980392
+Epoch: 28, Train Loss: 0.813600079309, Valid Loss: 0.598183402065, Average Time Per Epoch: 81.0346472859
+Epoch: 29, Train Loss: 0.787198665772, Valid Loss: 0.626915840533, Average Time Per Epoch: 80.503989902
+Epoch: 30, Train Loss: 0.821540505337, Valid Loss: 0.609530454392, Average Time Per Epoch: 79.9985751708
+Epoch: 31, Train Loss: 0.80184941793, Valid Loss: 0.586875906595, Average Time Per Epoch: 79.5306751959
+Best loss so far encountered, saving model.
+Epoch: 32, Train Loss: 0.82245800695, Valid Loss: 0.6046946211, Average Time Per Epoch: 79.633503817
+Epoch: 33, Train Loss: 0.814551052146, Valid Loss: 0.591106716463, Average Time Per Epoch: 79.1818249442
+Epoch: 34, Train Loss: 0.76311863969, Valid Loss: 0.607894286616, Average Time Per Epoch: 78.7878660875
+Epoch: 35, Train Loss: 0.760694894499, Valid Loss: 0.588550590894, Average Time Per Epoch: 78.389492287
+Epoch: 36, Train Loss: 0.733030785908, Valid Loss: 0.633221327662, Average Time Per Epoch: 78.0033162766
+Epoch: 37, Train Loss: 0.704339251498, Valid Loss: 0.577216567182, Average Time Per Epoch: 77.6275637343
+Best loss so far encountered, saving model.
+Epoch: 38, Train Loss: 0.698276696456, Valid Loss: 0.567950685573, Average Time Per Epoch: 77.7570783465
+Best loss so far encountered, saving model.
+Epoch: 39, Train Loss: 0.712505790456, Valid Loss: 0.549663862538, Average Time Per Epoch: 77.8499605656
+Best loss so far encountered, saving model.
+Epoch: 40, Train Loss: 0.699678481997, Valid Loss: 0.57633263203, Average Time Per Epoch: 77.9766022027
+Epoch: 41, Train Loss: 0.684500632672, Valid Loss: 0.597859178261, Average Time Per Epoch: 77.645146149
+Epoch: 42, Train Loss: 0.675142278319, Valid Loss: 0.57405883586, Average Time Per Epoch: 77.3231140716
+Epoch: 43, Train Loss: 0.640906237946, Valid Loss: 1.02452189497, Average Time Per Epoch: 77.0242163747
+Epoch: 44, Train Loss: 0.675965592062, Valid Loss: 0.558143221089, Average Time Per Epoch: 76.7378677726
+Epoch: 45, Train Loss: 0.65298382816, Valid Loss: 0.570637702199, Average Time Per Epoch: 76.456003401
+Epoch: 46, Train Loss: 0.650371843593, Valid Loss: 0.545200480295, Average Time Per Epoch: 76.1921845208
+Best loss so far encountered, saving model.
+Epoch: 47, Train Loss: 0.617922244627, Valid Loss: 0.604082008849, Average Time Per Epoch: 76.3316964697
+Epoch: 48, Train Loss: 0.622474426353, Valid Loss: 0.566242343828, Average Time Per Epoch: 76.0799099157
+Epoch: 49, Train Loss: 0.625161852925, Valid Loss: 0.573634241184, Average Time Per Epoch: 75.8394384092
+Epoch: 50, Train Loss: 0.670877499878, Valid Loss: 0.595967692987, Average Time Per Epoch: 75.5988766193
+Epoch: 51, Train Loss: 0.613192712279, Valid Loss: 0.581909904038, Average Time Per Epoch: 75.3695238852
+Epoch: 52, Train Loss: 0.624421094273, Valid Loss: 0.568738456159, Average Time Per Epoch: 75.1431802878
+Epoch: 53, Train Loss: 0.601302391816, Valid Loss: 0.548759944532, Average Time Per Epoch: 74.921870641
+Epoch: 54, Train Loss: 0.583205245384, Valid Loss: 0.540000764229, Average Time Per Epoch: 74.7036501655
+Best loss so far encountered, saving model.
+Epoch: 55, Train Loss: 0.560563404147, Valid Loss: 0.543266013771, Average Time Per Epoch: 74.8324206352
+Epoch: 56, Train Loss: 0.572650802525, Valid Loss: 0.622562199903, Average Time Per Epoch: 74.6265665378
+Epoch: 57, Train Loss: 0.584265088425, Valid Loss: 0.725264474781, Average Time Per Epoch: 74.420120737
+Epoch: 58, Train Loss: 0.572983967598, Valid Loss: 0.541372620106, Average Time Per Epoch: 74.2327581233
+Epoch: 59, Train Loss: 0.585759955408, Valid Loss: 0.547304288837, Average Time Per Epoch: 74.0537460861
+Epoch: 60, Train Loss: 0.582356776974, Valid Loss: 0.534205268415, Average Time Per Epoch: 73.8787429174
+Best loss so far encountered, saving model.
+Epoch: 61, Train Loss: 0.592029008591, Valid Loss: 0.544618718331, Average Time Per Epoch: 74.0039500682
+Epoch: 62, Train Loss: 0.573227595335, Valid Loss: 0.540942448815, Average Time Per Epoch: 73.8336793377
+Epoch: 63, Train Loss: 0.533311166293, Valid Loss: 0.534236392253, Average Time Per Epoch: 73.6679283172
+Epoch: 64, Train Loss: 0.561273120022, Valid Loss: 0.531429462796, Average Time Per Epoch: 73.5170038454
+Best loss so far encountered, saving model.
+Epoch: 65, Train Loss: 0.536643282832, Valid Loss: 0.530345023446, Average Time Per Epoch: 73.6470746004
+Best loss so far encountered, saving model.
+Epoch: 66, Train Loss: 0.558430371569, Valid Loss: 0.543276102019, Average Time Per Epoch: 73.7617114855
+Epoch: 67, Train Loss: 0.539104929803, Valid Loss: 0.558973643887, Average Time Per Epoch: 73.6057000018
+Epoch: 68, Train Loss: 0.519652268291, Valid Loss: 0.545694759072, Average Time Per Epoch: 73.4616777651
+Epoch: 69, Train Loss: 0.542798298191, Valid Loss: 0.539702493606, Average Time Per Epoch: 73.317291899
+Epoch: 70, Train Loss: 0.523346741379, Valid Loss: 0.54048713443, Average Time Per Epoch: 73.1732822009
+Epoch: 71, Train Loss: 0.529362565956, Valid Loss: 0.51663614129, Average Time Per Epoch: 73.0305731431
+Best loss so far encountered, saving model.
+Epoch: 72, Train Loss: 0.529711636647, Valid Loss: 0.538488504287, Average Time Per Epoch: 73.1484980981
+Epoch: 73, Train Loss: 0.497479473783, Valid Loss: 0.535264359591, Average Time Per Epoch: 73.0097362048
+Epoch: 74, Train Loss: 0.49150446225, Valid Loss: 0.536770152541, Average Time Per Epoch: 72.8729185156
+Epoch: 75, Train Loss: 0.482854133607, Valid Loss: 0.528043985966, Average Time Per Epoch: 72.7375417201
+Epoch: 76, Train Loss: 0.490575607375, Valid Loss: 0.585224628084, Average Time Per Epoch: 72.6045127103
+Epoch: 77, Train Loss: 0.508875039897, Valid Loss: 0.541540272201, Average Time Per Epoch: 72.4758446371
+Epoch: 78, Train Loss: 0.507108592327, Valid Loss: 0.578570048341, Average Time Per Epoch: 72.3491080785
+Epoch: 79, Train Loss: 0.526184517839, Valid Loss: 0.519991342892, Average Time Per Epoch: 72.2258024578
+Epoch: 80, Train Loss: 0.499119911563, Valid Loss: 0.538774370024, Average Time Per Epoch: 72.1031771868
+Epoch: 81, Train Loss: 0.484239676188, Valid Loss: 0.516118442933, Average Time Per Epoch: 71.9869380733
+Best loss so far encountered, saving model.
+Epoch: 82, Train Loss: 0.506563126939, Valid Loss: 0.533066065741, Average Time Per Epoch: 72.1013174522
+Epoch: 83, Train Loss: 0.542630152557, Valid Loss: 0.543992631748, Average Time Per Epoch: 71.9929814942
+Epoch: 84, Train Loss: 0.468779830177, Valid Loss: 0.547195045129, Average Time Per Epoch: 71.8797469764
+Epoch: 85, Train Loss: 0.467931774631, Valid Loss: 0.511733753653, Average Time Per Epoch: 71.7728504826
+Best loss so far encountered, saving model.
+Epoch: 86, Train Loss: 0.504509026134, Valid Loss: 0.513123718357, Average Time Per Epoch: 71.8879695826
+Epoch: 87, Train Loss: 0.491781608777, Valid Loss: 0.547626309377, Average Time Per Epoch: 71.7823733215
+Epoch: 88, Train Loss: 0.473111547123, Valid Loss: 0.536156415446, Average Time Per Epoch: 71.6791378747
+Epoch: 89, Train Loss: 0.464189916629, Valid Loss: 0.53283011108, Average Time Per Epoch: 71.57773072
+Epoch: 90, Train Loss: 0.482730521787, Valid Loss: 0.539981785723, Average Time Per Epoch: 71.4824002239
+Epoch: 91, Train Loss: 0.482089764997, Valid Loss: 0.540056842008, Average Time Per Epoch: 71.3889324193
+Epoch: 92, Train Loss: 0.466241104918, Valid Loss: 0.540272894983, Average Time Per Epoch: 71.2933128709
+Epoch: 93, Train Loss: 0.485817309808, Valid Loss: 0.532853957603, Average Time Per Epoch: 71.2014844084
+Epoch: 94, Train Loss: 0.465769394707, Valid Loss: 0.514703613194, Average Time Per Epoch: 71.1102227556
+Epoch: 95, Train Loss: 0.455373296006, Valid Loss: 0.516434467886, Average Time Per Epoch: 71.025966707
+Epoch: 96, Train Loss: 0.460286756317, Valid Loss: 0.518562457464, Average Time Per Epoch: 70.9383548349
+Epoch: 97, Train Loss: 0.44948707399, Valid Loss: 0.550222369131, Average Time Per Epoch: 70.8544235574
+Epoch: 98, Train Loss: 0.470061240134, Valid Loss: 0.5328663479, Average Time Per Epoch: 70.7694182445
+Epoch: 99, Train Loss: 0.444673964381, Valid Loss: 0.646917685291, Average Time Per Epoch: 70.690609708
+Epoch: 100, Train Loss: 0.462905126285, Valid Loss: 0.522854454808, Average Time Per Epoch: 70.6134695816
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.511733753653
+Found best new model!
+Best Config: Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.511733753653
+Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.09924883382, Valid Loss: 2.15173126695, Average Time Per Epoch: 129.05861187
+Epoch: 2, Train Loss: 2.07390693914, Valid Loss: 2.13920107442, Average Time Per Epoch: 100.255639434
+Epoch: 3, Train Loss: 2.02606883008, Valid Loss: 2.3171701541, Average Time Per Epoch: 91.0392603079
+Valid loss increased for the first time, will start saving models
+Epoch: 4, Train Loss: 1.96721576601, Valid Loss: 1.76336393174, Average Time Per Epoch: 90.7654169798
+Best loss so far encountered, saving model.
+Epoch: 5, Train Loss: 1.90588407815, Valid Loss: 1.73287330388, Average Time Per Epoch: 90.1544700146
+Best loss so far encountered, saving model.
+Epoch: 6, Train Loss: 1.84460978075, Valid Loss: 1.48045534347, Average Time Per Epoch: 89.5878924926
+Best loss so far encountered, saving model.
+Epoch: 7, Train Loss: 1.77055432268, Valid Loss: 2.16150853576, Average Time Per Epoch: 89.0134858404
+Epoch: 8, Train Loss: 1.72159663588, Valid Loss: 1.32570258511, Average Time Per Epoch: 86.4396815002
+Best loss so far encountered, saving model.
+Epoch: 9, Train Loss: 1.63878271614, Valid Loss: 1.22890152634, Average Time Per Epoch: 86.4684304396
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.582975673, Valid Loss: 1.09775608671, Average Time Per Epoch: 86.1080343008
+Best loss so far encountered, saving model.
+Epoch: 11, Train Loss: 1.48039751825, Valid Loss: 1.0913736923, Average Time Per Epoch: 85.8708805388
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.43023946563, Valid Loss: 1.14795336173, Average Time Per Epoch: 85.65893658
+Epoch: 13, Train Loss: 1.36458945051, Valid Loss: 0.984360118086, Average Time Per Epoch: 84.0788462345
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.35944481892, Valid Loss: 0.885702318581, Average Time Per Epoch: 84.0302065611
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.27706824006, Valid Loss: 0.831117982976, Average Time Per Epoch: 83.8328856627
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.24891043482, Valid Loss: 0.81084133645, Average Time Per Epoch: 83.7385015637
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.19126236175, Valid Loss: 0.749445355083, Average Time Per Epoch: 83.6580562311
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 1.18032249659, Valid Loss: 0.987277128656, Average Time Per Epoch: 83.6025150485
+Epoch: 19, Train Loss: 1.16022996699, Valid Loss: 0.712779629337, Average Time Per Epoch: 82.6038256319
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 1.14444692853, Valid Loss: 0.730077986631, Average Time Per Epoch: 82.4961495519
+Epoch: 21, Train Loss: 1.05433920019, Valid Loss: 0.953196985436, Average Time Per Epoch: 81.6069059031
+Epoch: 22, Train Loss: 1.06145340367, Valid Loss: 0.658011921423, Average Time Per Epoch: 80.7759815888
+Best loss so far encountered, saving model.
+Epoch: 23, Train Loss: 1.03164815655, Valid Loss: 0.632783993544, Average Time Per Epoch: 80.8012200438
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 1.02339729988, Valid Loss: 0.63102384078, Average Time Per Epoch: 80.7983133694
+Best loss so far encountered, saving model.
+Epoch: 25, Train Loss: 0.957282727821, Valid Loss: 0.595151491347, Average Time Per Epoch: 80.7957825184
+Best loss so far encountered, saving model.
+Epoch: 26, Train Loss: 1.03428801959, Valid Loss: 0.62551428495, Average Time Per Epoch: 80.7825016517
+Epoch: 27, Train Loss: 0.942597397451, Valid Loss: 0.631771516155, Average Time Per Epoch: 80.1289085547
+Epoch: 28, Train Loss: 0.924058767137, Valid Loss: 0.592387682521, Average Time Per Epoch: 79.5133996095
+Best loss so far encountered, saving model.
+Epoch: 29, Train Loss: 0.912420491942, Valid Loss: 0.720912238683, Average Time Per Epoch: 79.6126017899
+Epoch: 30, Train Loss: 0.899554836953, Valid Loss: 0.928371827066, Average Time Per Epoch: 79.0484550635
+Epoch: 31, Train Loss: 0.953464721482, Valid Loss: 0.586911150975, Average Time Per Epoch: 78.5230127765
+Best loss so far encountered, saving model.
+Epoch: 32, Train Loss: 0.833339647034, Valid Loss: 0.574311570811, Average Time Per Epoch: 78.5379772484
+Best loss so far encountered, saving model.
+Epoch: 33, Train Loss: 0.901514752311, Valid Loss: 0.564427135412, Average Time Per Epoch: 78.599866607
+Best loss so far encountered, saving model.
+Epoch: 34, Train Loss: 0.804323511401, Valid Loss: 0.56864835273, Average Time Per Epoch: 78.6627929702
+Epoch: 35, Train Loss: 0.828783769567, Valid Loss: 0.611076522352, Average Time Per Epoch: 78.20362557
+Epoch: 36, Train Loss: 0.748073571446, Valid Loss: 0.564685045094, Average Time Per Epoch: 77.7654117213
+Epoch: 37, Train Loss: 0.811904607781, Valid Loss: 0.547848806253, Average Time Per Epoch: 77.34887473
+Best loss so far encountered, saving model.
+Epoch: 38, Train Loss: 0.77149082131, Valid Loss: 0.556602657409, Average Time Per Epoch: 77.4264288137
+Epoch: 39, Train Loss: 0.763099067489, Valid Loss: 0.557209371692, Average Time Per Epoch: 77.0385397153
+Epoch: 40, Train Loss: 0.773952867734, Valid Loss: 0.580359188996, Average Time Per Epoch: 76.6668383479
+Epoch: 41, Train Loss: 0.785007652539, Valid Loss: 0.552103491727, Average Time Per Epoch: 76.3194499481
+Epoch: 42, Train Loss: 0.739529700272, Valid Loss: 0.640950279398, Average Time Per Epoch: 75.9810251679
+Epoch: 43, Train Loss: 0.742102936994, Valid Loss: 0.543722243724, Average Time Per Epoch: 75.6587216965
+Best loss so far encountered, saving model.
+Epoch: 44, Train Loss: 0.745831658048, Valid Loss: 0.537277619498, Average Time Per Epoch: 75.7783147693
+Best loss so far encountered, saving model.
+Epoch: 45, Train Loss: 0.745432534069, Valid Loss: 0.56783633432, Average Time Per Epoch: 75.8559935994
+Epoch: 46, Train Loss: 0.680228920891, Valid Loss: 0.538097742931, Average Time Per Epoch: 75.559409805
+Epoch: 47, Train Loss: 0.732539768077, Valid Loss: 0.61466957321, Average Time Per Epoch: 75.2796274043
+Epoch: 48, Train Loss: 0.725886575234, Valid Loss: 0.591698407315, Average Time Per Epoch: 75.010555312
+Epoch: 49, Train Loss: 0.753445017914, Valid Loss: 0.540185871346, Average Time Per Epoch: 74.7442739788
+Epoch: 50, Train Loss: 0.682073832845, Valid Loss: 0.527382682879, Average Time Per Epoch: 74.4855296183
+Best loss so far encountered, saving model.
+Epoch: 51, Train Loss: 0.670892647315, Valid Loss: 0.529670000771, Average Time Per Epoch: 74.5932555292
+Epoch: 52, Train Loss: 0.64985007068, Valid Loss: 0.538864337155, Average Time Per Epoch: 74.3457976717
+Epoch: 53, Train Loss: 0.694212239286, Valid Loss: 0.547543010188, Average Time Per Epoch: 74.108099699
+Epoch: 54, Train Loss: 0.715723241595, Valid Loss: 0.522771594851, Average Time Per Epoch: 73.8785720931
+Best loss so far encountered, saving model.
+Epoch: 55, Train Loss: 0.672124197029, Valid Loss: 0.533052075793, Average Time Per Epoch: 73.9943815621
+Epoch: 56, Train Loss: 0.622592919218, Valid Loss: 0.534959731398, Average Time Per Epoch: 73.7747234617
+Epoch: 57, Train Loss: 0.6929543653, Valid Loss: 0.563386409323, Average Time Per Epoch: 73.5585138589
+Epoch: 58, Train Loss: 0.677072051167, Valid Loss: 0.53908570556, Average Time Per Epoch: 73.3511098952
+Epoch: 59, Train Loss: 0.635343167152, Valid Loss: 0.559472248668, Average Time Per Epoch: 73.1525974072
+Epoch: 60, Train Loss: 0.665145564858, Valid Loss: 0.520108174649, Average Time Per Epoch: 72.9617383679
+Best loss so far encountered, saving model.
+Epoch: 61, Train Loss: 0.631555593962, Valid Loss: 0.572259846277, Average Time Per Epoch: 73.0877004764
+Epoch: 62, Train Loss: 0.637288592214, Valid Loss: 0.529752082141, Average Time Per Epoch: 72.8999279661
+Epoch: 63, Train Loss: 0.654832678728, Valid Loss: 0.550945975537, Average Time Per Epoch: 72.7184665392
+Epoch: 64, Train Loss: 0.627204874971, Valid Loss: 0.543178050291, Average Time Per Epoch: 72.5416750163
+Epoch: 65, Train Loss: 0.644568735513, Valid Loss: 0.525913811248, Average Time Per Epoch: 72.3690166143
+Epoch: 66, Train Loss: 0.63653489993, Valid Loss: 0.525006735557, Average Time Per Epoch: 72.2018258174
+Epoch: 67, Train Loss: 0.622119209915, Valid Loss: 0.516515627642, Average Time Per Epoch: 72.0387004169
+Best loss so far encountered, saving model.
+Epoch: 68, Train Loss: 0.640559687093, Valid Loss: 0.932141899827, Average Time Per Epoch: 72.1368213086
+Epoch: 69, Train Loss: 0.580118799819, Valid Loss: 0.527435207071, Average Time Per Epoch: 71.9806966505
+Epoch: 70, Train Loss: 0.574610702287, Valid Loss: 0.513556643823, Average Time Per Epoch: 71.8269931555
+Best loss so far encountered, saving model.
+Epoch: 71, Train Loss: 0.602243221975, Valid Loss: 0.514522651337, Average Time Per Epoch: 71.941481916
+Epoch: 72, Train Loss: 0.584593646635, Valid Loss: 0.523738155559, Average Time Per Epoch: 71.7938513458
+Epoch: 73, Train Loss: 0.601118831235, Valid Loss: 0.525291338281, Average Time Per Epoch: 71.6497531492
+Epoch: 74, Train Loss: 0.582939468019, Valid Loss: 0.553190500796, Average Time Per Epoch: 71.5099114727
+Epoch: 75, Train Loss: 0.602033329586, Valid Loss: 0.538252382207, Average Time Per Epoch: 71.3717851194
+Epoch: 76, Train Loss: 0.593680312383, Valid Loss: 0.532226629355, Average Time Per Epoch: 71.2385379986
+Epoch: 77, Train Loss: 0.594596201791, Valid Loss: 0.523801935952, Average Time Per Epoch: 71.1098377147
+Epoch: 78, Train Loss: 0.593065744029, Valid Loss: 0.51628487376, Average Time Per Epoch: 70.9854073586
+Epoch: 79, Train Loss: 0.57226039073, Valid Loss: 0.530328174623, Average Time Per Epoch: 70.8631635044
+Epoch: 80, Train Loss: 0.603052135726, Valid Loss: 0.517973576796, Average Time Per Epoch: 70.7427724123
+Epoch: 81, Train Loss: 0.585188391703, Valid Loss: 0.522559795757, Average Time Per Epoch: 70.6267282462
+Epoch: 82, Train Loss: 0.573352808404, Valid Loss: 0.511932171504, Average Time Per Epoch: 70.5132248896
+Best loss so far encountered, saving model.
+Epoch: 83, Train Loss: 0.618883428113, Valid Loss: 0.519972394984, Average Time Per Epoch: 70.6557630832
+Epoch: 84, Train Loss: 0.568542108482, Valid Loss: 0.528298202321, Average Time Per Epoch: 70.5433626061
+Epoch: 85, Train Loss: 0.619242084348, Valid Loss: 0.511578004473, Average Time Per Epoch: 70.4327175421
+Best loss so far encountered, saving model.
+Epoch: 86, Train Loss: 0.566597734967, Valid Loss: 0.579132514368, Average Time Per Epoch: 70.5291659416
+Epoch: 87, Train Loss: 0.591130803779, Valid Loss: 0.513558315433, Average Time Per Epoch: 70.4218374943
+Epoch: 88, Train Loss: 0.585759818114, Valid Loss: 0.500810810352, Average Time Per Epoch: 70.3171357946
+Best loss so far encountered, saving model.
+Epoch: 89, Train Loss: 0.578249371153, Valid Loss: 0.508454935169, Average Time Per Epoch: 70.42954192
+Epoch: 90, Train Loss: 0.542886310257, Valid Loss: 0.508770387959, Average Time Per Epoch: 70.3260117001
+Epoch: 91, Train Loss: 0.545215983807, Valid Loss: 0.524657203071, Average Time Per Epoch: 70.2270036818
+Epoch: 92, Train Loss: 0.559026595188, Valid Loss: 0.516577058312, Average Time Per Epoch: 70.1300092495
+Epoch: 93, Train Loss: 0.550313795866, Valid Loss: 0.566502786162, Average Time Per Epoch: 70.0349573217
+Epoch: 94, Train Loss: 0.604562577673, Valid Loss: 0.524383463835, Average Time Per Epoch: 69.9418509565
+Epoch: 95, Train Loss: 0.583966820382, Valid Loss: 0.517127635313, Average Time Per Epoch: 69.8520469364
+Epoch: 96, Train Loss: 0.58363603682, Valid Loss: 0.504127336392, Average Time Per Epoch: 69.7627918944
+Epoch: 97, Train Loss: 0.544271201928, Valid Loss: 0.547506763246, Average Time Per Epoch: 69.6760978133
+Epoch: 98, Train Loss: 0.565694587407, Valid Loss: 0.523482660952, Average Time Per Epoch: 69.590294529
+Epoch: 99, Train Loss: 0.585193978165, Valid Loss: 0.513626315555, Average Time Per Epoch: 69.5070839892
+Epoch: 100, Train Loss: 0.555149246109, Valid Loss: 0.55039874316, Average Time Per Epoch: 69.4270046997
+Epoch: 101, Train Loss: 0.595392766527, Valid Loss: 0.509861827462, Average Time Per Epoch: 69.3471766038
+Epoch: 102, Train Loss: 0.552445678023, Valid Loss: 0.503185270303, Average Time Per Epoch: 69.2690625284
+Epoch: 103, Train Loss: 0.554140552066, Valid Loss: 0.499239952508, Average Time Per Epoch: 69.1889653206
+Best loss so far encountered, saving model.
+Epoch: 104, Train Loss: 0.538522724977, Valid Loss: 0.528659831195, Average Time Per Epoch: 69.3009500962
+Epoch: 105, Train Loss: 0.560645964217, Valid Loss: 0.513616140386, Average Time Per Epoch: 69.2231664385
+Epoch: 106, Train Loss: 0.570793717084, Valid Loss: 0.51873299232, Average Time Per Epoch: 69.1481730196
+Epoch: 107, Train Loss: 0.536764086004, Valid Loss: 0.525677736247, Average Time Per Epoch: 69.0725036158
+Epoch: 108, Train Loss: 0.559376908602, Valid Loss: 0.573590447714, Average Time Per Epoch: 68.9978701009
+Epoch: 109, Train Loss: 0.548574077186, Valid Loss: 0.509223364955, Average Time Per Epoch: 68.9252324957
+Epoch: 110, Train Loss: 0.534465763803, Valid Loss: 0.633486060394, Average Time Per Epoch: 68.8546371352
+Epoch: 111, Train Loss: 0.538376796838, Valid Loss: 0.517173934988, Average Time Per Epoch: 68.787950243
+Epoch: 112, Train Loss: 0.531301649389, Valid Loss: 0.5096428301, Average Time Per Epoch: 68.7236609374
+Epoch: 113, Train Loss: 0.530213348805, Valid Loss: 0.527311682602, Average Time Per Epoch: 68.6576166723
+Epoch: 114, Train Loss: 0.542270379446, Valid Loss: 0.512994697617, Average Time Per Epoch: 68.5928498507
+Epoch: 115, Train Loss: 0.514914763719, Valid Loss: 0.51125213253, Average Time Per Epoch: 68.5305572779
+Epoch: 116, Train Loss: 0.585562994348, Valid Loss: 0.505979688074, Average Time Per Epoch: 68.467324818
+Epoch: 117, Train Loss: 0.534659633582, Valid Loss: 0.564485948083, Average Time Per Epoch: 68.4046184446
+Epoch: 118, Train Loss: 0.538504622233, Valid Loss: 0.63382973382, Average Time Per Epoch: 68.3457794149
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.499239952508
+Found best new model!
+Best Config: Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.499239952508
+Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.1063200845, Valid Loss: 2.16830152797, Average Time Per Epoch: 132.433624029
+Epoch: 2, Train Loss: 2.07923569801, Valid Loss: 2.12866141357, Average Time Per Epoch: 102.921531558
+Epoch: 3, Train Loss: 2.02523632578, Valid Loss: 1.98314407771, Average Time Per Epoch: 92.6975329717
+Epoch: 4, Train Loss: 1.97270114639, Valid Loss: 1.66122408018, Average Time Per Epoch: 87.2266552448
+Epoch: 5, Train Loss: 1.91286381415, Valid Loss: 2.0465708444, Average Time Per Epoch: 83.5782619953
+Valid loss increased for the first time, will start saving models
+Epoch: 6, Train Loss: 1.87562035972, Valid Loss: 1.66959749073, Average Time Per Epoch: 83.424251159
+Epoch: 7, Train Loss: 1.85857832486, Valid Loss: 1.46623676481, Average Time Per Epoch: 80.8294345651
+Best loss so far encountered, saving model.
+Epoch: 8, Train Loss: 1.77558332478, Valid Loss: 1.49483844596, Average Time Per Epoch: 80.9493348897
+Epoch: 9, Train Loss: 1.74213335826, Valid Loss: 1.31167597137, Average Time Per Epoch: 79.0514437887
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.69439248267, Valid Loss: 1.22800603523, Average Time Per Epoch: 79.1995812893
+Best loss so far encountered, saving model.
+Epoch: 11, Train Loss: 1.65046182627, Valid Loss: 1.1723098193, Average Time Per Epoch: 79.2996088158
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.61076484946, Valid Loss: 1.10305538187, Average Time Per Epoch: 79.3413803379
+Best loss so far encountered, saving model.
+Epoch: 13, Train Loss: 1.53253564997, Valid Loss: 1.08835135885, Average Time Per Epoch: 79.3609139186
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.47585766498, Valid Loss: 0.941320965998, Average Time Per Epoch: 79.3944957938
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.41680330295, Valid Loss: 1.08308593829, Average Time Per Epoch: 79.4127484639
+Epoch: 16, Train Loss: 1.41866179156, Valid Loss: 0.89432725131, Average Time Per Epoch: 78.3483294994
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.34522910545, Valid Loss: 0.877209528849, Average Time Per Epoch: 78.4418993557
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 1.33536710265, Valid Loss: 0.839925731653, Average Time Per Epoch: 78.4929623339
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 1.30996506234, Valid Loss: 0.834567255901, Average Time Per Epoch: 78.5335441012
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 1.23368809921, Valid Loss: 0.802930687123, Average Time Per Epoch: 78.5958825469
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 1.22075181366, Valid Loss: 0.78242543645, Average Time Per Epoch: 78.554784718
+Best loss so far encountered, saving model.
+Epoch: 22, Train Loss: 1.19501540268, Valid Loss: 0.735070877062, Average Time Per Epoch: 78.5697391358
+Best loss so far encountered, saving model.
+Epoch: 23, Train Loss: 1.19604809359, Valid Loss: 0.725371155517, Average Time Per Epoch: 78.5909369614
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 1.08853826428, Valid Loss: 0.739251265182, Average Time Per Epoch: 78.6054366231
+Epoch: 25, Train Loss: 1.08569622189, Valid Loss: 0.704318948739, Average Time Per Epoch: 77.9013031197
+Best loss so far encountered, saving model.
+Epoch: 26, Train Loss: 1.09218723957, Valid Loss: 0.652695502816, Average Time Per Epoch: 77.9240225003
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 1.05894953588, Valid Loss: 0.652376327392, Average Time Per Epoch: 77.9566004806
+Best loss so far encountered, saving model.
+Epoch: 28, Train Loss: 1.00342152539, Valid Loss: 0.649687318191, Average Time Per Epoch: 77.9828913893
+Best loss so far encountered, saving model.
+Epoch: 29, Train Loss: 1.00385891538, Valid Loss: 0.633756407893, Average Time Per Epoch: 78.0023211693
+Best loss so far encountered, saving model.
+Epoch: 30, Train Loss: 0.96596344916, Valid Loss: 0.643884162537, Average Time Per Epoch: 78.0364145676
+Epoch: 31, Train Loss: 0.977647541497, Valid Loss: 0.628581807812, Average Time Per Epoch: 77.4886553903
+Best loss so far encountered, saving model.
+Epoch: 32, Train Loss: 0.969471518323, Valid Loss: 0.615716600893, Average Time Per Epoch: 77.549454309
+Best loss so far encountered, saving model.
+Epoch: 33, Train Loss: 0.935082673146, Valid Loss: 0.596913914584, Average Time Per Epoch: 77.5451868158
+Best loss so far encountered, saving model.
+Epoch: 34, Train Loss: 0.915826355903, Valid Loss: 0.582783938721, Average Time Per Epoch: 77.5870403542
+Best loss so far encountered, saving model.
+Epoch: 35, Train Loss: 0.913761888478, Valid Loss: 0.589203686865, Average Time Per Epoch: 77.6332926001
+Epoch: 36, Train Loss: 0.89959182509, Valid Loss: 0.614141775323, Average Time Per Epoch: 77.1713758906
+Epoch: 37, Train Loss: 0.86543441723, Valid Loss: 0.612513441048, Average Time Per Epoch: 76.7296823231
+Epoch: 38, Train Loss: 0.907340246439, Valid Loss: 0.583191655098, Average Time Per Epoch: 76.3079974212
+Epoch: 39, Train Loss: 0.848857484453, Valid Loss: 0.572251132544, Average Time Per Epoch: 75.9062947921
+Best loss so far encountered, saving model.
+Epoch: 40, Train Loss: 0.902004893429, Valid Loss: 0.590648900703, Average Time Per Epoch: 75.9942614734
+Epoch: 41, Train Loss: 0.829087093235, Valid Loss: 0.574647221938, Average Time Per Epoch: 75.6173081689
+Epoch: 42, Train Loss: 0.856125461073, Valid Loss: 0.567870090862, Average Time Per Epoch: 75.2663904031
+Best loss so far encountered, saving model.
+Epoch: 43, Train Loss: 0.840230118449, Valid Loss: 0.575484590668, Average Time Per Epoch: 75.3186866516
+Epoch: 44, Train Loss: 0.836066486653, Valid Loss: 0.552791683591, Average Time Per Epoch: 74.9830602949
+Best loss so far encountered, saving model.
+Epoch: 45, Train Loss: 0.795015651496, Valid Loss: 0.550222453026, Average Time Per Epoch: 75.0744261106
+Best loss so far encountered, saving model.
+Epoch: 46, Train Loss: 0.832647472112, Valid Loss: 0.559431836236, Average Time Per Epoch: 75.1646164345
+Epoch: 47, Train Loss: 0.76951853931, Valid Loss: 0.554898425848, Average Time Per Epoch: 74.8595659986
+Epoch: 48, Train Loss: 0.813429993764, Valid Loss: 0.557096661499, Average Time Per Epoch: 74.5644634565
+Epoch: 49, Train Loss: 0.802749376676, Valid Loss: 0.562641511096, Average Time Per Epoch: 74.2802237151
+Epoch: 50, Train Loss: 0.780221278322, Valid Loss: 0.551898134603, Average Time Per Epoch: 74.0253663206
+Epoch: 51, Train Loss: 0.76581529406, Valid Loss: 0.544617871582, Average Time Per Epoch: 73.7578777659
+Best loss so far encountered, saving model.
+Epoch: 52, Train Loss: 0.807476602461, Valid Loss: 0.553453873545, Average Time Per Epoch: 73.8521577303
+Epoch: 53, Train Loss: 0.750810478729, Valid Loss: 0.555595262538, Average Time Per Epoch: 73.6008328672
+Epoch: 54, Train Loss: 0.73653552671, Valid Loss: 0.549688645232, Average Time Per Epoch: 73.3597325572
+Epoch: 55, Train Loss: 0.7657519117, Valid Loss: 0.549739518315, Average Time Per Epoch: 73.1232908379
+Epoch: 56, Train Loss: 0.735603217916, Valid Loss: 0.585478346361, Average Time Per Epoch: 72.893450141
+Epoch: 57, Train Loss: 0.753291454336, Valid Loss: 0.561063897945, Average Time Per Epoch: 72.6714538942
+Epoch: 58, Train Loss: 0.718287849731, Valid Loss: 0.542179289159, Average Time Per Epoch: 72.4564416367
+Best loss so far encountered, saving model.
+Epoch: 59, Train Loss: 0.719749948619, Valid Loss: 1.19168868536, Average Time Per Epoch: 72.5693813219
+Epoch: 60, Train Loss: 0.745571858402, Valid Loss: 0.543916508039, Average Time Per Epoch: 72.365966483
+Epoch: 61, Train Loss: 0.732141343741, Valid Loss: 0.539099316318, Average Time Per Epoch: 72.169935461
+Best loss so far encountered, saving model.
+Epoch: 62, Train Loss: 0.732669773122, Valid Loss: 0.541371762962, Average Time Per Epoch: 72.2804511286
+Epoch: 63, Train Loss: 0.67605618357, Valid Loss: 0.544207382278, Average Time Per Epoch: 72.0964269033
+Epoch: 64, Train Loss: 0.712191783535, Valid Loss: 0.526937174963, Average Time Per Epoch: 71.9133386388
+Best loss so far encountered, saving model.
+Epoch: 65, Train Loss: 0.69702628492, Valid Loss: 0.534105944848, Average Time Per Epoch: 72.0230779061
+Epoch: 66, Train Loss: 0.709549034251, Valid Loss: 0.537225842284, Average Time Per Epoch: 71.8459055315
+Epoch: 67, Train Loss: 0.676384340633, Valid Loss: 0.547276371946, Average Time Per Epoch: 71.6733987901
+Epoch: 68, Train Loss: 0.701463207907, Valid Loss: 0.530368972923, Average Time Per Epoch: 71.5058705141
+Epoch: 69, Train Loss: 0.678491976688, Valid Loss: 0.540585663825, Average Time Per Epoch: 71.3424817099
+Epoch: 70, Train Loss: 0.678891915591, Valid Loss: 0.528962257835, Average Time Per Epoch: 71.1873764719
+Epoch: 71, Train Loss: 0.700567884371, Valid Loss: 0.53364767742, Average Time Per Epoch: 71.0331793234
+Epoch: 72, Train Loss: 0.681737816131, Valid Loss: 0.545149702508, Average Time Per Epoch: 70.8864760266
+Epoch: 73, Train Loss: 0.66209867197, Valid Loss: 0.527995048438, Average Time Per Epoch: 70.74149056
+Epoch: 74, Train Loss: 0.688262038509, Valid Loss: 0.523125353852, Average Time Per Epoch: 70.5999787305
+Best loss so far encountered, saving model.
+Epoch: 75, Train Loss: 0.694991585511, Valid Loss: 0.522594227145, Average Time Per Epoch: 70.7192676385
+Best loss so far encountered, saving model.
+Epoch: 76, Train Loss: 0.658373486217, Valid Loss: 0.529411042165, Average Time Per Epoch: 70.8095573814
+Epoch: 77, Train Loss: 0.703380176527, Valid Loss: 0.52636090749, Average Time Per Epoch: 70.6716112193
+Epoch: 78, Train Loss: 0.675880494985, Valid Loss: 0.540401555216, Average Time Per Epoch: 70.5380500524
+Epoch: 79, Train Loss: 0.658421727439, Valid Loss: 0.567985582289, Average Time Per Epoch: 70.4067763799
+Epoch: 80, Train Loss: 0.692643039301, Valid Loss: 0.526195717949, Average Time Per Epoch: 70.2799836487
+Epoch: 81, Train Loss: 0.651916112615, Valid Loss: 0.531001353111, Average Time Per Epoch: 70.1560643691
+Epoch: 82, Train Loss: 0.658140588755, Valid Loss: 0.533545060946, Average Time Per Epoch: 70.03477633
+Epoch: 83, Train Loss: 0.680532555858, Valid Loss: 0.524454755622, Average Time Per Epoch: 69.9155240116
+Epoch: 84, Train Loss: 0.656572004611, Valid Loss: 0.521611000353, Average Time Per Epoch: 69.7992172497
+Best loss so far encountered, saving model.
+Epoch: 85, Train Loss: 0.690889038552, Valid Loss: 0.521961428095, Average Time Per Epoch: 69.9093325531
+Epoch: 86, Train Loss: 0.667827866667, Valid Loss: 0.539713991566, Average Time Per Epoch: 69.7960800709
+Epoch: 87, Train Loss: 0.662109245055, Valid Loss: 0.527905863101, Average Time Per Epoch: 69.6850800569
+Epoch: 88, Train Loss: 0.657602939619, Valid Loss: 0.530953413458, Average Time Per Epoch: 69.5768176588
+Epoch: 89, Train Loss: 0.653374458003, Valid Loss: 0.526337997608, Average Time Per Epoch: 69.4745273269
+Epoch: 90, Train Loss: 0.650365921415, Valid Loss: 0.517845454497, Average Time Per Epoch: 69.3709460338
+Best loss so far encountered, saving model.
+Epoch: 91, Train Loss: 0.646864062344, Valid Loss: 0.524256253025, Average Time Per Epoch: 69.4855298027
+Epoch: 92, Train Loss: 0.645883713595, Valid Loss: 0.545484449341, Average Time Per Epoch: 69.3880157056
+Epoch: 93, Train Loss: 0.659656644443, Valid Loss: 0.524789186914, Average Time Per Epoch: 69.2904300536
+Epoch: 94, Train Loss: 0.630596078594, Valid Loss: 0.526571713633, Average Time Per Epoch: 69.1955880206
+Epoch: 95, Train Loss: 0.640688464249, Valid Loss: 0.523022887173, Average Time Per Epoch: 69.1016285896
+Epoch: 96, Train Loss: 0.629386062209, Valid Loss: 0.517865969805, Average Time Per Epoch: 69.0131388331
+Epoch: 97, Train Loss: 0.664533478326, Valid Loss: 0.538598250379, Average Time Per Epoch: 68.9252654842
+Epoch: 98, Train Loss: 0.636825046654, Valid Loss: 0.519986289446, Average Time Per Epoch: 68.8356405205
+Epoch: 99, Train Loss: 0.634726806154, Valid Loss: 0.522984572656, Average Time Per Epoch: 68.7471116263
+Epoch: 100, Train Loss: 0.631808243658, Valid Loss: 0.518349579162, Average Time Per Epoch: 68.6595751905
+Epoch: 101, Train Loss: 0.637458719245, Valid Loss: 0.52419175015, Average Time Per Epoch: 68.5752737735
+Epoch: 102, Train Loss: 0.648883459345, Valid Loss: 0.534449723581, Average Time Per Epoch: 68.494759029
+Epoch: 103, Train Loss: 0.624274431372, Valid Loss: 0.52014745052, Average Time Per Epoch: 68.4158036315
+Epoch: 104, Train Loss: 0.599776064537, Valid Loss: 0.564044959729, Average Time Per Epoch: 68.3389392885
+Epoch: 105, Train Loss: 0.64728495648, Valid Loss: 0.521652510323, Average Time Per Epoch: 68.2629973911
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.517845454497
+Best Config: Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.499239952508
+Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.09633424065, Valid Loss: 2.14710442536, Average Time Per Epoch: 204.54436183
+Epoch: 2, Train Loss: 2.05359020585, Valid Loss: 2.05625308498, Average Time Per Epoch: 162.363289952
+Epoch: 3, Train Loss: 1.99796040072, Valid Loss: 1.92052610281, Average Time Per Epoch: 150.095518271
+Epoch: 4, Train Loss: 1.95300897685, Valid Loss: 1.82095144027, Average Time Per Epoch: 143.44169271
+Epoch: 5, Train Loss: 1.83906417855, Valid Loss: 1.63349070597, Average Time Per Epoch: 138.83028636
+Epoch: 6, Train Loss: 1.7637556962, Valid Loss: 1.36603702901, Average Time Per Epoch: 135.196580966
+Epoch: 7, Train Loss: 1.60019727776, Valid Loss: 1.45778627073, Average Time Per Epoch: 132.290510552
+Valid loss increased for the first time, will start saving models
+Epoch: 8, Train Loss: 1.59132095128, Valid Loss: 1.25146700256, Average Time Per Epoch: 132.839314729
+Best loss so far encountered, saving model.
+Epoch: 9, Train Loss: 1.52373176888, Valid Loss: 1.12214094497, Average Time Per Epoch: 132.554132223
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.49724368148, Valid Loss: 1.08427211528, Average Time Per Epoch: 131.984019494
+Best loss so far encountered, saving model.
+Epoch: 11, Train Loss: 1.39241754494, Valid Loss: 0.996113087137, Average Time Per Epoch: 131.336937254
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.30598931709, Valid Loss: 1.24812114228, Average Time Per Epoch: 130.844125827
+Epoch: 13, Train Loss: 1.31631016643, Valid Loss: 0.949407766332, Average Time Per Epoch: 129.032423001
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.21075026379, Valid Loss: 1.75105222782, Average Time Per Epoch: 128.711515427
+Epoch: 15, Train Loss: 1.15211994255, Valid Loss: 0.79151963891, Average Time Per Epoch: 127.201290989
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.12195094133, Valid Loss: 0.740565214272, Average Time Per Epoch: 126.936043799
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.07901986505, Valid Loss: 0.69833433638, Average Time Per Epoch: 126.567725224
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 1.07685963874, Valid Loss: 0.851721518535, Average Time Per Epoch: 126.401329888
+Epoch: 19, Train Loss: 1.03860675831, Valid Loss: 0.672792625751, Average Time Per Epoch: 125.267018632
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 1.00800120475, Valid Loss: 0.660279176198, Average Time Per Epoch: 125.022972894
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 0.921577817574, Valid Loss: 0.660331029029, Average Time Per Epoch: 124.885008664
+Epoch: 22, Train Loss: 0.874993546375, Valid Loss: 0.629178927056, Average Time Per Epoch: 123.93201686
+Best loss so far encountered, saving model.
+Epoch: 23, Train Loss: 0.845267580246, Valid Loss: 0.600772843974, Average Time Per Epoch: 123.809059993
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 0.920680875941, Valid Loss: 0.650194981605, Average Time Per Epoch: 123.686847577
+Epoch: 25, Train Loss: 0.91100534966, Valid Loss: 0.637380791522, Average Time Per Epoch: 122.852656679
+Epoch: 26, Train Loss: 0.877856366032, Valid Loss: 0.648157241432, Average Time Per Epoch: 122.044565999
+Epoch: 27, Train Loss: 0.829100213437, Valid Loss: 0.621380508353, Average Time Per Epoch: 121.281182475
+Epoch: 28, Train Loss: 0.813739271902, Valid Loss: 0.601217791655, Average Time Per Epoch: 120.554804785
+Epoch: 29, Train Loss: 0.777924218723, Valid Loss: 0.618024059838, Average Time Per Epoch: 119.868506062
+Epoch: 30, Train Loss: 0.777077121626, Valid Loss: 0.604080468419, Average Time Per Epoch: 119.228812067
+Epoch: 31, Train Loss: 0.766108775139, Valid Loss: 0.559390210614, Average Time Per Epoch: 118.620663804
+Best loss so far encountered, saving model.
+Epoch: 32, Train Loss: 0.811114299856, Valid Loss: 0.552388516991, Average Time Per Epoch: 118.561111338
+Best loss so far encountered, saving model.
+Epoch: 33, Train Loss: 0.747492688945, Valid Loss: 0.587598928312, Average Time Per Epoch: 118.527319301
+Epoch: 34, Train Loss: 0.670606003498, Valid Loss: 0.595826312, Average Time Per Epoch: 117.972550147
+Epoch: 35, Train Loss: 0.666981735385, Valid Loss: 0.574085802099, Average Time Per Epoch: 117.450578281
+Epoch: 36, Train Loss: 0.654343495247, Valid Loss: 0.575924844679, Average Time Per Epoch: 116.934669912
+Epoch: 37, Train Loss: 0.660980177434, Valid Loss: 0.591381964079, Average Time Per Epoch: 116.458393
+Epoch: 38, Train Loss: 0.658089894649, Valid Loss: 0.595298419803, Average Time Per Epoch: 115.980888812
+Epoch: 39, Train Loss: 0.680310858447, Valid Loss: 0.559590604166, Average Time Per Epoch: 115.522301277
+Epoch: 40, Train Loss: 0.632548805936, Valid Loss: 0.55368305731, Average Time Per Epoch: 115.068567622
+Epoch: 41, Train Loss: 0.646277357553, Valid Loss: 0.565807983569, Average Time Per Epoch: 114.644378557
+Epoch: 42, Train Loss: 0.635208060762, Valid Loss: 0.551183425543, Average Time Per Epoch: 114.243604257
+Best loss so far encountered, saving model.
+Epoch: 43, Train Loss: 0.640968236276, Valid Loss: 0.528351989584, Average Time Per Epoch: 114.2822723
+Best loss so far encountered, saving model.
+Epoch: 44, Train Loss: 0.635745690306, Valid Loss: 0.574338144487, Average Time Per Epoch: 114.37190511
+Epoch: 45, Train Loss: 0.635779643211, Valid Loss: 0.573708915902, Average Time Per Epoch: 113.999876531
+Epoch: 46, Train Loss: 0.580574646474, Valid Loss: 0.60895192787, Average Time Per Epoch: 113.648786737
+Epoch: 47, Train Loss: 0.573937993615, Valid Loss: 0.534531451114, Average Time Per Epoch: 113.308391018
+Epoch: 48, Train Loss: 0.580146022801, Valid Loss: 0.639804472472, Average Time Per Epoch: 112.973748227
+Epoch: 49, Train Loss: 0.604805430685, Valid Loss: 0.542981738945, Average Time Per Epoch: 112.639355445
+Epoch: 50, Train Loss: 0.556383025748, Valid Loss: 0.547069012275, Average Time Per Epoch: 112.321774216
+Epoch: 51, Train Loss: 0.545097320832, Valid Loss: 0.544944231577, Average Time Per Epoch: 112.007758842
+Epoch: 52, Train Loss: 0.586236431958, Valid Loss: 0.574782220917, Average Time Per Epoch: 111.705426652
+Epoch: 53, Train Loss: 0.538272599266, Valid Loss: 0.53165953818, Average Time Per Epoch: 111.408205262
+Epoch: 54, Train Loss: 0.531809583848, Valid Loss: 0.64596796059, Average Time Per Epoch: 111.131080831
+Epoch: 55, Train Loss: 0.533497516117, Valid Loss: 0.543089317531, Average Time Per Epoch: 110.850002727
+Epoch: 56, Train Loss: 0.559100465053, Valid Loss: 0.515701494717, Average Time Per Epoch: 110.575757427
+Best loss so far encountered, saving model.
+Epoch: 57, Train Loss: 0.491695302683, Valid Loss: 0.539832677074, Average Time Per Epoch: 110.62186728
+Epoch: 58, Train Loss: 0.540109764869, Valid Loss: 0.638923394517, Average Time Per Epoch: 110.379420206
+Epoch: 59, Train Loss: 0.54023322397, Valid Loss: 0.521073549693, Average Time Per Epoch: 110.136026997
+Epoch: 60, Train Loss: 0.499614411999, Valid Loss: 0.533044587717, Average Time Per Epoch: 109.893714833
+Epoch: 61, Train Loss: 0.509623605419, Valid Loss: 0.519572738042, Average Time Per Epoch: 109.650916901
+Epoch: 62, Train Loss: 0.487962912345, Valid Loss: 0.549432639657, Average Time Per Epoch: 109.41889716
+Epoch: 63, Train Loss: 0.496820338629, Valid Loss: 0.547502597665, Average Time Per Epoch: 109.196776523
+Epoch: 64, Train Loss: 0.499706060507, Valid Loss: 0.537189250291, Average Time Per Epoch: 108.97442292
+Epoch: 65, Train Loss: 0.477606413911, Valid Loss: 0.526686364909, Average Time Per Epoch: 108.765425092
+Epoch: 66, Train Loss: 0.540230783837, Valid Loss: 0.559207339426, Average Time Per Epoch: 108.559833725
+Epoch: 67, Train Loss: 0.495817373574, Valid Loss: 0.530914817305, Average Time Per Epoch: 108.362392073
+Epoch: 68, Train Loss: 0.470611856488, Valid Loss: 0.546538066648, Average Time Per Epoch: 108.169181
+Epoch: 69, Train Loss: 0.511649441211, Valid Loss: 0.563733171223, Average Time Per Epoch: 107.976397825
+Epoch: 70, Train Loss: 0.482287306796, Valid Loss: 0.532014944835, Average Time Per Epoch: 107.781503943
+Epoch: 71, Train Loss: 0.445698042383, Valid Loss: 0.55488811593, Average Time Per Epoch: 107.597544563
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.515701494717
+Best Config: Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.499239952508
+Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.11538276347, Valid Loss: 2.16200309992, Average Time Per Epoch: 195.786909819
+Epoch: 2, Train Loss: 2.07089112225, Valid Loss: 2.07501859935, Average Time Per Epoch: 154.698886991
+Epoch: 3, Train Loss: 2.03718598255, Valid Loss: 1.8902098551, Average Time Per Epoch: 140.903202613
+Epoch: 4, Train Loss: 1.95735840852, Valid Loss: 1.79712840915, Average Time Per Epoch: 134.228552222
+Epoch: 5, Train Loss: 1.90192056921, Valid Loss: 1.74067249549, Average Time Per Epoch: 129.547642756
+Epoch: 6, Train Loss: 1.81359259215, Valid Loss: 1.46444628477, Average Time Per Epoch: 126.205577652
+Epoch: 7, Train Loss: 1.76275908839, Valid Loss: 1.5231494006, Average Time Per Epoch: 123.625371116
+Valid loss increased for the first time, will start saving models
+Epoch: 8, Train Loss: 1.68090519045, Valid Loss: 1.32369388026, Average Time Per Epoch: 123.518237621
+Best loss so far encountered, saving model.
+Epoch: 9, Train Loss: 1.62360244888, Valid Loss: 1.26975724001, Average Time Per Epoch: 123.502735774
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.55693992417, Valid Loss: 1.13101984871, Average Time Per Epoch: 123.073730588
+Best loss so far encountered, saving model.
+Epoch: 11, Train Loss: 1.49539536163, Valid Loss: 1.0000677511, Average Time Per Epoch: 122.722724546
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.49333477481, Valid Loss: 1.04932738634, Average Time Per Epoch: 122.372797827
+Epoch: 13, Train Loss: 1.40299899863, Valid Loss: 1.04805265026, Average Time Per Epoch: 120.696942146
+Epoch: 14, Train Loss: 1.39080283696, Valid Loss: 0.872448080185, Average Time Per Epoch: 119.138549209
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.2863846642, Valid Loss: 0.868352654649, Average Time Per Epoch: 118.967746925
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.25648557733, Valid Loss: 0.77665458385, Average Time Per Epoch: 118.643374994
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.14768409404, Valid Loss: 0.81308817641, Average Time Per Epoch: 118.451163811
+Epoch: 18, Train Loss: 1.20270747614, Valid Loss: 0.694222109065, Average Time Per Epoch: 117.253791385
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 1.16203636713, Valid Loss: 0.78280878255, Average Time Per Epoch: 117.059684101
+Epoch: 20, Train Loss: 1.0756763803, Valid Loss: 0.647030500359, Average Time Per Epoch: 115.970324039
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 1.07566426721, Valid Loss: 0.647250921759, Average Time Per Epoch: 115.863438856
+Epoch: 22, Train Loss: 1.02498656257, Valid Loss: 0.655677008265, Average Time Per Epoch: 114.924505451
+Epoch: 23, Train Loss: 1.01571818089, Valid Loss: 0.697751409163, Average Time Per Epoch: 114.024213781
+Epoch: 24, Train Loss: 1.0014019389, Valid Loss: 0.663427462088, Average Time Per Epoch: 113.196918786
+Epoch: 25, Train Loss: 0.92727724439, Valid Loss: 0.618019237833, Average Time Per Epoch: 112.455379877
+Best loss so far encountered, saving model.
+Epoch: 26, Train Loss: 0.941747337072, Valid Loss: 0.59291843516, Average Time Per Epoch: 112.378443415
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 0.915354466506, Valid Loss: 0.607068922793, Average Time Per Epoch: 112.34183292
+Epoch: 28, Train Loss: 0.886669513753, Valid Loss: 0.566565752802, Average Time Per Epoch: 111.684649493
+Best loss so far encountered, saving model.
+Epoch: 29, Train Loss: 0.826761881973, Valid Loss: 0.554332909123, Average Time Per Epoch: 111.696108621
+Best loss so far encountered, saving model.
+Epoch: 30, Train Loss: 0.822801227021, Valid Loss: 0.548803427369, Average Time Per Epoch: 111.704016495
+Best loss so far encountered, saving model.
+Epoch: 31, Train Loss: 0.819365864958, Valid Loss: 0.567842195675, Average Time Per Epoch: 111.711344773
+Epoch: 32, Train Loss: 0.787577634305, Valid Loss: 0.569880994246, Average Time Per Epoch: 111.132162243
+Epoch: 33, Train Loss: 0.805437230793, Valid Loss: 0.556728417704, Average Time Per Epoch: 110.574822303
+Epoch: 34, Train Loss: 0.788146170567, Valid Loss: 0.555434334818, Average Time Per Epoch: 110.029246232
+Epoch: 35, Train Loss: 0.801422762803, Valid Loss: 0.563425717596, Average Time Per Epoch: 109.524592883
+Epoch: 36, Train Loss: 0.772243682295, Valid Loss: 0.545538420559, Average Time Per Epoch: 109.056696746
+Best loss so far encountered, saving model.
+Epoch: 37, Train Loss: 0.743953558599, Valid Loss: 0.545830568162, Average Time Per Epoch: 109.084412781
+Epoch: 38, Train Loss: 0.741124655577, Valid Loss: 0.569799304263, Average Time Per Epoch: 108.636915652
+Epoch: 39, Train Loss: 0.759194547818, Valid Loss: 0.544372325625, Average Time Per Epoch: 108.225968636
+Best loss so far encountered, saving model.
+Epoch: 40, Train Loss: 0.744031215358, Valid Loss: 0.549423768334, Average Time Per Epoch: 108.293364149
+Epoch: 41, Train Loss: 0.752072914487, Valid Loss: 0.571234739571, Average Time Per Epoch: 107.906984922
+Epoch: 42, Train Loss: 0.716335730255, Valid Loss: 0.536060690374, Average Time Per Epoch: 107.537498781
+Best loss so far encountered, saving model.
+Epoch: 43, Train Loss: 0.677443023195, Valid Loss: 0.540565501794, Average Time Per Epoch: 107.589434091
+Epoch: 44, Train Loss: 0.72884418646, Valid Loss: 0.520051736714, Average Time Per Epoch: 107.232444568
+Best loss so far encountered, saving model.
+Epoch: 45, Train Loss: 0.655010559681, Valid Loss: 0.538650184427, Average Time Per Epoch: 107.286692619
+Epoch: 46, Train Loss: 0.711029822413, Valid Loss: 0.540797481374, Average Time Per Epoch: 106.957584542
+Epoch: 47, Train Loss: 0.667986081168, Valid Loss: 0.53119689722, Average Time Per Epoch: 106.636409252
+Epoch: 48, Train Loss: 0.69436491186, Valid Loss: 0.567470032887, Average Time Per Epoch: 106.328670517
+Epoch: 49, Train Loss: 0.643610930172, Valid Loss: 0.537274304863, Average Time Per Epoch: 106.034022365
+Epoch: 50, Train Loss: 0.6535465464, Valid Loss: 0.536096632612, Average Time Per Epoch: 105.737601018
+Epoch: 51, Train Loss: 0.70811537875, Valid Loss: 0.53062370919, Average Time Per Epoch: 105.457073113
+Epoch: 52, Train Loss: 0.693863496794, Valid Loss: 0.554793786411, Average Time Per Epoch: 105.181437557
+Epoch: 53, Train Loss: 0.652814493786, Valid Loss: 0.531937919511, Average Time Per Epoch: 104.908905641
+Epoch: 54, Train Loss: 0.645522581464, Valid Loss: 0.548880734203, Average Time Per Epoch: 104.660969942
+Epoch: 55, Train Loss: 0.664153437723, Valid Loss: 0.528521830857, Average Time Per Epoch: 104.41584467
+Epoch: 56, Train Loss: 0.653684797748, Valid Loss: 0.52414165655, Average Time Per Epoch: 104.178934693
+Epoch: 57, Train Loss: 0.616443683241, Valid Loss: 0.565015761214, Average Time Per Epoch: 104.020863893
+Epoch: 58, Train Loss: 0.620802558552, Valid Loss: 0.530202174372, Average Time Per Epoch: 103.808495756
+Epoch: 59, Train Loss: 0.627337158878, Valid Loss: 0.524070321033, Average Time Per Epoch: 103.588195558
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.520051736714
+Best Config: Num Layers: 2, Hidden Size: 100, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.499239952508
+Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.11592316072, Valid Loss: 2.2085405773, Average Time Per Epoch: 202.154443026
+Epoch: 2, Train Loss: 2.08957526508, Valid Loss: 2.04790451847, Average Time Per Epoch: 159.066212535
+Epoch: 3, Train Loss: 2.06405620087, Valid Loss: 2.38558931083, Average Time Per Epoch: 144.425355355
+Valid loss increased for the first time, will start saving models
+Epoch: 4, Train Loss: 2.02868458439, Valid Loss: 1.92089744564, Average Time Per Epoch: 141.411261261
+Best loss so far encountered, saving model.
+Epoch: 5, Train Loss: 1.96584016003, Valid Loss: 1.63030615132, Average Time Per Epoch: 139.349482203
+Best loss so far encountered, saving model.
+Epoch: 6, Train Loss: 1.89358012324, Valid Loss: 1.7089573227, Average Time Per Epoch: 137.49931248
+Epoch: 7, Train Loss: 1.83909136016, Valid Loss: 1.53974765022, Average Time Per Epoch: 133.650266579
+Best loss so far encountered, saving model.
+Epoch: 8, Train Loss: 1.79977759787, Valid Loss: 1.49472196117, Average Time Per Epoch: 132.631055236
+Best loss so far encountered, saving model.
+Epoch: 9, Train Loss: 1.73256609494, Valid Loss: 1.6209171621, Average Time Per Epoch: 131.631308105
+Epoch: 10, Train Loss: 1.71264355386, Valid Loss: 1.27222977841, Average Time Per Epoch: 128.859314489
+Best loss so far encountered, saving model.
+Epoch: 11, Train Loss: 1.68206505979, Valid Loss: 1.20276445268, Average Time Per Epoch: 128.004397826
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.57829463604, Valid Loss: 1.09322416199, Average Time Per Epoch: 127.105763415
+Best loss so far encountered, saving model.
+Epoch: 13, Train Loss: 1.52477207319, Valid Loss: 1.25138577821, Average Time Per Epoch: 126.352497156
+Epoch: 14, Train Loss: 1.46569944945, Valid Loss: 1.06608904157, Average Time Per Epoch: 124.402235287
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.48263090754, Valid Loss: 0.948261091313, Average Time Per Epoch: 123.81226627
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.39607806795, Valid Loss: 0.933442191298, Average Time Per Epoch: 123.267658561
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.33117201186, Valid Loss: 0.841839397947, Average Time Per Epoch: 122.765426229
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 1.29658548148, Valid Loss: 0.812175039193, Average Time Per Epoch: 122.208111776
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 1.28531821499, Valid Loss: 0.771013475601, Average Time Per Epoch: 121.841120896
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 1.26989481307, Valid Loss: 0.801372190851, Average Time Per Epoch: 121.330876744
+Epoch: 21, Train Loss: 1.17950352017, Valid Loss: 0.720621115632, Average Time Per Epoch: 120.083514804
+Best loss so far encountered, saving model.
+Epoch: 22, Train Loss: 1.15711883462, Valid Loss: 0.701059313782, Average Time Per Epoch: 119.72070759
+Best loss so far encountered, saving model.
+Epoch: 23, Train Loss: 1.11641879952, Valid Loss: 0.656111597105, Average Time Per Epoch: 119.387388561
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 1.12566859604, Valid Loss: 0.653444514126, Average Time Per Epoch: 118.995510628
+Best loss so far encountered, saving model.
+Epoch: 25, Train Loss: 1.05940348282, Valid Loss: 0.631069910751, Average Time Per Epoch: 118.760726957
+Best loss so far encountered, saving model.
+Epoch: 26, Train Loss: 1.06473159468, Valid Loss: 0.649920724006, Average Time Per Epoch: 118.422015841
+Epoch: 27, Train Loss: 1.00542249476, Valid Loss: 0.654135617479, Average Time Per Epoch: 117.480207885
+Epoch: 28, Train Loss: 0.96532425982, Valid Loss: 0.603227147979, Average Time Per Epoch: 116.601577325
+Best loss so far encountered, saving model.
+Epoch: 29, Train Loss: 0.947167545862, Valid Loss: 0.598769667306, Average Time Per Epoch: 116.393036308
+Best loss so far encountered, saving model.
+Epoch: 30, Train Loss: 0.936439471015, Valid Loss: 0.648202885852, Average Time Per Epoch: 116.196977965
+Epoch: 31, Train Loss: 0.921056215973, Valid Loss: 0.644547177272, Average Time Per Epoch: 115.434166093
+Epoch: 32, Train Loss: 0.880109626122, Valid Loss: 0.627450300209, Average Time Per Epoch: 114.714159876
+Epoch: 33, Train Loss: 0.900564621084, Valid Loss: 0.588889329722, Average Time Per Epoch: 114.035617937
+Best loss so far encountered, saving model.
+Epoch: 34, Train Loss: 0.882072614845, Valid Loss: 0.58673675619, Average Time Per Epoch: 113.943138557
+Best loss so far encountered, saving model.
+Epoch: 35, Train Loss: 0.847894618762, Valid Loss: 0.583598915162, Average Time Per Epoch: 113.790427426
+Best loss so far encountered, saving model.
+Epoch: 36, Train Loss: 0.890196357295, Valid Loss: 0.557847150104, Average Time Per Epoch: 113.670851502
+Best loss so far encountered, saving model.
+Epoch: 37, Train Loss: 0.84549066106, Valid Loss: 0.578724491493, Average Time Per Epoch: 113.554555165
+Epoch: 38, Train Loss: 0.833098252592, Valid Loss: 0.560264759701, Average Time Per Epoch: 112.972165365
+Epoch: 39, Train Loss: 0.811345163496, Valid Loss: 0.55422854186, Average Time Per Epoch: 112.414304049
+Best loss so far encountered, saving model.
+Epoch: 40, Train Loss: 0.823951284655, Valid Loss: 0.560677216186, Average Time Per Epoch: 112.341396397
+Epoch: 41, Train Loss: 0.814005841078, Valid Loss: 0.551635178191, Average Time Per Epoch: 111.823230464
+Best loss so far encountered, saving model.
+Epoch: 42, Train Loss: 0.815305005624, Valid Loss: 0.558839702097, Average Time Per Epoch: 111.722453168
+Epoch: 43, Train Loss: 0.822156180475, Valid Loss: 0.53584145208, Average Time Per Epoch: 111.22088256
+Best loss so far encountered, saving model.
+Epoch: 44, Train Loss: 0.747908616235, Valid Loss: 0.58019378826, Average Time Per Epoch: 111.145711341
+Epoch: 45, Train Loss: 0.777673071623, Valid Loss: 0.539829193868, Average Time Per Epoch: 110.677542686
+Epoch: 46, Train Loss: 0.749319385026, Valid Loss: 0.536589971182, Average Time Per Epoch: 110.252176585
+Epoch: 47, Train Loss: 0.747533963147, Valid Loss: 0.541987999338, Average Time Per Epoch: 109.834752681
+Epoch: 48, Train Loss: 0.731596694209, Valid Loss: 0.53897860933, Average Time Per Epoch: 109.436836685
+Epoch: 49, Train Loss: 0.72993023321, Valid Loss: 0.536641572505, Average Time Per Epoch: 109.05829943
+Epoch: 50, Train Loss: 0.720092499087, Valid Loss: 0.534334184759, Average Time Per Epoch: 108.689436798
+Best loss so far encountered, saving model.
+Epoch: 51, Train Loss: 0.712360894104, Valid Loss: 0.52629069192, Average Time Per Epoch: 108.719670805
+Best loss so far encountered, saving model.
+Epoch: 52, Train Loss: 0.701056010174, Valid Loss: 0.611998888147, Average Time Per Epoch: 108.686825711
+Epoch: 53, Train Loss: 0.701414811679, Valid Loss: 0.530785102492, Average Time Per Epoch: 108.32011849
+Epoch: 54, Train Loss: 0.672018753466, Valid Loss: 0.527244871972, Average Time Per Epoch: 107.958913631
+Epoch: 55, Train Loss: 0.674610881338, Valid Loss: 0.529218128356, Average Time Per Epoch: 107.613689999
+Epoch: 56, Train Loss: 0.678485889631, Valid Loss: 0.530415567296, Average Time Per Epoch: 107.28427907
+Epoch: 57, Train Loss: 0.673020435091, Valid Loss: 0.529937288714, Average Time Per Epoch: 106.970646561
+Epoch: 58, Train Loss: 0.675188783624, Valid Loss: 0.52018661104, Average Time Per Epoch: 106.662475516
+Best loss so far encountered, saving model.
+Epoch: 59, Train Loss: 0.698148541051, Valid Loss: 0.536955262518, Average Time Per Epoch: 106.676588442
+Epoch: 60, Train Loss: 0.717511331358, Valid Loss: 0.531199535126, Average Time Per Epoch: 106.379601117
+Epoch: 61, Train Loss: 0.646064873345, Valid Loss: 0.520647855758, Average Time Per Epoch: 106.092624066
+Epoch: 62, Train Loss: 0.666082592952, Valid Loss: 0.534639212148, Average Time Per Epoch: 105.808892242
+Epoch: 63, Train Loss: 0.63661211448, Valid Loss: 0.526661962405, Average Time Per Epoch: 105.5363663
+Epoch: 64, Train Loss: 0.631264552677, Valid Loss: 0.526663130906, Average Time Per Epoch: 105.279020485
+Epoch: 65, Train Loss: 0.630314832892, Valid Loss: 0.528110438301, Average Time Per Epoch: 105.022557215
+Epoch: 66, Train Loss: 0.650603204119, Valid Loss: 0.519615790103, Average Time Per Epoch: 104.769960953
+Best loss so far encountered, saving model.
+Epoch: 67, Train Loss: 0.646507574245, Valid Loss: 0.528184232862, Average Time Per Epoch: 104.810239774
+Epoch: 68, Train Loss: 0.652055706152, Valid Loss: 0.518573370555, Average Time Per Epoch: 104.579464204
+Best loss so far encountered, saving model.
+Epoch: 69, Train Loss: 0.641226134415, Valid Loss: 0.519988586285, Average Time Per Epoch: 104.622398435
+Epoch: 70, Train Loss: 0.642333595048, Valid Loss: 0.516918819126, Average Time Per Epoch: 104.389266685
+Best loss so far encountered, saving model.
+Epoch: 71, Train Loss: 0.645447468995, Valid Loss: 0.537602945094, Average Time Per Epoch: 104.430315649
+Epoch: 72, Train Loss: 0.649524664811, Valid Loss: 0.515316883683, Average Time Per Epoch: 104.200350987
+Best loss so far encountered, saving model.
+Epoch: 73, Train Loss: 0.653979278153, Valid Loss: 0.561484221015, Average Time Per Epoch: 104.21088915
+Epoch: 74, Train Loss: 0.640279413184, Valid Loss: 0.522144187879, Average Time Per Epoch: 103.98684577
+Epoch: 75, Train Loss: 0.632461515645, Valid Loss: 0.51654499131, Average Time Per Epoch: 103.767212426
+Epoch: 76, Train Loss: 0.639135078307, Valid Loss: 0.533210781304, Average Time Per Epoch: 103.551449656
+Epoch: 77, Train Loss: 0.640467719395, Valid Loss: 0.526887887174, Average Time Per Epoch: 103.34194331
+Epoch: 78, Train Loss: 0.611036081714, Valid Loss: 0.531305140959, Average Time Per Epoch: 103.139600998
+Epoch: 79, Train Loss: 0.613516456464, Valid Loss: 0.514298495633, Average Time Per Epoch: 102.945470644
+Best loss so far encountered, saving model.
+Epoch: 80, Train Loss: 0.606363537704, Valid Loss: 0.516250003572, Average Time Per Epoch: 102.9941695
+Epoch: 81, Train Loss: 0.589167009633, Valid Loss: 0.521188311365, Average Time Per Epoch: 102.804722309
+Epoch: 82, Train Loss: 0.597817973725, Valid Loss: 0.511330823566, Average Time Per Epoch: 102.623181145
+Best loss so far encountered, saving model.
+Epoch: 83, Train Loss: 0.608190174028, Valid Loss: 0.507790755512, Average Time Per Epoch: 102.67335541
+Best loss so far encountered, saving model.
+Epoch: 84, Train Loss: 0.617574527555, Valid Loss: 0.517630191736, Average Time Per Epoch: 102.722790332
+Epoch: 85, Train Loss: 0.595595513792, Valid Loss: 0.517713203623, Average Time Per Epoch: 102.543927717
+Epoch: 86, Train Loss: 0.577979353951, Valid Loss: 0.516019878633, Average Time Per Epoch: 102.36906643
+Epoch: 87, Train Loss: 0.584556101398, Valid Loss: 0.505636645969, Average Time Per Epoch: 102.195082527
+Best loss so far encountered, saving model.
+Epoch: 88, Train Loss: 0.602952802215, Valid Loss: 0.602280554562, Average Time Per Epoch: 102.250913569
+Epoch: 89, Train Loss: 0.605624307082, Valid Loss: 0.505985750502, Average Time Per Epoch: 102.088739832
+Epoch: 90, Train Loss: 0.605987542394, Valid Loss: 0.504234168472, Average Time Per Epoch: 101.929411112
+Best loss so far encountered, saving model.
+Epoch: 91, Train Loss: 0.614526097578, Valid Loss: 0.506024044935, Average Time Per Epoch: 101.989986055
+Epoch: 92, Train Loss: 0.581734924154, Valid Loss: 0.51336055149, Average Time Per Epoch: 101.835047553
+Epoch: 93, Train Loss: 0.577437985282, Valid Loss: 0.51205442242, Average Time Per Epoch: 101.683486139
+Epoch: 94, Train Loss: 0.606010532515, Valid Loss: 0.502107631101, Average Time Per Epoch: 101.536088903
+Best loss so far encountered, saving model.
+Epoch: 95, Train Loss: 0.575911000998, Valid Loss: 0.508877181836, Average Time Per Epoch: 101.57785842
+Epoch: 96, Train Loss: 0.578636856953, Valid Loss: 0.512619634093, Average Time Per Epoch: 101.433615165
+Epoch: 97, Train Loss: 0.579588619552, Valid Loss: 0.525531985608, Average Time Per Epoch: 101.288934897
+Epoch: 98, Train Loss: 0.583839559487, Valid Loss: 0.503801672851, Average Time Per Epoch: 101.149350234
+Epoch: 99, Train Loss: 0.589887555824, Valid Loss: 0.510455097727, Average Time Per Epoch: 101.007059808
+Epoch: 100, Train Loss: 0.573949013413, Valid Loss: 0.499187528179, Average Time Per Epoch: 100.873206141
+Best loss so far encountered, saving model.
+Epoch: 101, Train Loss: 0.579616765221, Valid Loss: 0.509676729236, Average Time Per Epoch: 100.952474445
+Epoch: 102, Train Loss: 0.60449124297, Valid Loss: 0.502339850847, Average Time Per Epoch: 100.820839891
+Epoch: 103, Train Loss: 0.565387700227, Valid Loss: 0.52545802265, Average Time Per Epoch: 100.695348457
+Epoch: 104, Train Loss: 0.5869968342, Valid Loss: 0.500457152375, Average Time Per Epoch: 100.570561287
+Epoch: 105, Train Loss: 0.565433158285, Valid Loss: 0.506846004983, Average Time Per Epoch: 100.44858121
+Epoch: 106, Train Loss: 0.565446831286, Valid Loss: 0.504197001664, Average Time Per Epoch: 100.325880725
+Epoch: 107, Train Loss: 0.558305961181, Valid Loss: 0.496878729073, Average Time Per Epoch: 100.208025139
+Best loss so far encountered, saving model.
+Epoch: 108, Train Loss: 0.596947109242, Valid Loss: 0.503980877564, Average Time Per Epoch: 100.258615962
+Epoch: 109, Train Loss: 0.556267488274, Valid Loss: 0.497964682766, Average Time Per Epoch: 100.140049523
+Epoch: 110, Train Loss: 0.545858636465, Valid Loss: 0.515805321866, Average Time Per Epoch: 100.023489837
+Epoch: 111, Train Loss: 0.56090304838, Valid Loss: 0.501659904452, Average Time Per Epoch: 99.9104871449
+Epoch: 112, Train Loss: 0.550454263965, Valid Loss: 0.521096827748, Average Time Per Epoch: 99.8002764817
+Epoch: 113, Train Loss: 0.581731387109, Valid Loss: 0.496441580713, Average Time Per Epoch: 99.690266664
+Best loss so far encountered, saving model.
+Epoch: 114, Train Loss: 0.554168558493, Valid Loss: 0.49866221699, Average Time Per Epoch: 99.7578482544
+Epoch: 115, Train Loss: 0.535356394066, Valid Loss: 0.502528158568, Average Time Per Epoch: 99.6532840604
+Epoch: 116, Train Loss: 0.539713647454, Valid Loss: 0.49240844705, Average Time Per Epoch: 99.5502447835
+Best loss so far encountered, saving model.
+Epoch: 117, Train Loss: 0.569653159177, Valid Loss: 0.501102607761, Average Time Per Epoch: 99.6198186671
+Epoch: 118, Train Loss: 0.552977718548, Valid Loss: 0.504395772641, Average Time Per Epoch: 99.5218069654
+Epoch: 119, Train Loss: 0.536391729624, Valid Loss: 0.509692662039, Average Time Per Epoch: 99.4267656463
+Epoch: 120, Train Loss: 0.548911021176, Valid Loss: 0.505952633099, Average Time Per Epoch: 99.331068484
+Epoch: 121, Train Loss: 0.541515796598, Valid Loss: 0.492022690023, Average Time Per Epoch: 99.2364008427
+Best loss so far encountered, saving model.
+Epoch: 122, Train Loss: 0.540587055531, Valid Loss: 0.495095967131, Average Time Per Epoch: 99.3074288271
+Epoch: 123, Train Loss: 0.546235677194, Valid Loss: 0.504189509817, Average Time Per Epoch: 99.2128338697
+Epoch: 124, Train Loss: 0.552174420418, Valid Loss: 0.503217775822, Average Time Per Epoch: 99.1198932894
+Epoch: 125, Train Loss: 0.554648894427, Valid Loss: 0.504875007603, Average Time Per Epoch: 99.0260285206
+Epoch: 126, Train Loss: 0.563213033669, Valid Loss: 0.501740719796, Average Time Per Epoch: 98.9385943261
+Epoch: 127, Train Loss: 0.549709562619, Valid Loss: 0.492646783445, Average Time Per Epoch: 98.8547895199
+Epoch: 128, Train Loss: 0.558723075265, Valid Loss: 0.496751455102, Average Time Per Epoch: 98.7726237271
+Epoch: 129, Train Loss: 0.537226251157, Valid Loss: 0.482135173917, Average Time Per Epoch: 98.6914264417
+Best loss so far encountered, saving model.
+Epoch: 130, Train Loss: 0.522231323695, Valid Loss: 0.492384970995, Average Time Per Epoch: 98.7625066922
+Epoch: 131, Train Loss: 0.537387961369, Valid Loss: 0.496095946961, Average Time Per Epoch: 98.6777498631
+Epoch: 132, Train Loss: 0.563044368577, Valid Loss: 0.492549756994, Average Time Per Epoch: 98.5946613478
+Epoch: 133, Train Loss: 0.552534836548, Valid Loss: 0.552021876823, Average Time Per Epoch: 98.5146014655
+Epoch: 134, Train Loss: 0.542551859671, Valid Loss: 0.492794650814, Average Time Per Epoch: 98.4360276123
+Epoch: 135, Train Loss: 0.574565368654, Valid Loss: 0.514116915297, Average Time Per Epoch: 98.3573547187
+Epoch: 136, Train Loss: 0.547913822938, Valid Loss: 0.494368971237, Average Time Per Epoch: 98.2806456387
+Epoch: 137, Train Loss: 0.52764908712, Valid Loss: 0.499010077296, Average Time Per Epoch: 98.2060465465
+Epoch: 138, Train Loss: 0.528632653759, Valid Loss: 0.503770089528, Average Time Per Epoch: 98.1339197314
+Epoch: 139, Train Loss: 0.545005012168, Valid Loss: 0.491529280558, Average Time Per Epoch: 98.0634515183
+Epoch: 140, Train Loss: 0.544120699218, Valid Loss: 0.488120182184, Average Time Per Epoch: 97.9961642776
+Epoch: 141, Train Loss: 0.549179729684, Valid Loss: 0.479927231821, Average Time Per Epoch: 97.92662722
+Best loss so far encountered, saving model.
+Epoch: 142, Train Loss: 0.536476935616, Valid Loss: 0.494897251435, Average Time Per Epoch: 98.0010802259
+Epoch: 143, Train Loss: 0.533894682947, Valid Loss: 0.486233964113, Average Time Per Epoch: 97.9292444549
+Epoch: 144, Train Loss: 0.540765185807, Valid Loss: 0.486321329321, Average Time Per Epoch: 97.8607174158
+Epoch: 145, Train Loss: 0.528956666216, Valid Loss: 0.4967767448, Average Time Per Epoch: 97.7930675523
+Epoch: 146, Train Loss: 0.555137989958, Valid Loss: 0.500133777623, Average Time Per Epoch: 97.7255251375
+Epoch: 147, Train Loss: 0.547457342476, Valid Loss: 0.492856253578, Average Time Per Epoch: 97.6577867829
+Epoch: 148, Train Loss: 0.536861863106, Valid Loss: 0.477148121, Average Time Per Epoch: 97.5921584867
+Best loss so far encountered, saving model.
+Epoch: 149, Train Loss: 0.537205470218, Valid Loss: 0.491435308562, Average Time Per Epoch: 97.6667774892
+Config Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.477148121
+Found best new model!
+Best Config: Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.477148121
+Num Layers: 2, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.09497932738, Valid Loss: 2.21657867799, Average Time Per Epoch: 287.718961954
+Epoch: 2, Train Loss: 2.06612414528, Valid Loss: 2.20668501683, Average Time Per Epoch: 229.541647434
+Epoch: 3, Train Loss: 2.04313170693, Valid Loss: 2.01557742073, Average Time Per Epoch: 211.855580012
+Epoch: 4, Train Loss: 1.98033221283, Valid Loss: 1.82544814461, Average Time Per Epoch: 203.658917248
+Epoch: 5, Train Loss: 1.89894752977, Valid Loss: 1.82464666275, Average Time Per Epoch: 198.8261724
+Epoch: 6, Train Loss: 1.85235213177, Valid Loss: 1.48403324856, Average Time Per Epoch: 195.679142674
+Epoch: 7, Train Loss: 1.73666721041, Valid Loss: 1.32278830489, Average Time Per Epoch: 193.07385414
+Epoch: 8, Train Loss: 1.6465477533, Valid Loss: 1.486951387, Average Time Per Epoch: 191.109618604
+Valid loss increased for the first time, will start saving models
+Epoch: 9, Train Loss: 1.5938618026, Valid Loss: 1.21071336153, Average Time Per Epoch: 191.697327534
+Best loss so far encountered, saving model.
+Epoch: 10, Train Loss: 1.44831712558, Valid Loss: 1.35476209299, Average Time Per Epoch: 191.388755488
+Epoch: 11, Train Loss: 1.44197672849, Valid Loss: 1.04393447773, Average Time Per Epoch: 189.269596989
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.34033228789, Valid Loss: 0.918578770253, Average Time Per Epoch: 188.683309237
+Best loss so far encountered, saving model.
+Epoch: 13, Train Loss: 1.33405346125, Valid Loss: 1.20515444261, Average Time Per Epoch: 188.01254808
+Epoch: 14, Train Loss: 1.23406519483, Valid Loss: 0.850925546484, Average Time Per Epoch: 186.130699856
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.27987743504, Valid Loss: 0.935201411705, Average Time Per Epoch: 185.483018589
+Epoch: 16, Train Loss: 1.15159174973, Valid Loss: 0.88172350053, Average Time Per Epoch: 183.752072498
+Epoch: 17, Train Loss: 1.16488392011, Valid Loss: 0.743720682243, Average Time Per Epoch: 182.262515054
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 1.06036395332, Valid Loss: 0.737254365451, Average Time Per Epoch: 181.738089548
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 1.06905584728, Valid Loss: 0.686762706489, Average Time Per Epoch: 181.222879623
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 0.970216703313, Valid Loss: 0.666728434323, Average Time Per Epoch: 180.802957451
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 0.978012129732, Valid Loss: 0.651045351527, Average Time Per Epoch: 180.340614239
+Best loss so far encountered, saving model.
+Epoch: 22, Train Loss: 1.01408930675, Valid Loss: 0.720647975412, Average Time Per Epoch: 179.924536629
+Epoch: 23, Train Loss: 0.902858536623, Valid Loss: 0.651091428426, Average Time Per Epoch: 178.724979826
+Epoch: 24, Train Loss: 0.91978533417, Valid Loss: 0.641592920542, Average Time Per Epoch: 177.596954455
+Best loss so far encountered, saving model.
+Epoch: 25, Train Loss: 0.849869434163, Valid Loss: 0.593985732835, Average Time Per Epoch: 177.267422276
+Best loss so far encountered, saving model.
+Epoch: 26, Train Loss: 0.875406960601, Valid Loss: 0.632765027951, Average Time Per Epoch: 176.940376034
+Epoch: 27, Train Loss: 0.866988809017, Valid Loss: 0.586921205255, Average Time Per Epoch: 175.948561439
+Best loss so far encountered, saving model.
+Epoch: 28, Train Loss: 0.800175961564, Valid Loss: 0.578981483217, Average Time Per Epoch: 175.571277389
+Best loss so far encountered, saving model.
+Epoch: 29, Train Loss: 0.855405626971, Valid Loss: 0.603864493508, Average Time Per Epoch: 175.207077207
+Epoch: 30, Train Loss: 0.801860247078, Valid Loss: 0.63262961852, Average Time Per Epoch: 174.331853167
+Epoch: 31, Train Loss: 0.780987540141, Valid Loss: 0.574131532432, Average Time Per Epoch: 173.438600256
+Best loss so far encountered, saving model.
+Epoch: 32, Train Loss: 0.772747139209, Valid Loss: 0.579741704867, Average Time Per Epoch: 173.158766873
+Epoch: 33, Train Loss: 0.756380243193, Valid Loss: 0.578495019486, Average Time Per Epoch: 172.323599483
+Epoch: 34, Train Loss: 0.703828905066, Valid Loss: 0.574798041252, Average Time Per Epoch: 171.526813262
+Epoch: 35, Train Loss: 0.696445155618, Valid Loss: 0.570517935505, Average Time Per Epoch: 170.771250398
+Best loss so far encountered, saving model.
+Epoch: 36, Train Loss: 0.667193518122, Valid Loss: 0.6224601079, Average Time Per Epoch: 170.530182858
+Epoch: 37, Train Loss: 0.661923660372, Valid Loss: 0.62568021076, Average Time Per Epoch: 169.792865998
+Epoch: 38, Train Loss: 0.672838719426, Valid Loss: 0.560194796195, Average Time Per Epoch: 169.069867893
+Best loss so far encountered, saving model.
+Epoch: 39, Train Loss: 0.646268875372, Valid Loss: 0.576303419455, Average Time Per Epoch: 168.866331021
+Epoch: 40, Train Loss: 0.709198528393, Valid Loss: 0.567982926923, Average Time Per Epoch: 168.209273124
+Epoch: 41, Train Loss: 0.615543418733, Valid Loss: 0.529595238878, Average Time Per Epoch: 167.554729706
+Best loss so far encountered, saving model.
+Epoch: 42, Train Loss: 0.648780163428, Valid Loss: 0.534431131331, Average Time Per Epoch: 167.35661157
+Epoch: 43, Train Loss: 0.625504789468, Valid Loss: 0.548095645568, Average Time Per Epoch: 166.719115651
+Epoch: 44, Train Loss: 0.590100299415, Valid Loss: 0.634458400024, Average Time Per Epoch: 166.119961771
+Epoch: 45, Train Loss: 0.636176720736, Valid Loss: 0.542545363427, Average Time Per Epoch: 165.543631776
+Epoch: 46, Train Loss: 0.608051567372, Valid Loss: 0.540933726789, Average Time Per Epoch: 164.992116389
+Epoch: 47, Train Loss: 0.562530238503, Valid Loss: 0.593333158808, Average Time Per Epoch: 164.474531295
+Epoch: 48, Train Loss: 0.563634213111, Valid Loss: 0.56446509386, Average Time Per Epoch: 163.969854395
+Epoch: 49, Train Loss: 0.55291252905, Valid Loss: 0.5904100443, Average Time Per Epoch: 163.483521447
+Epoch: 50, Train Loss: 0.562506318634, Valid Loss: 0.543821810728, Average Time Per Epoch: 163.006105237
+Epoch: 51, Train Loss: 0.580021718889, Valid Loss: 0.552748665919, Average Time Per Epoch: 162.54208482
+Epoch: 52, Train Loss: 0.57212757817, Valid Loss: 0.620958208194, Average Time Per Epoch: 162.098664518
+Epoch: 53, Train Loss: 0.521425294504, Valid Loss: 0.565756850525, Average Time Per Epoch: 161.68828451
+Epoch: 54, Train Loss: 0.532519561577, Valid Loss: 0.556383516456, Average Time Per Epoch: 161.275608518
+Epoch: 55, Train Loss: 0.505379172457, Valid Loss: 0.565377624839, Average Time Per Epoch: 160.887446399
+Epoch: 56, Train Loss: 0.515548432728, Valid Loss: 0.554335576537, Average Time Per Epoch: 160.499951874
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 2, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 1, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.529595238878
+Best Config: Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.477148121
+Num Layers: 2, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.12024820691, Valid Loss: 2.26228567903, Average Time Per Epoch: 294.337735176
+Epoch: 2, Train Loss: 2.08070090711, Valid Loss: 2.08940575299, Average Time Per Epoch: 236.99970901
+Epoch: 3, Train Loss: 2.05355982957, Valid Loss: 1.94546206585, Average Time Per Epoch: 219.171487013
+Epoch: 4, Train Loss: 2.03180800676, Valid Loss: 1.93541822241, Average Time Per Epoch: 210.618996263
+Epoch: 5, Train Loss: 1.91473220153, Valid Loss: 1.70757435566, Average Time Per Epoch: 204.758981228
+Epoch: 6, Train Loss: 1.89960813807, Valid Loss: 1.57752168896, Average Time Per Epoch: 199.316161672
+Epoch: 7, Train Loss: 1.80125326555, Valid Loss: 1.50492031886, Average Time Per Epoch: 195.292369161
+Epoch: 8, Train Loss: 1.7370654434, Valid Loss: 1.39665519053, Average Time Per Epoch: 191.759778887
+Epoch: 9, Train Loss: 1.66983436874, Valid Loss: 1.16696491058, Average Time Per Epoch: 188.426442782
+Epoch: 10, Train Loss: 1.63556802232, Valid Loss: 1.17868827559, Average Time Per Epoch: 185.581165409
+Valid loss increased for the first time, will start saving models
+Epoch: 11, Train Loss: 1.57365981781, Valid Loss: 1.00404607556, Average Time Per Epoch: 184.532177275
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.46457136646, Valid Loss: 0.987724783046, Average Time Per Epoch: 183.742947598
+Best loss so far encountered, saving model.
+Epoch: 13, Train Loss: 1.46254353442, Valid Loss: 1.02700610266, Average Time Per Epoch: 182.676206075
+Epoch: 14, Train Loss: 1.3667696094, Valid Loss: 0.804336177116, Average Time Per Epoch: 180.340158582
+Best loss so far encountered, saving model.
+Epoch: 15, Train Loss: 1.24184048013, Valid Loss: 0.852295972515, Average Time Per Epoch: 179.46514794
+Epoch: 16, Train Loss: 1.27756094838, Valid Loss: 0.889328997444, Average Time Per Epoch: 177.577833623
+Epoch: 17, Train Loss: 1.1886486892, Valid Loss: 0.737080995252, Average Time Per Epoch: 175.849526181
+Best loss so far encountered, saving model.
+Epoch: 18, Train Loss: 1.16885793019, Valid Loss: 0.674372432568, Average Time Per Epoch: 175.167928166
+Best loss so far encountered, saving model.
+Epoch: 19, Train Loss: 1.08117401549, Valid Loss: 0.712114912863, Average Time Per Epoch: 174.511346579
+Epoch: 20, Train Loss: 1.1021570731, Valid Loss: 0.725556931458, Average Time Per Epoch: 172.991423452
+Epoch: 21, Train Loss: 1.01005163829, Valid Loss: 0.640665549737, Average Time Per Epoch: 171.600618714
+Best loss so far encountered, saving model.
+Epoch: 22, Train Loss: 1.00692178461, Valid Loss: 0.619400526556, Average Time Per Epoch: 171.015915372
+Best loss so far encountered, saving model.
+Epoch: 23, Train Loss: 0.987411722439, Valid Loss: 0.600879944528, Average Time Per Epoch: 170.529338049
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 0.9828975583, Valid Loss: 0.584922130618, Average Time Per Epoch: 170.061628213
+Best loss so far encountered, saving model.
+Epoch: 25, Train Loss: 0.908573151922, Valid Loss: 0.580953478934, Average Time Per Epoch: 169.633471403
+Best loss so far encountered, saving model.
+Epoch: 26, Train Loss: 0.928211222081, Valid Loss: 0.563390290483, Average Time Per Epoch: 169.204254811
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 0.845828101242, Valid Loss: 0.638439881363, Average Time Per Epoch: 168.81380211
+Epoch: 28, Train Loss: 0.856762290136, Valid Loss: 0.564008298297, Average Time Per Epoch: 167.803829287
+Epoch: 29, Train Loss: 0.838517098535, Valid Loss: 0.568691680612, Average Time Per Epoch: 166.837833585
+Epoch: 30, Train Loss: 0.816231860491, Valid Loss: 0.562571690025, Average Time Per Epoch: 165.926464367
+Best loss so far encountered, saving model.
+Epoch: 31, Train Loss: 0.813862825287, Valid Loss: 0.546670728653, Average Time Per Epoch: 165.619921615
+Best loss so far encountered, saving model.
+Epoch: 32, Train Loss: 0.776652861082, Valid Loss: 0.550000919519, Average Time Per Epoch: 165.352468818
+Epoch: 33, Train Loss: 0.781284603206, Valid Loss: 0.541325212801, Average Time Per Epoch: 164.52031064
+Best loss so far encountered, saving model.
+Epoch: 34, Train Loss: 0.729828743298, Valid Loss: 0.536144224898, Average Time Per Epoch: 164.207020416
+Best loss so far encountered, saving model.
+Epoch: 35, Train Loss: 0.790775297819, Valid Loss: 0.547687944304, Average Time Per Epoch: 163.965640313
+Epoch: 36, Train Loss: 0.727949720215, Valid Loss: 0.582611079857, Average Time Per Epoch: 163.215326448
+Epoch: 37, Train Loss: 0.703294120221, Valid Loss: 0.561642166911, Average Time Per Epoch: 162.52120154
+Epoch: 38, Train Loss: 0.73383318494, Valid Loss: 0.578188765287, Average Time Per Epoch: 161.863962318
+Epoch: 39, Train Loss: 0.706873285872, Valid Loss: 0.525693152665, Average Time Per Epoch: 161.224390617
+Best loss so far encountered, saving model.
+Epoch: 40, Train Loss: 0.677795084498, Valid Loss: 0.563437839145, Average Time Per Epoch: 161.074967879
+Epoch: 41, Train Loss: 0.733786825091, Valid Loss: 0.556437529635, Average Time Per Epoch: 160.471231199
+Epoch: 42, Train Loss: 0.663474460488, Valid Loss: 0.575259092678, Average Time Per Epoch: 159.88508598
+Epoch: 43, Train Loss: 0.663872783496, Valid Loss: 0.533670209301, Average Time Per Epoch: 159.340675631
+Epoch: 44, Train Loss: 0.680281256038, Valid Loss: 0.569912633389, Average Time Per Epoch: 158.832872391
+Epoch: 45, Train Loss: 0.660380218618, Valid Loss: 0.536847139457, Average Time Per Epoch: 158.342656491
+Epoch: 46, Train Loss: 0.613154702921, Valid Loss: 0.539181551286, Average Time Per Epoch: 157.865258372
+Epoch: 47, Train Loss: 0.639714666337, Valid Loss: 0.524431054112, Average Time Per Epoch: 157.402032766
+Best loss so far encountered, saving model.
+Epoch: 48, Train Loss: 0.639752004363, Valid Loss: 0.534930804101, Average Time Per Epoch: 157.343955229
+Epoch: 49, Train Loss: 0.621862530708, Valid Loss: 0.533531022898, Average Time Per Epoch: 156.891959166
+Epoch: 50, Train Loss: 0.638601495427, Valid Loss: 0.537771026597, Average Time Per Epoch: 156.459153161
+Epoch: 51, Train Loss: 0.635641146079, Valid Loss: 0.535516888227, Average Time Per Epoch: 156.044187588
+Epoch: 52, Train Loss: 0.609160728346, Valid Loss: 0.519029153787, Average Time Per Epoch: 155.643481021
+Best loss so far encountered, saving model.
+Epoch: 53, Train Loss: 0.608391278051, Valid Loss: 0.516801882423, Average Time Per Epoch: 155.584981792
+Best loss so far encountered, saving model.
+Epoch: 54, Train Loss: 0.5972695945, Valid Loss: 0.513019598588, Average Time Per Epoch: 155.551421651
+Best loss so far encountered, saving model.
+Epoch: 55, Train Loss: 0.625061016157, Valid Loss: 0.526389299694, Average Time Per Epoch: 155.51154242
+Epoch: 56, Train Loss: 0.591348087686, Valid Loss: 0.533345140545, Average Time Per Epoch: 155.139687751
+Epoch: 57, Train Loss: 0.598638042198, Valid Loss: 0.607574496936, Average Time Per Epoch: 154.779527229
+Epoch: 58, Train Loss: 0.63064599767, Valid Loss: 0.547275051604, Average Time Per Epoch: 154.424210174
+Epoch: 59, Train Loss: 0.57798697642, Valid Loss: 0.522922906708, Average Time Per Epoch: 154.072977034
+Epoch: 60, Train Loss: 0.570945035497, Valid Loss: 0.555945589209, Average Time Per Epoch: 153.73456165
+Epoch: 61, Train Loss: 0.594365619936, Valid Loss: 0.526830219905, Average Time Per Epoch: 153.40913218
+Epoch: 62, Train Loss: 0.583198959482, Valid Loss: 0.540467142895, Average Time Per Epoch: 153.098381146
+Epoch: 63, Train Loss: 0.55319526839, Valid Loss: 0.521226156279, Average Time Per Epoch: 152.795927176
+Epoch: 64, Train Loss: 0.549476397918, Valid Loss: 0.522927115585, Average Time Per Epoch: 152.498585828
+Epoch: 65, Train Loss: 0.544785747914, Valid Loss: 0.523179107746, Average Time Per Epoch: 152.208700525
+Epoch: 66, Train Loss: 0.551534412937, Valid Loss: 0.523262028063, Average Time Per Epoch: 151.931755319
+Epoch: 67, Train Loss: 0.603860943019, Valid Loss: 0.508679455951, Average Time Per Epoch: 151.660313492
+Best loss so far encountered, saving model.
+Epoch: 68, Train Loss: 0.543267916532, Valid Loss: 0.514950784283, Average Time Per Epoch: 151.683358841
+Epoch: 69, Train Loss: 0.53675856592, Valid Loss: 0.523351127434, Average Time Per Epoch: 151.428480988
+Epoch: 70, Train Loss: 0.522508530861, Valid Loss: 0.514195676094, Average Time Per Epoch: 151.168046757
+Epoch: 71, Train Loss: 0.510314290226, Valid Loss: 0.518328903782, Average Time Per Epoch: 150.918764833
+Epoch: 72, Train Loss: 0.517918397012, Valid Loss: 0.515449604513, Average Time Per Epoch: 150.684047918
+Epoch: 73, Train Loss: 0.543450370702, Valid Loss: 0.523546988933, Average Time Per Epoch: 150.45575785
+Epoch: 74, Train Loss: 0.510470201719, Valid Loss: 0.531221626533, Average Time Per Epoch: 150.229438595
+Epoch: 75, Train Loss: 0.551007614285, Valid Loss: 0.519959092729, Average Time Per Epoch: 150.006832682
+Epoch: 76, Train Loss: 0.513320356066, Valid Loss: 0.520222413658, Average Time Per Epoch: 149.791966843
+Epoch: 77, Train Loss: 0.526745275797, Valid Loss: 0.516709492342, Average Time Per Epoch: 149.588640585
+Epoch: 78, Train Loss: 0.51740837534, Valid Loss: 0.525638700985, Average Time Per Epoch: 149.39130522
+Epoch: 79, Train Loss: 0.499418201907, Valid Loss: 0.509973988581, Average Time Per Epoch: 149.199606874
+Epoch: 80, Train Loss: 0.478009614975, Valid Loss: 0.516185877485, Average Time Per Epoch: 149.006762287
+Epoch: 81, Train Loss: 0.4996631253, Valid Loss: 0.50953952365, Average Time Per Epoch: 148.815596321
+Epoch: 82, Train Loss: 0.542392105525, Valid Loss: 0.498995417719, Average Time Per Epoch: 148.625441842
+Best loss so far encountered, saving model.
+Epoch: 83, Train Loss: 0.501139024035, Valid Loss: 0.50096752939, Average Time Per Epoch: 148.678885049
+Epoch: 84, Train Loss: 0.482964324172, Valid Loss: 0.52014323954, Average Time Per Epoch: 148.494663011
+Epoch: 85, Train Loss: 0.472632719272, Valid Loss: 0.510834091612, Average Time Per Epoch: 148.31357179
+Epoch: 86, Train Loss: 0.469678385336, Valid Loss: 0.516009172846, Average Time Per Epoch: 148.143395549
+Epoch: 87, Train Loss: 0.455185938034, Valid Loss: 0.513762049756, Average Time Per Epoch: 147.97801992
+Epoch: 88, Train Loss: 0.477758753384, Valid Loss: 0.5079882977, Average Time Per Epoch: 147.817025477
+Epoch: 89, Train Loss: 0.477330636724, Valid Loss: 0.508619845832, Average Time Per Epoch: 147.66104609
+Epoch: 90, Train Loss: 0.477417183549, Valid Loss: 0.510631894113, Average Time Per Epoch: 147.502739557
+Epoch: 91, Train Loss: 0.446778546274, Valid Loss: 0.525474988067, Average Time Per Epoch: 147.349539529
+Epoch: 92, Train Loss: 0.456670823168, Valid Loss: 0.511119341284, Average Time Per Epoch: 147.195907251
+Epoch: 93, Train Loss: 0.452978595126, Valid Loss: 0.503731768788, Average Time Per Epoch: 147.0437737
+Epoch: 94, Train Loss: 0.473172334768, Valid Loss: 0.507166300329, Average Time Per Epoch: 146.890422192
+Epoch: 95, Train Loss: 0.437381194295, Valid Loss: 0.520893102904, Average Time Per Epoch: 146.742604454
+Epoch: 96, Train Loss: 0.441376413303, Valid Loss: 0.510287674342, Average Time Per Epoch: 146.601736387
+Epoch: 97, Train Loss: 0.435414203341, Valid Loss: 0.49703326608, Average Time Per Epoch: 146.465922948
+Best loss so far encountered, saving model.
+Epoch: 98, Train Loss: 0.441491470621, Valid Loss: 0.504498036116, Average Time Per Epoch: 146.506557747
+Epoch: 99, Train Loss: 0.446496762505, Valid Loss: 0.513246947271, Average Time Per Epoch: 146.368790133
+Epoch: 100, Train Loss: 0.463335096311, Valid Loss: 0.533891235332, Average Time Per Epoch: 146.236656802
+Epoch: 101, Train Loss: 0.435782336461, Valid Loss: 0.526014780813, Average Time Per Epoch: 146.107581774
+Epoch: 102, Train Loss: 0.437082247521, Valid Loss: 0.516816680923, Average Time Per Epoch: 145.97798606
+Epoch: 103, Train Loss: 0.45450830424, Valid Loss: 0.506076938901, Average Time Per Epoch: 145.853184758
+Epoch: 104, Train Loss: 0.449568209425, Valid Loss: 0.519880805613, Average Time Per Epoch: 145.733177348
+Epoch: 105, Train Loss: 0.426864655333, Valid Loss: 0.507795653487, Average Time Per Epoch: 145.615925821
+Epoch: 106, Train Loss: 0.439709805613, Valid Loss: 0.509438206996, Average Time Per Epoch: 145.500227982
+Epoch: 107, Train Loss: 0.426183272746, Valid Loss: 0.569833899838, Average Time Per Epoch: 145.393915852
+Epoch: 108, Train Loss: 0.457022632896, Valid Loss: 0.526661740728, Average Time Per Epoch: 145.286273824
+Epoch: 109, Train Loss: 0.42960615473, Valid Loss: 0.52773329369, Average Time Per Epoch: 145.177244147
+Epoch: 110, Train Loss: 0.451916188188, Valid Loss: 0.530963524941, Average Time Per Epoch: 145.066298637
+Epoch: 111, Train Loss: 0.445008017174, Valid Loss: 0.503434761887, Average Time Per Epoch: 144.959991073
+Epoch: 112, Train Loss: 0.405297788266, Valid Loss: 0.527958005194, Average Time Per Epoch: 144.86012267
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 2, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.75, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.49703326608
+Best Config: Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.477148121
+Num Layers: 2, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5
+Epoch: 1, Train Loss: 2.11267788898, Valid Loss: 2.21383637328, Average Time Per Epoch: 289.004227877
+Epoch: 2, Train Loss: 2.08937836344, Valid Loss: 2.11904607465, Average Time Per Epoch: 232.243698478
+Epoch: 3, Train Loss: 2.05866023438, Valid Loss: 1.96294232334, Average Time Per Epoch: 213.970611652
+Epoch: 4, Train Loss: 1.98244828961, Valid Loss: 1.87969105663, Average Time Per Epoch: 203.967608511
+Epoch: 5, Train Loss: 1.96435157467, Valid Loss: 1.7617440145, Average Time Per Epoch: 197.510691977
+Epoch: 6, Train Loss: 1.90817945708, Valid Loss: 1.64068938668, Average Time Per Epoch: 192.498822848
+Epoch: 7, Train Loss: 1.84019885998, Valid Loss: 1.50149886334, Average Time Per Epoch: 188.762223584
+Epoch: 8, Train Loss: 1.78012867177, Valid Loss: 1.32347433504, Average Time Per Epoch: 185.532650739
+Epoch: 9, Train Loss: 1.73550817045, Valid Loss: 1.28367150816, Average Time Per Epoch: 182.717683448
+Epoch: 10, Train Loss: 1.68793469904, Valid Loss: 1.6643319757, Average Time Per Epoch: 180.221420407
+Valid loss increased for the first time, will start saving models
+Epoch: 11, Train Loss: 1.57701894079, Valid Loss: 1.12816805315, Average Time Per Epoch: 179.572802544
+Best loss so far encountered, saving model.
+Epoch: 12, Train Loss: 1.58759455274, Valid Loss: 1.77589908986, Average Time Per Epoch: 178.374577582
+Epoch: 13, Train Loss: 1.48908353461, Valid Loss: 1.04999382139, Average Time Per Epoch: 176.027514073
+Best loss so far encountered, saving model.
+Epoch: 14, Train Loss: 1.42746986591, Valid Loss: 1.69592901635, Average Time Per Epoch: 175.274650642
+Epoch: 15, Train Loss: 1.44370085475, Valid Loss: 0.934442181571, Average Time Per Epoch: 173.367902533
+Best loss so far encountered, saving model.
+Epoch: 16, Train Loss: 1.33459578197, Valid Loss: 0.848796015053, Average Time Per Epoch: 172.795401499
+Best loss so far encountered, saving model.
+Epoch: 17, Train Loss: 1.29752714031, Valid Loss: 0.892097037092, Average Time Per Epoch: 172.248493699
+Epoch: 18, Train Loss: 1.25152569704, Valid Loss: 0.873004344417, Average Time Per Epoch: 170.663338661
+Epoch: 19, Train Loss: 1.17920952385, Valid Loss: 0.834080673806, Average Time Per Epoch: 169.179328843
+Best loss so far encountered, saving model.
+Epoch: 20, Train Loss: 1.1495231177, Valid Loss: 0.745140642141, Average Time Per Epoch: 168.645425594
+Best loss so far encountered, saving model.
+Epoch: 21, Train Loss: 1.1167496707, Valid Loss: 0.762222955139, Average Time Per Epoch: 168.336862905
+Epoch: 22, Train Loss: 1.06842046302, Valid Loss: 0.732425082791, Average Time Per Epoch: 167.151190411
+Best loss so far encountered, saving model.
+Epoch: 23, Train Loss: 1.11869486181, Valid Loss: 0.645184962844, Average Time Per Epoch: 166.818788736
+Best loss so far encountered, saving model.
+Epoch: 24, Train Loss: 1.04987698661, Valid Loss: 0.654034456413, Average Time Per Epoch: 166.424783001
+Epoch: 25, Train Loss: 1.05843165947, Valid Loss: 0.688025130286, Average Time Per Epoch: 165.397196321
+Epoch: 26, Train Loss: 1.0032731781, Valid Loss: 0.638974972691, Average Time Per Epoch: 164.467612157
+Best loss so far encountered, saving model.
+Epoch: 27, Train Loss: 1.02748021362, Valid Loss: 0.594902786441, Average Time Per Epoch: 164.242121961
+Best loss so far encountered, saving model.
+Epoch: 28, Train Loss: 0.935206625915, Valid Loss: 0.604034372011, Average Time Per Epoch: 164.099275819
+Epoch: 29, Train Loss: 0.964520799978, Valid Loss: 0.607948825072, Average Time Per Epoch: 163.269798895
+Epoch: 30, Train Loss: 0.906083927541, Valid Loss: 0.591888365794, Average Time Per Epoch: 162.458750868
+Best loss so far encountered, saving model.
+Epoch: 31, Train Loss: 0.90115239881, Valid Loss: 0.602363001225, Average Time Per Epoch: 162.228775163
+Epoch: 32, Train Loss: 0.849164126847, Valid Loss: 0.58336779764, Average Time Per Epoch: 161.49159047
+Best loss so far encountered, saving model.
+Epoch: 33, Train Loss: 0.876166734574, Valid Loss: 0.56839656717, Average Time Per Epoch: 161.345443119
+Best loss so far encountered, saving model.
+Epoch: 34, Train Loss: 0.854846729101, Valid Loss: 0.583395896401, Average Time Per Epoch: 161.236121472
+Epoch: 35, Train Loss: 0.880934283341, Valid Loss: 0.570629161771, Average Time Per Epoch: 160.586270455
+Epoch: 36, Train Loss: 0.859568479759, Valid Loss: 0.572896316906, Average Time Per Epoch: 159.977934168
+Epoch: 37, Train Loss: 0.817601693151, Valid Loss: 0.556959948114, Average Time Per Epoch: 159.407238786
+Best loss so far encountered, saving model.
+Epoch: 38, Train Loss: 0.818222693286, Valid Loss: 0.562627124743, Average Time Per Epoch: 159.290768103
+Epoch: 39, Train Loss: 0.777045024627, Valid Loss: 0.560630936018, Average Time Per Epoch: 158.724595742
+Epoch: 40, Train Loss: 0.777579263564, Valid Loss: 0.573648555462, Average Time Per Epoch: 158.182617825
+Epoch: 41, Train Loss: 0.773397872224, Valid Loss: 0.55607699524, Average Time Per Epoch: 157.660684097
+Best loss so far encountered, saving model.
+Epoch: 42, Train Loss: 0.762124871022, Valid Loss: 0.54521970571, Average Time Per Epoch: 157.633265546
+Best loss so far encountered, saving model.
+Epoch: 43, Train Loss: 0.757681444389, Valid Loss: 0.6228096742, Average Time Per Epoch: 157.540944044
+Epoch: 44, Train Loss: 0.812096702003, Valid Loss: 0.548710346545, Average Time Per Epoch: 157.054248815
+Epoch: 45, Train Loss: 0.730127064579, Valid Loss: 0.545306302505, Average Time Per Epoch: 156.586252043
+Epoch: 46, Train Loss: 0.711761173504, Valid Loss: 0.541838434288, Average Time Per Epoch: 156.139020718
+Best loss so far encountered, saving model.
+Epoch: 47, Train Loss: 0.740443720804, Valid Loss: 0.591825840484, Average Time Per Epoch: 156.079584512
+Epoch: 48, Train Loss: 0.727458811721, Valid Loss: 0.54637608383, Average Time Per Epoch: 155.658905228
+Epoch: 49, Train Loss: 0.736644640159, Valid Loss: 0.571360938464, Average Time Per Epoch: 155.251864696
+Epoch: 50, Train Loss: 0.696561218798, Valid Loss: 0.567657542814, Average Time Per Epoch: 154.87877748
+Epoch: 51, Train Loss: 0.679532667012, Valid Loss: 0.535125037519, Average Time Per Epoch: 154.519824098
+Best loss so far encountered, saving model.
+Epoch: 52, Train Loss: 0.701131266186, Valid Loss: 0.534272517137, Average Time Per Epoch: 154.516172019
+Best loss so far encountered, saving model.
+Epoch: 53, Train Loss: 0.671345697851, Valid Loss: 0.570510627595, Average Time Per Epoch: 154.524134074
+Epoch: 54, Train Loss: 0.668036571145, Valid Loss: 0.539291206043, Average Time Per Epoch: 154.188614664
+Epoch: 55, Train Loss: 0.657518715547, Valid Loss: 0.530909224464, Average Time Per Epoch: 153.855029475
+Best loss so far encountered, saving model.
+Epoch: 56, Train Loss: 0.665929699181, Valid Loss: 0.562799653204, Average Time Per Epoch: 153.862432927
+Epoch: 57, Train Loss: 0.665821189196, Valid Loss: 0.58079898059, Average Time Per Epoch: 153.534840948
+Epoch: 58, Train Loss: 0.667337653109, Valid Loss: 0.566259837692, Average Time Per Epoch: 153.233091153
+Epoch: 59, Train Loss: 0.647225174646, Valid Loss: 0.5649363082, Average Time Per Epoch: 152.946445489
+Epoch: 60, Train Loss: 0.634621806951, Valid Loss: 0.534299291196, Average Time Per Epoch: 152.663127017
+Epoch: 61, Train Loss: 0.629678762061, Valid Loss: 0.52776284503, Average Time Per Epoch: 152.380826985
+Best loss so far encountered, saving model.
+Epoch: 62, Train Loss: 0.65292557312, Valid Loss: 0.529756105169, Average Time Per Epoch: 152.382612355
+Epoch: 63, Train Loss: 0.626495287127, Valid Loss: 0.517632169791, Average Time Per Epoch: 152.110010635
+Best loss so far encountered, saving model.
+Epoch: 64, Train Loss: 0.619699751924, Valid Loss: 0.633249774536, Average Time Per Epoch: 152.144933015
+Epoch: 65, Train Loss: 0.640091836385, Valid Loss: 0.529393591247, Average Time Per Epoch: 151.885347862
+Epoch: 66, Train Loss: 0.595437393744, Valid Loss: 0.51863076915, Average Time Per Epoch: 151.615265362
+Epoch: 67, Train Loss: 0.634491662309, Valid Loss: 0.52401978358, Average Time Per Epoch: 151.34918073
+Epoch: 68, Train Loss: 0.604594977505, Valid Loss: 0.515005780208, Average Time Per Epoch: 151.09899219
+Best loss so far encountered, saving model.
+Epoch: 69, Train Loss: 0.598131802001, Valid Loss: 0.510485364804, Average Time Per Epoch: 151.13662613
+Best loss so far encountered, saving model.
+Epoch: 70, Train Loss: 0.623941791142, Valid Loss: 0.519443420656, Average Time Per Epoch: 151.159763285
+Epoch: 71, Train Loss: 0.656562237645, Valid Loss: 0.523929177313, Average Time Per Epoch: 150.919093028
+Epoch: 72, Train Loss: 0.605055012723, Valid Loss: 0.564576545769, Average Time Per Epoch: 150.676015612
+Epoch: 73, Train Loss: 0.618964784423, Valid Loss: 0.513730580953, Average Time Per Epoch: 150.445406617
+Epoch: 74, Train Loss: 0.597120154039, Valid Loss: 0.544423819802, Average Time Per Epoch: 150.224782634
+Epoch: 75, Train Loss: 0.605001247793, Valid Loss: 0.508582507108, Average Time Per Epoch: 150.014926999
+Best loss so far encountered, saving model.
+Epoch: 76, Train Loss: 0.574899858981, Valid Loss: 0.522095618939, Average Time Per Epoch: 150.055650658
+Epoch: 77, Train Loss: 0.596602316946, Valid Loss: 0.503417227436, Average Time Per Epoch: 149.846924144
+Best loss so far encountered, saving model.
+Epoch: 78, Train Loss: 0.562161933207, Valid Loss: 0.509639952704, Average Time Per Epoch: 149.887202089
+Epoch: 79, Train Loss: 0.57351754621, Valid Loss: 0.553339456399, Average Time Per Epoch: 149.674127506
+Epoch: 80, Train Loss: 0.578806655888, Valid Loss: 0.504018271391, Average Time Per Epoch: 149.469307461
+Epoch: 81, Train Loss: 0.565728524564, Valid Loss: 0.525329431523, Average Time Per Epoch: 149.264825989
+Epoch: 82, Train Loss: 0.568535945192, Valid Loss: 0.517728239256, Average Time Per Epoch: 149.060673903
+Epoch: 83, Train Loss: 0.573591783236, Valid Loss: 0.509238432201, Average Time Per Epoch: 148.857077771
+Epoch: 84, Train Loss: 0.55403535405, Valid Loss: 0.520689548884, Average Time Per Epoch: 148.663070821
+Epoch: 85, Train Loss: 0.559341863187, Valid Loss: 0.49853077496, Average Time Per Epoch: 148.474175389
+Best loss so far encountered, saving model.
+Epoch: 86, Train Loss: 0.573202654161, Valid Loss: 0.513937487136, Average Time Per Epoch: 148.490712779
+Epoch: 87, Train Loss: 0.561185569418, Valid Loss: 0.518518821, Average Time Per Epoch: 148.305479817
+Epoch: 88, Train Loss: 0.549483949928, Valid Loss: 0.509691868924, Average Time Per Epoch: 148.123808614
+Epoch: 89, Train Loss: 0.55591845465, Valid Loss: 0.515617501715, Average Time Per Epoch: 147.939432235
+Epoch: 90, Train Loss: 0.566827198491, Valid Loss: 0.490905037249, Average Time Per Epoch: 147.766007445
+Best loss so far encountered, saving model.
+Epoch: 91, Train Loss: 0.549350068786, Valid Loss: 0.514125974676, Average Time Per Epoch: 147.806232023
+Epoch: 92, Train Loss: 0.529283062707, Valid Loss: 0.50588115851, Average Time Per Epoch: 147.634431914
+Epoch: 93, Train Loss: 0.547986517203, Valid Loss: 0.513064134767, Average Time Per Epoch: 147.463782364
+Epoch: 94, Train Loss: 0.547906868109, Valid Loss: 0.49136229698, Average Time Per Epoch: 147.297679437
+Epoch: 95, Train Loss: 0.558522400192, Valid Loss: 0.501601708851, Average Time Per Epoch: 147.134030759
+Epoch: 96, Train Loss: 0.546556290002, Valid Loss: 0.533693937003, Average Time Per Epoch: 146.980659584
+Epoch: 97, Train Loss: 0.532454051162, Valid Loss: 0.52040716233, Average Time Per Epoch: 146.823986206
+Epoch: 98, Train Loss: 0.534749363989, Valid Loss: 0.504846813583, Average Time Per Epoch: 146.671456551
+Epoch: 99, Train Loss: 0.537782603299, Valid Loss: 0.519928422694, Average Time Per Epoch: 146.517839829
+Epoch: 100, Train Loss: 0.538463997875, Valid Loss: 0.520406025231, Average Time Per Epoch: 146.37532706
+Epoch: 101, Train Loss: 0.543591071818, Valid Loss: 0.494111223864, Average Time Per Epoch: 146.233780663
+Epoch: 102, Train Loss: 0.526004717753, Valid Loss: 0.509217183138, Average Time Per Epoch: 146.095823295
+Epoch: 103, Train Loss: 0.546952297826, Valid Loss: 0.501784092307, Average Time Per Epoch: 145.957087427
+Epoch: 104, Train Loss: 0.517586225457, Valid Loss: 0.532212331754, Average Time Per Epoch: 145.825371222
+Epoch: 105, Train Loss: 0.531269199215, Valid Loss: 0.513018940343, Average Time Per Epoch: 145.690104609
+Valid loss hasnt improved for 15 epochs. Exiting ....
+Config Num Layers: 2, Hidden Size: 200, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.490905037249
+Best Config: Num Layers: 2, Hidden Size: 150, Melody Coeff: 0.5, Dropout Prob: 0.5, Input Dropout Prob: 1, Cell Type: LSTM, Time Batch Len: 128, Learning Rate: 0.005, Decay: 0.5, Loss: 0.477148121
