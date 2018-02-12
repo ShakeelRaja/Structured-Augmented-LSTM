@@ -2,7 +2,9 @@
 StructLSTM - Structure augmented Long-Short Term Memory Networks for Music Generation. The code splits the complete process into three sections for sake of understanding and simplicity. Precprocessing, Training and Generation. These sections must be run separately at this stage according to instructions provided below and in the code itself. The code base is gheavily inspired by the dual softmax model developed by Yoav Zimmerman at http://yoavz.com/music_rnn/. The code uses this model as a base model with few changes in preprocessing. StructLSTM is created by augmenting extra durational and metrical information to this model to monitor the improvements. A detailed report on the experiment will be made available soon. 
 
 
-by Shakeel Raja
+Shakeel Raja
+
+shakeelraja@hotmail.com
 
 ## REQUIREMENTS:
 ### Python 2.7
