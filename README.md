@@ -7,6 +7,8 @@ Shakeel Raja
 shakeelraja@hotmail.com
 
 ## REQUIREMENTS:
+The code base has been developed and modified on a linux platform. Following libraries are needed in order to run the code. 
+
 ### Python 2.7
 
 ### TensorFlow 0.8 CPU
