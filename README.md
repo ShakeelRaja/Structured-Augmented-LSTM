@@ -39,7 +39,7 @@ parses the MIDI dataset (a subset of data is included in the data folder), optio
 
 ### train.py
 
-batches data according to given parameters and performs training and testing. Load the preprocessed dataset generated in preprocess.py. Based on flas set in preprocess.py, the code will zero pad the sequences to make them a multiple of 128 required for minibatching in tensorflow. Number of features augmented must be removed from labels. (Batch_data function allows removal of augmented features , see code for details). This file allows you to set grid search parameter values to automatically set up combinations, run each model defined by grid ans save the best model for each set of parameters used i.e. a 10 combintaion grid will generate 10 models with a training.txt file identifying loss information for each run. a png image of loss curves is also saved in each run along with a config file. (**note** edit model.py a to identify number of features in the model output. set output_dim to (input_dim -<number ofaugmented features>) 
+batches data according to given parameters and performs training and testing. Load the preprocessed dataset generated in preprocess.py. Based on flas set in preprocess.py, the code will zero pad the sequences to make them a multiple of 128 required for minibatching in tensorflow. Number of features augmented must be removed from labels. (Batch_data function allows removal of augmented features , see code for details). This file allows you to set grid search parameter values to automatically set up combinations, run each model defined by grid ans save the best model for each set of parameters used i.e. a 10 combintaion grid will generate 10 models with a training.txt file identifying loss information for each run. a png image of loss curves is also saved in each run along with a config file. (**note** edit model.py a to identify number of features in the model output. set output_dim to (input_dim - n , where n in number of augmented features) 
 
 ### model.py
 
@@ -47,7 +47,7 @@ contains the model class. Deafult is LSTM RNN. CAn be changed by setting model p
 
 ### composer_structLSTM.py
 
-takes in the config file from saved models and generates new sequences. Other composer files may be used to  generate from the baseline model and counter integration only. All the code from these intermediary composer files has been presented in strctLSTM composer, with comments. Identify the config file created by train.py along with the dataset that model was trained on. set umber of iterations and structural information will be calculated and augmented with each run during the conditioning and sampling stages. The output generated is saved as a MIDI file. (**note** edit model.py a to identify number of features in the model output. set output_dim to (input_dim -<number ofaugmented features>) 
+takes in the config file from saved models and generates new sequences. Other composer files may be used to  generate from the baseline model and counter integration only. All the code from these intermediary composer files has been presented in strctLSTM composer, with comments. Identify the config file created by train.py along with the dataset that model was trained on. set umber of iterations and structural information will be calculated and augmented with each run during the conditioning and sampling stages. The output generated is saved as a MIDI file. (**note** edit model.py a to identify number of features in the model output. set output_dim to (input_dim - n , where n in number of augmented features) 
 
 
 
