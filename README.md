@@ -1,5 +1,7 @@
 # StructLSTM
-StructLSTM - Structure augmented Long-Short Term Memory Networks for Music Generation 
+StructLSTM - Structure augmented Long-Short Term Memory Networks for Music Generation. The code splits the complete process into three sections for sake of understanding and simplicity. Precprocessing, Training and Generation. These sections must be run separately at this stage according to instructions provided below and in the code itself. 
+
+
 by Shakeel Raja
 
 ## REQUIREMENTS:
